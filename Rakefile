@@ -1,0 +1,1 @@
+require 'sinatra-s3/tasks'
