@@ -1,3 +1,4 @@
+gem install sinatra-s3 wikicloth
 rake db:migrate
 rake db:setup_wiki
 rackup config.ru -p 6060
