@@ -97,9 +97,9 @@ __END__
   %head
     %title #{@title}
     %style{:type => "text/css"} @import '/control/s/css/control.css';
-    %style{:type => "text/css"} @import '/control/s/css/wiki.css';
+    %style{:type => "text/css"} @import '/wiki.css';
     %script{ :type => "text/javascript", :language => "JavaScript", :src => "/control/s/js/prototype.js" }
-    %script{ :type => "text/javascript", :language => "JavaScript", :src => "/control/s/js/wiki.js" }
+    %script{ :type => "text/javascript", :language => "JavaScript", :src => "/wiki.js" }
   %body
     %div#header
       %h1
