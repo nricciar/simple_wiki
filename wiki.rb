@@ -86,7 +86,7 @@ class WikiParser < WikiCloth::Parser
   template do |template|
     begin
       bucket = Bucket.find_root('templates')
-      slot = bucket.find_slot(template.strip.gsub(/\s+/,'_'))
+      slot = bucket.find_slot(template.to_s.strip.gsub(/\s+/,'_'))
       slot.nil? ? nil : File.read(File.join(S3::STORAGE_PATH, slot.obj.path))
     rescue S3::NoSuchKey
       nil
