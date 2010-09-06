@@ -1,3 +1,4 @@
+#toc { width: 250px }
 .exlink { padding-right:15px;background:transparent url(/control/s/images/external-link.gif) no-repeat center right }
 #title { text-decoration:none;font-weight:bold;color:#000 }
 .thumb { background-color:#F8FCFF;border:1px solid #fff;margin-bottom:0.5em }
@@ -20,7 +21,7 @@ ins { text-decoration:none }
 }
 #page h1 { border-bottom:1px solid #AAAAAA; }
 .editsection {
-font-size:76%;
+font-size:11px;
 font-weight:normal;
 }
 .editsection {
