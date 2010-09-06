@@ -6,7 +6,6 @@ S3::Application.callback :mime_type => 'text/wiki' do
   if params.has_key?('edit')
     @page_contents = status >= 300 ? "" : (response.body.respond_to?(:read) ? response.body.read : response.body.to_s)
     @wiki = WikiParser.new({ :data => @page_contents })
-    @page_contents = @wiki.get_section(params[:section].to_i) if params.has_key?('section')
     r :edit, "Editing #{@slot.name.gsub(/_/,' ')}"
   elsif params.has_key?('diff')
     @diff = Bit.diff(params[:diff],params[:to])
@@ -110,7 +109,7 @@ __END__
   %body
     %div#header
       %h1
-        %a{:href => "/"} Wiki on Sinatra-S3
+        %a{:href => "/"} Simple Wiki
     %div#page
       - if status < 300
         %div.menu
@@ -159,7 +158,11 @@ __END__
   %input{ :type => "hidden", :name => "Content-Type", :value => "text/wiki" }
   %div.required
     %label{ :for => "page_contents" } Contents
-    %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }= @page_contents
+    - if params.has_key?('section')
+      %textarea{ :name => "section[#{params[:section]}]", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.get_section(params[:section].to_i)
+      %input{ :type => "hidden", :name => "file", :value => @page_contents }
+    - else
+      %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }= @page_contents
   %div.required
     %label{ :for => "page_comment" } Comment:
     %input{ :type => "text", :name => "x-amz-meta-comment", :id => "page_comment" }
