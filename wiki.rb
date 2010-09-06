@@ -4,6 +4,9 @@ require 'wikicloth'
 S3::Application.callback :mime_type => 'text/wiki' do
   headers["Content-Type"] = "text/html"
   if params.has_key?('edit')
+    @page_contents = status >= 300 ? "" : (response.body.respond_to?(:read) ? response.body.read : response.body.to_s)
+    @wiki = WikiParser.new({ :data => @page_contents })
+    @page_contents = @wiki.get_section(params[:section].to_i) if params.has_key?('section')
     r :edit, "Editing #{@slot.name.gsub(/_/,' ')}"
   elsif params.has_key?('diff')
     @diff = Bit.diff(params[:diff],params[:to])
@@ -67,6 +70,10 @@ S3::Application.callback :when => 'before' do
 end
 
 class WikiParser < WikiCloth::Parser
+  section_link do |section|
+    "?edit&section=#{section}"
+  end
+
   url_for do |page|
     page = page.strip.gsub(/\s+/,'_')
     page = "/#{$1.downcase}/#{$2}" if page =~ /^([A-Za-z]+):(.*)$/
@@ -151,9 +158,8 @@ __END__
   %input{ :type => "hidden", :name => "redirect", :value => env['PATH_INFO'] }
   %input{ :type => "hidden", :name => "Content-Type", :value => "text/wiki" }
   %div.required
-    - page_contents = status >= 300 ? "" : (response.body.respond_to?(:read) ? response.body.read : response.body.to_s)
     %label{ :for => "page_contents" } Contents
-    %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" } #{page_contents}
+    %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }= @page_contents
   %div.required
     %label{ :for => "page_comment" } Comment:
     %input{ :type => "text", :name => "x-amz-meta-comment", :id => "page_comment" }
