@@ -45,6 +45,15 @@ S3::Application.callback :error => 'AccessDenied' do
 end
 
 S3::Application.callback :when => 'before' do
+  # update section
+  if params[:section] && params[:file]
+    wiki = WikiParser.new({ :data => params[:file] })
+    params[:section].each do |k,v|
+      wiki.put_section(k.to_i, v)
+    end
+    params[:file] = wiki.to_wiki
+  end
+
   #fix some caching issues
   if params.any? { |k,v| ["edit","history","diff"].include?(k) }
     env.delete('HTTP_IF_MODIFIED_SINCE')
