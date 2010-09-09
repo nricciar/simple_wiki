@@ -170,7 +170,7 @@ __END__
       %textarea{ :name => "section[#{params[:section]}]", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.get_section(params[:section].to_i)
       %input{ :type => "hidden", :name => "file", :value => @wiki.to_wiki }
     - else
-      %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.to_wiki
+      %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.nil? ? "" : @wiki.to_wiki
   %div.required
     %label{ :for => "page_comment" } Comment:
     %input{ :type => "text", :name => "x-amz-meta-comment", :id => "page_comment" }
