@@ -3,9 +3,14 @@ require 'wikicloth'
 
 S3::Application.callback :mime_type => 'text/wiki' do
   headers["Content-Type"] = "text/html"
+  p = {}
+  headers.each { |k,v| p[$1.upcase.gsub(/\-/,'_')] = v if k =~ /x-amz-(.*)/ }
+  @wiki = WikiParser.new({
+    :data => response.body.respond_to?(:read) ? response.body.read : response.body.to_s,
+    :params => p
+  })
+
   if params.has_key?('edit')
-    @page_contents = status >= 300 ? "" : (response.body.respond_to?(:read) ? response.body.read : response.body.to_s)
-    @wiki = WikiParser.new({ :data => @page_contents })
     r :edit, "Editing #{@slot.name.gsub(/_/,' ')}"
   elsif params.has_key?('diff')
     @diff = Bit.diff(params[:diff],params[:to])
@@ -14,12 +19,6 @@ S3::Application.callback :mime_type => 'text/wiki' do
     @history = Slot.find(:all, :conditions => [ 'name = ? AND parent_id = ?', @slot.name, @slot.parent_id ], :order => "id DESC", :limit => 20)
     r :history, "Revision history for #{@slot.name.gsub(/_/,' ')}"
   else
-    p = {}
-    headers.each { |k,v| p[$1.upcase.gsub(/\-/,'_')] = v if k =~ /x-amz-(.*)/ }
-    @wiki = WikiParser.new({
-      :data => response.body.respond_to?(:read) ? response.body.read : response.body.to_s,
-      :params => p
-    })
     r :wiki, @slot.name.gsub(/_/,' ')
   end
 end
@@ -169,9 +168,9 @@ __END__
     %label{ :for => "page_contents" } Contents
     - if params.has_key?('section')
       %textarea{ :name => "section[#{params[:section]}]", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.get_section(params[:section].to_i)
-      %input{ :type => "hidden", :name => "file", :value => @page_contents }
+      %input{ :type => "hidden", :name => "file", :value => @wiki.to_wiki }
     - else
-      %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }= @page_contents
+      %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.to_wiki
   %div.required
     %label{ :for => "page_comment" } Comment:
     %input{ :type => "text", :name => "x-amz-meta-comment", :id => "page_comment" }
