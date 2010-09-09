@@ -48,7 +48,7 @@ S3::Application.callback :when => 'before' do
   if params[:section] && params[:file]
     wiki = WikiParser.new({ :data => params[:file] })
     params[:section].each do |k,v|
-      wiki.put_section(k.to_i, v)
+      wiki.put_section(k, v)
     end
     params[:file] = wiki.to_wiki
   end
@@ -167,7 +167,7 @@ __END__
   %div.required
     %label{ :for => "page_contents" } Contents
     - if params.has_key?('section')
-      %textarea{ :name => "section[#{params[:section]}]", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.get_section(params[:section].to_i)
+      %textarea{ :name => "section[#{params[:section]}]", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.get_section(params[:section])
       %input{ :type => "hidden", :name => "file", :value => @wiki.to_wiki }
     - else
       %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.nil? ? "" : @wiki.to_wiki
