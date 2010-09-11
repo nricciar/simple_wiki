@@ -167,10 +167,12 @@ __END__
   %div.required
     %label{ :for => "page_contents" } Contents
     - if params.has_key?('section')
-      %textarea{ :name => "section[#{params[:section]}]", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.get_section(params[:section])
+      %textarea{ :name => "section[#{params[:section]}]", :id => "page_contents", :style => "width:100%;height:20em" }
+        = preserve @wiki.get_section(params[:section]).gsub(/&/,'&amp;')
       %input{ :type => "hidden", :name => "file", :value => @wiki.to_wiki }
     - else
-      %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }= @wiki.nil? ? "" : @wiki.to_wiki
+      %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }
+        = preserve @wiki.nil? ? "" : @wiki.to_wiki.gsub(/&/,'&amp;')
   %div.required
     %label{ :for => "page_comment" } Comment:
     %input{ :type => "text", :name => "x-amz-meta-comment", :id => "page_comment" }

@@ -1,4 +1,8 @@
-#toc { width: 250px }
+#toc { width: 300px }
+#toc ul {
+  margin-left:25px;
+  padding-left:0;
+}
 .exlink { padding-right:15px;background:transparent url(/control/s/images/external-link.gif) no-repeat center right }
 #title { text-decoration:none;font-weight:bold;color:#000 }
 .thumb { background-color:#F8FCFF;border:1px solid #fff;margin-bottom:0.5em }
