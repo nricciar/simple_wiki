@@ -82,7 +82,7 @@ class WikiParser < WikiCloth::Parser
   end
 
   url_for do |page|
-    page = page.strip.gsub(/\s+/,'_')
+    page = "/wiki/#{page.strip.gsub(/\s+/,'_')}"
     page = "/#{$1.downcase}/#{$2}" if page =~ /^([A-Za-z]+):(.*)$/
     page
   end

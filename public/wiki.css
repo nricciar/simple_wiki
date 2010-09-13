@@ -1,4 +1,5 @@
-#toc { width: 300px }
+#toc { width: 300px;border:1px solid #D5D8C1 }
+#toc td { border:1px solid #D5D8C1 }
 #toc ul {
   margin-left:25px;
   padding-left:0;
@@ -23,7 +24,8 @@ ins { text-decoration:none }
   padding-top:0.5em;
   color:#000;
 }
-#page h1 { border-bottom:1px solid #AAAAAA; }
+#page h1, #page h2 { border-bottom:1px solid #AAAAAA }
+#page h2 { margin-bottom:10px }
 .editsection {
 font-size:11px;
 font-weight:normal;
@@ -31,6 +33,7 @@ font-weight:normal;
 .editsection {
 float:right;
 margin-left:5px;
+padding-top:0.7em;
 }
 
 pre {
