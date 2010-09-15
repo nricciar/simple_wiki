@@ -47,9 +47,7 @@ S3::Application.callback :when => 'before' do
   # update section
   if params[:section] && params[:file]
     wiki = WikiParser.new({ :data => params[:file] })
-    params[:section].each do |k,v|
-      wiki.put_section(k, v)
-    end
+    params[:section].each { |k,v| wiki.put_section(k, v) }
     params[:file] = wiki.to_wiki
   end
 
