@@ -44,33 +44,37 @@ S3::Application.callback :error => 'AccessDenied' do
 end
 
 S3::Application.callback :when => 'before' do
-  # update section
-  if params[:section] && params[:file]
-    wiki = WikiParser.new({ :data => params[:file] })
-    params[:section].each { |k,v| wiki.put_section(k, v) }
-    params[:file] = wiki.to_wiki
-  end
+  if env['HTTP_AUTHORIZATION'].to_s =~ /AWS/
+    disable_callbacks_for_request
+  else
+    # update section
+    if params[:section] && params[:file]
+      wiki = WikiParser.new({ :data => params[:file] })
+      params[:section].each { |k,v| wiki.put_section(k, v) }
+      params[:file] = wiki.to_wiki
+    end
 
-  #fix some caching issues
-  if params.any? { |k,v| ["edit","history","diff"].include?(k) }
-    env.delete('HTTP_IF_MODIFIED_SINCE')
-    env.delete('HTTP_IF_NONE_MATCH')
-  end
+    #fix some caching issues
+    if params.any? { |k,v| ["edit","history","diff"].include?(k) }
+      env.delete('HTTP_IF_MODIFIED_SINCE')
+      env.delete('HTTP_IF_NONE_MATCH')
+    end
 
-  auth = Rack::Auth::Basic::Request.new(env)
-  next unless auth.provided? && auth.basic?
+    auth = Rack::Auth::Basic::Request.new(env)
+    next unless auth.provided? && auth.basic?
 
-  user = User.find_by_login(auth.credentials[0])
-  next if user.nil?
+    user = User.find_by_login(auth.credentials[0])
+    next if user.nil?
 
-  # Convert a valid basic authorization into a proper S3 AWS
-  # Authorization header
-  if user.password == hmac_sha1( auth.credentials[1], user.secret )
-    uri = env['PATH_INFO']
-    uri += "?" + env['QUERY_STRING'] if S3::RESOURCE_TYPES.include?(env['QUERY_STRING'])
-    canonical = [env['REQUEST_METHOD'], env['HTTP_CONTENT_MD5'], env['CONTENT_TYPE'],
-      (env['HTTP_X_AMZ_DATE'] || env['HTTP_DATE']), uri]
-    env['HTTP_AUTHORIZATION'] = "AWS #{user.key}:" + hmac_sha1(user.secret, canonical.map{|v|v.to_s.strip} * "\n")
+    # Convert a valid basic authorization into a proper S3 AWS
+    # Authorization header
+    if user.password == hmac_sha1( auth.credentials[1], user.secret )
+      uri = env['PATH_INFO']
+      uri += "?" + env['QUERY_STRING'] if S3::RESOURCE_TYPES.include?(env['QUERY_STRING'])
+      canonical = [env['REQUEST_METHOD'], env['HTTP_CONTENT_MD5'], env['CONTENT_TYPE'],
+        (env['HTTP_X_AMZ_DATE'] || env['HTTP_DATE']), uri]
+      env['HTTP_AUTHORIZATION'] = "AWS #{user.key}:" + hmac_sha1(user.secret, canonical.map{|v|v.to_s.strip} * "\n")
+    end
   end
 end
 
