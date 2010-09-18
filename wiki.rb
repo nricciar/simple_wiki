@@ -93,10 +93,9 @@ class WikiParser < WikiCloth::Parser
     "<a href=\"#{url}\" target=\"_blank\" class=\"exlink\">#{text.blank? ? url : text}</a>"
   end
 
-  template do |template|
+  template do |template,args|
     begin
-      bucket = Bucket.find_root('templates')
-      slot = bucket.find_slot(template.to_s.strip.gsub(/\s+/,'_'))
+      slot = Bucket.find_root('templates').find_slot(template.to_s.strip.gsub(/\s+/,'_'))
       slot.nil? ? nil : File.read(File.join(S3::STORAGE_PATH, slot.obj.path))
     rescue S3::NoSuchKey
       nil
