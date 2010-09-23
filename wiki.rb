@@ -93,7 +93,7 @@ class WikiParser < WikiCloth::Parser
     "<a href=\"#{url}\" target=\"_blank\" class=\"exlink\">#{text.blank? ? url : text}</a>"
   end
 
-  template do |template,args|
+  template do |template|
     begin
       slot = Bucket.find_root('templates').find_slot(template.to_s.strip.gsub(/\s+/,'_'))
       slot.nil? ? nil : File.read(File.join(S3::STORAGE_PATH, slot.obj.path))
@@ -178,6 +178,13 @@ __END__
     %label{ :for => "page_comment" } Comment:
     %input{ :type => "text", :name => "x-amz-meta-comment", :id => "page_comment" }
   %input{ :type => "submit", :value => "Update" }
+- @wiki.to_html unless @wiki.nil?
+- unless @wiki.nil? || @wiki.included_templates.empty?
+  %h3 Resources
+  %ul
+    - @wiki.included_templates.each do |key,value|
+      %li
+        %a{ :href => "/templates/#{key}" }= key
 
 @@ history
 %h2 Revision history of #{@slot.name.gsub(/_/,' ')}
