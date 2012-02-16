@@ -1,0 +1,17 @@
+:tyv:
+  table of contents: "Допчузу"
+  edit: "Өскертири"
+  edit section: "%{name} деп салбырны өскертири"
+  revision history: "\"%{name}\" деп арынның үндүрери төөгүзү"
+  compare revisions: ""
+  pages in category: "\"%{category}\" деп бөлүкте арыннар"
+
+  namespaces:
+    media: "Медиа"
+    file: "Файл,Чурук"
+    category: "Бөлүк"
+    template: "Хээ"
+    special: "Тускай"
+    help: "Дуза"
+    talk: "Чугаа"
+

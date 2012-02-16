@@ -1,0 +1,17 @@
+:ru:
+  table of contents: "Содержание"
+  edit: "Править"
+  edit section: "Править секцию: %{name}"
+  revision history: "%{name} — история изменений"
+  compare revisions: "Сравнение версий страниц"
+  pages in category: "Страницы в категории «%{category}»"
+
+  namespaces:
+    media: "Медиа"
+    file: "Файл,Изображение"
+    category: "Категория"
+    template: "Шаблон"
+    special: "Служебная"
+    help: "Справка"
+    talk: "Обсуждение"
+

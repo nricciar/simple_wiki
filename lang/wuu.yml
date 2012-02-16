@@ -1,0 +1,17 @@
+:wuu:
+  table of contents: "目录"
+  edit: "编辑"
+  edit section: "编辑段落: %{name}"
+  revision history: "“%{name}”个修订历史"
+  compare revisions: ""
+  pages in category: "“%{category}”分类里向个页面"
+
+  namespaces:
+    media: "ਮੀਡੀਆ,Medija"
+    file: "ਤਸਵੀਰ,Slika,Слика"
+    category: "ਸ਼੍ਰੇਣੀ,Kategorija"
+    template: "ਨਮੂਨਾ,Šablon"
+    special: "ਖਾਸ,Posebno"
+    help: "ਮਦਦ,Pomoć"
+    talk: "ਚਰਚਾ,Razgovor"
+

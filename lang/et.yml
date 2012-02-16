@@ -1,0 +1,17 @@
+:et:
+  table of contents: "Sisukord"
+  edit: "Redigeeri"
+  edit section: "Redigeeri alaosa %{name}"
+  revision history: "Lehekülje \"%{name}\" muudatuste ajalugu"
+  compare revisions: "Lehekülje redaktsioonide kõrvutamine"
+  pages in category: "Leheküljed kategoorias \"%{category}\""
+
+  namespaces:
+    media: "Meedia"
+    file: "Pilt"
+    category: "Kategooria"
+    template: "Mall"
+    special: "Eri"
+    help: "Juhend"
+    talk: "Arutelu"
+

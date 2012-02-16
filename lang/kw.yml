@@ -1,0 +1,17 @@
+:kw:
+  table of contents: "Synsys"
+  edit: "Chanjya"
+  edit section: "Chanjya an radn: %{name}"
+  revision history: "Istory an folen \"%{name}\""
+  compare revisions: ""
+  pages in category: "Folednow e\'n class \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Restren"
+    category: "Class,Klass"
+    template: "Scantlyn,Skantlyn"
+    special: "Arbennek,Arbednek"
+    help: "Gweres"
+    talk: "Kescows,Cows,Keskows"
+

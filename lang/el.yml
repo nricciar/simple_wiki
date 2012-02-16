@@ -1,0 +1,17 @@
+:el:
+  table of contents: "Πίνακας περιεχομένων"
+  edit: "Επεξεργασία"
+  edit section: "Επεξεργασία ενότητας: %{name}"
+  revision history: "Ιστορικό εκδόσεων για τη σελίδα \"%{name}\""
+  compare revisions: "Συγκρίνετε τις αναθεωρήσεις των σελίδων"
+  pages in category: "Άρθρα στην κατηγορία \"%{category}\""
+
+  namespaces:
+    media: "Μέσο,Μέσον"
+    file: "Αρχείο,Εικόνα"
+    category: "Κατηγορία"
+    template: "Πρότυπο"
+    special: "Ειδικό"
+    help: "Βοήθεια"
+    talk: "Συζήτηση"
+

@@ -1,0 +1,17 @@
+:bar:
+  table of contents: "Inhoidsvazeichnis"
+  edit: "werkeln"
+  edit section: "Obschnit beorweiden: %{name}"
+  revision history: "Versiónsgschicht voh „%{name}“"
+  compare revisions: "Seitenversiónen vagleichen"
+  pages in category: "Seiten in da Kategorie „%{category}“"
+
+  namespaces:
+    media: "Мэдыя"
+    file: "Файл,Выява"
+    category: "Катэгорыя"
+    template: "Шаблён"
+    special: "Спэцыяльныя"
+    help: "Дапамога"
+    talk: "Абмеркаваньне"
+

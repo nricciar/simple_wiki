@@ -1,0 +1,17 @@
+:bo:
+  table of contents: "ཟུར་མཆན།"
+  edit: "རྩོམ་སྒྲིག"
+  edit section: "རྩོམ་སྒྲིག་སྡེ་ཚན།%{name}"
+  revision history: ""
+  compare revisions: ""
+  pages in category: "\"%{category}\"ནང་་གི་ཤོག་ངོས།"
+
+  namespaces:
+    media: "ميديا,وسائط"
+    file: "ملف,صورة"
+    category: "تصنيف"
+    template: "قالب"
+    special: "خاص"
+    help: "مساعدة"
+    talk: "نقاش"
+

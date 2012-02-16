@@ -1,0 +1,17 @@
+:ckb:
+  table of contents: "ناوەڕۆک"
+  edit: "دەستکاری"
+  edit section: "دەستکاری کردنی بەشی: %{name}"
+  revision history: "مێژووی پیاچوونەوەکانی «%{name}»"
+  compare revisions: "پیاچوونەوەکانی پەڕە ھەڵسەنگێنە"
+  pages in category: "پەڕەکانی پۆلی «%{category}»"
+
+  namespaces:
+    media: "میدیا"
+    file: "پەڕگە"
+    category: "پۆل"
+    template: "داڕێژە,قاڵب"
+    special: "تایبەت"
+    help: "یارمەتی"
+    talk: "وتووێژ,لێدوان"
+

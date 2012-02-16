@@ -1,0 +1,17 @@
+:fr:
+  table of contents: "Sommaire"
+  edit: "Modifier"
+  edit section: "Modifier la section : %{name}"
+  revision history: "Historique des versions de «&nbsp;%{name}&nbsp;»"
+  compare revisions: "Comparer les versions des pages"
+  pages in category: "Pages dans la catégorie « %{category} »"
+
+  namespaces:
+    media: "Média"
+    file: "Fichier"
+    category: "Catégorie"
+    template: "Modèle"
+    special: "Spécial"
+    help: "Aide"
+    talk: "Discussion,Discuter"
+

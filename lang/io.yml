@@ -1,0 +1,17 @@
+:io:
+  table of contents: "Indexo"
+  edit: "Redaktar"
+  edit section: "Redaktar seciono: %{name}"
+  revision history: "Versionaro di \"%{name}\""
+  compare revisions: ""
+  pages in category: "Artikli en kategorio \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Arkivo,Imajo"
+    category: "Kategorio"
+    template: "Shablono,Modelo"
+    special: "Specala"
+    help: "Helpo"
+    talk: "Debato"
+

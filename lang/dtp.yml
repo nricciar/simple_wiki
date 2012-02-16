@@ -1,0 +1,17 @@
+:dtp:
+  table of contents: "Suang-suang"
+  edit: "Idito"
+  edit section: "Sikson mongidit: %{name}"
+  revision history: "Susuyan sinimakan do \"%{name}\""
+  compare revisions: ""
+  pages in category: "Bobolikon id kalas \"%{category}\""
+
+  namespaces:
+    media: "ܡܝܕܝܐ"
+    file: "ܠܦܦܐ"
+    category: "ܣܕܪܐ"
+    template: "ܩܠܒܐ"
+    special: "ܕܝܠܢܝܐ"
+    help: "ܥܘܕܪܢܐ"
+    talk: "ܡܡܠܠܐ"
+

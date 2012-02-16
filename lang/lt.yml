@@ -1,0 +1,17 @@
+:lt:
+  table of contents: "Turinys"
+  edit: "Redaguoti"
+  edit section: "Redaguoti skyrelį: %{name}"
+  revision history: "„%{name}“ versijų istorija"
+  compare revisions: "Palyginti puslapio keitimus"
+  pages in category: "Puslapiai kategorijoje „%{category}“"
+
+  namespaces:
+    media: "Medija"
+    file: "Vaizdas,Berkas,Gambar"
+    category: "Kategorija,Kategori"
+    template: "Šablonas,Templat"
+    special: "Specialus,Istimewa"
+    help: "Pagalba,Bantuan"
+    talk: "Aptarimas,Pembicaraan,Bicara"
+

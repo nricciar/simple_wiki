@@ -1,34 +1,47 @@
 require 'sinatra-s3'
-require 'wikicloth'
+require 'parser'
 
 S3::Application.callback :mime_type => 'text/wiki' do
-  headers["Content-Type"] = "text/html"
-  p = {}
+  headers["Content-Type"] = "text/html; charset=UTF-8"
+  p = { "PAGENAME" => @slot.name, "NAMESPACE" => @bucket.name }
   headers.each { |k,v| p[$1.upcase.gsub(/\-/,'_')] = v if k =~ /x-amz-(.*)/ }
+
   @wiki = WikiParser.new({
     :data => response.body.respond_to?(:read) ? response.body.read : response.body.to_s,
     :params => p
   })
 
   if params.has_key?('edit')
-    r :edit, "Editing #{@slot.name.gsub(/_/,' ')}"
+    r :edit, I18n.t("editing page", :name => @slot.name.gsub(/_/,' '))
   elsif params.has_key?('diff')
     @diff = Bit.diff(params[:diff],params[:to])
-    r :diff, "Changes to #{@slot.name.gsub(/_/,' ')}"
+    r :diff, I18n.t("changes to", :name => @slot.name.gsub(/_/,' '))
   elsif params.has_key?('history')
     @history = Slot.find(:all, :conditions => [ 'name = ? AND parent_id = ?', @slot.name, @slot.parent_id ], :order => "id DESC", :limit => 20)
-    r :history, "Revision history for #{@slot.name.gsub(/_/,' ')}"
+    r :history, I18n.t("revision history", :name => @slot.name.gsub(/_/,' '))
   else
-    r :wiki, @slot.name.gsub(/_/,' ')
+    if WikiCloth::Parser.namespace_type(@wiki.namespace) == :category
+      @cat_links = {}
+      PageLink.find(:all, :conditions => [ 'page_link = ? AND link_type = ?', @slot.name, 'category' ]).each do |cat|
+        first_char = cat.page_name[0,1].upcase
+        first_char = first_char =~ /^[A-Z]$/ ? first_char : '#'
+        @cat_links[first_char] ||= []
+        @cat_links[first_char] << cat.page_name
+      end
+      @cat_links = @cat_links.to_a.sort { |x,y| x[0] <=> y[0] }
+      r :category, @slot.name.gsub(/_/,' ')
+    else
+      r :wiki, @slot.name.gsub(/_/,' ')
+    end
   end
 end
 
 S3::Application.callback :error => 'NoSuchKey' do
   headers["Content-Type"] = "text/html"
   if params.has_key?('edit')
-    r :edit, "Edit Page"
+    r :edit, I18n.t("edit page")
   else
-    r :does_not_exist, "Page Does Not Exist"
+    r :does_not_exist, I18n.t("page does not exist")
   end
 end
 
@@ -39,7 +52,7 @@ S3::Application.callback :error => 'AccessDenied' do
     status 401
     headers["WWW-Authenticate"] = %(Basic realm="wiki")
     headers["Content-Type"] = "text/html"
-    r :access_denied, "Access Denied"
+    r :access_denied, I18n.t("access denied")
   end
 end
 
@@ -78,31 +91,6 @@ S3::Application.callback :when => 'before' do
   end
 end
 
-class WikiParser < WikiCloth::Parser
-  section_link do |section|
-    "?edit&section=#{section}"
-  end
-
-  url_for do |page|
-    page = "/wiki/#{page.strip.gsub(/\s+/,'_')}"
-    page = "/#{$1.downcase}/#{$2}" if page =~ /^([A-Za-z]+):(.*)$/
-    page
-  end
-
-  external_link do |url,text|
-    "<a href=\"#{url}\" target=\"_blank\" class=\"exlink\">#{text.blank? ? url : text}</a>"
-  end
-
-  template do |template|
-    begin
-      slot = Bucket.find_root('templates').find_slot(template.to_s.strip.gsub(/\s+/,'_'))
-      slot.nil? ? nil : File.read(File.join(S3::STORAGE_PATH, slot.obj.path))
-    rescue S3::NoSuchKey
-      nil
-    end
-  end
-end
-
 class S3::Application < Sinatra::Base; enable :inline_templates; end
 
 __END__
@@ -124,27 +112,27 @@ __END__
         %div.menu
           %ul
             %li
-              %a{ :href => "#{env['PATH_INFO']}", :class => (!params.any? { |k,v| ["diff","history","edit"].include?(k) } ? "active" : "") } Content
+              %a{ :href => "#{env['PATH_INFO']}", :class => (!params.any? { |k,v| ["diff","history","edit"].include?(k) } ? "active" : "") }= I18n.t("content tab")
             %li
-              %a{ :href => "#{env['PATH_INFO']}?edit", :class => (params.has_key?('edit') ? "active" : "") } Edit
+              %a{ :href => "#{env['PATH_INFO']}?edit", :class => (params.has_key?('edit') ? "active" : "") }= I18n.t("edit tab")
             - if defined?(Git)
               %li
-                %a{ :href => "#{env['PATH_INFO']}?history", :class => (params.any? { |k,v| ["diff","history"].include?(k) } ? "active" : "") } History
+                %a{ :href => "#{env['PATH_INFO']}?history", :class => (params.any? { |k,v| ["diff","history"].include?(k) } ? "active" : "") }= I18n.t("history tab")
       %h1 #{env['PATH_INFO'] =~ /\/([^\/]+)$/ ? "#{$1.gsub('_',' ')}" : "Sinatra-S3 Wiki"}
       = yield
 
 @@ access_denied
-%h2 Access Denied
-%p You are not authorized to access the specified resource.
+%h2= I18n.t("access denied")
+%p= I18n.t("access denied message")
 
 @@ diff
 %div#content
-  %p Change Summary: #{@diff.stats[:total][:insertions]} insertions and #{@diff.stats[:total][:deletions]} deletions
+  %p= I18n.t("change summary", :insertions => @diff.stats[:total][:insertions], :deletions => @diff.stats[:total][:deletions])
   - @lines = @diff.patch.gsub('<','&lt;').gsub('>','&gt;').split("\n")
   - @lines[4..-1].each do |line|
     - case
     - when line =~ /\-([0-9]+)(,([0-9]+)|) \+([0-9]+),([0-9]+)/
-      %div{ :style => "font-weight:bold;padding:5px 0" } Line #{$1}
+      %div{ :style => "font-weight:bold;padding:5px 0" }= I18n.t("line no", :line => $1)
     - when line[0,1] == "\\"
     - when line[0,1] == "+"
       %ins{ :style => "background-color:#99ff99" } &nbsp;#{line[1,line.length]}
@@ -154,19 +142,19 @@ __END__
       %div{ :style => "background-color:#ebebeb" } &nbsp;#{line}
 
 @@ does_not_exist
-%h2 Page Does Not Exist
+%h2= I18n.t("page does not exist")
 %p
-  The page you were trying to access does not exist.  Perhaps you would like to
-  %a{ :href => "#{env['PATH_INFO']}?edit" } create it
+  = I18n.t("page does not exist message")
+  %a{ :href => "#{env['PATH_INFO']}?edit" }= I18n.t("create it")
   ?
 
 @@ edit
-%h2 #{@slot.nil? ? "Edit Page" : "Editing #{@slot.name.gsub(/_/,' ')}"}
+%h2 #{@slot.nil? ? I18n.t("edit page") : I18n.t("editing page", :name => @slot.name.gsub(/_/,' '))}
 %form#edit_page_form.create{ :method => "POST", :action => env['PATH_INFO'] }
   %input{ :type => "hidden", :name => "redirect", :value => env['PATH_INFO'] }
   %input{ :type => "hidden", :name => "Content-Type", :value => "text/wiki" }
   %div.required
-    %label{ :for => "page_contents" } Contents
+    %label{ :for => "page_contents" }= I18n.t("contents") + ":"
     - if params.has_key?('section')
       %textarea{ :name => "section[#{params[:section]}]", :id => "page_contents", :style => "width:100%;height:20em" }
         = preserve @wiki.get_section(params[:section]).gsub(/&/,'&amp;')
@@ -175,19 +163,19 @@ __END__
       %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }
         = preserve @wiki.nil? ? "" : @wiki.to_wiki.gsub(/&/,'&amp;')
   %div.required
-    %label{ :for => "page_comment" } Comment:
+    %label{ :for => "page_comment" }= I18n.t("comment") + ":"
     %input{ :type => "text", :name => "x-amz-meta-comment", :id => "page_comment" }
-  %input{ :type => "submit", :value => "Update" }
-- @wiki.to_html unless @wiki.nil?
+  %input{ :type => "submit", :value => I18n.t("update") }
+- @wiki.to_html( :blahtex_png_path => File.join(File.dirname(__FILE__),'public/math') ) unless @wiki.nil?
 - unless @wiki.nil? || @wiki.included_templates.empty?
-  %h3 Resources
+  %h3= I18n.t("resources")
   %ul
     - @wiki.included_templates.each do |key,value|
       %li
         %a{ :href => "/templates/#{key}" }= key
 
 @@ history
-%h2 Revision history of #{@slot.name.gsub(/_/,' ')}
+%h2= I18n.t("revision history", :name => @slot.name.gsub(/_/,' '))
 %form{ :action => env['PATH_INFO'], :method => "GET" }
   %table#revision_history
     - @history.each_with_index do |rev, count|
@@ -201,8 +189,35 @@ __END__
           %a{ :href => "#{env['PATH_INFO']}?version-id=#{rev.version}" } #{rev.meta['comment']}
           on #{rev.updated_at}
   - if @history.length > 1
-    %input{ :type => "submit", :value => "Compare Revisions" }
+    %input{ :type => "submit", :value => I18n.t("compare revisions") }
 
 @@ wiki
 %div#wiki_page
-  = preserve @wiki.to_html
+  = preserve @wiki.to_html( :blahtex_png_path => File.join(File.dirname(__FILE__),'public/math'), :blahtex_html_prefix => "/math/" )
+- unless @wiki.categories.empty?
+  %div#catlinks.catlinks
+    %div#mw-normal-catlinks
+      %a{ :href => "/special/Categories", :title => "Special:Categories" }= WikiCloth::Parser.localise_ns("Category") + ":"
+      %ul
+        - for cat in @wiki.categories
+          %li
+            %a{ :href => "/category/#{cat.strip.gsub(/\s+/,'_')}" }= cat
+
+@@ category
+%div#wiki_page
+  = preserve @wiki.to_html( :blahtex_png_path => File.join(File.dirname(__FILE__),'public/math'), :blahtex_html_prefix => "/math/" )
+%h2= I18n.t("pages in category", :category => @slot.name.gsub(/_/,' '))
+- for cat in @cat_links
+  %h3= cat.first
+  %ul
+    - for link in cat.last
+      %li
+        %a{ :href => "/wiki/#{link}" }= link.gsub(/_/,' ')
+- unless @wiki.categories.empty?
+  %div#catlinks.catlinks
+    %div#mw-normal-catlinks
+      %a{ :href => "/special/Categories", :title => "Special:Categories" }= WikiCloth::Parser.localise_ns("Category") + ":"
+      %ul
+        - for cat in @wiki.categories
+          %li
+            %a{ :href => "/category/#{cat.strip.gsub(/\s+/,'_')}" }= cat

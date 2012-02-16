@@ -1,0 +1,17 @@
+:tl:
+  table of contents: "Mga nilalaman"
+  edit: "Baguhin"
+  edit section: "Baguhin ang seksiyon: %{name}"
+  revision history: "Kasaysayan ng pagbabago ng \"%{name}\""
+  compare revisions: "Paghambingin ang mga pahina ng rebisyon"
+  pages in category: "Mga pahina sa kategoryang \"%{category}\""
+
+  namespaces:
+    media: "Midya"
+    file: "Talaksan,Talaksan"
+    category: "Kategorya,Kaurian"
+    template: "Suleras"
+    special: "Natatangi"
+    help: "Tulong"
+    talk: "Usapan"
+

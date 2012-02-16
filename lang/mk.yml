@@ -1,0 +1,17 @@
+:mk:
+  table of contents: "Содржина"
+  edit: "Уреди"
+  edit section: "Уреди го пасусот: %{name}"
+  revision history: "Историја на измените на „%{name}“"
+  compare revisions: "Споредба на ревизии на страници"
+  pages in category: "Статии во категоријата „%{category}“"
+
+  namespaces:
+    media: "Медија"
+    file: "Податотека,Слика"
+    category: "Категорија"
+    template: "Шаблон"
+    special: "Специјална,Специјални"
+    help: "Помош"
+    talk: "Разговор"
+

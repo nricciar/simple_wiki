@@ -1,0 +1,17 @@
+:kk_cyrl:
+  table of contents: "Мазмұны"
+  edit: "Өңдеу"
+  edit section: "Мына бөлімді өңдеу: %{name}"
+  revision history: "«%{name}» — түзету тарихы"
+  compare revisions: ""
+  pages in category: "«%{category}» санатындағы беттер"
+
+  namespaces:
+    media: "Таспа,Taspa,تاسپا"
+    file: "Сурет,Swret,سۋرەت"
+    category: "Санат,Sanat,سانات"
+    template: "Үлгі,Ülgi,ٷلگٸ,ٴۇلگٴى"
+    special: "Арнайы,Arnaýı,ارنايى"
+    help: "Анықтама,Anıqtama,انىقتاما"
+    talk: "Талқылау,Talqılaw,تالقىلاۋ"
+

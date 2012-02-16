@@ -1,0 +1,17 @@
+:uk:
+  table of contents: "Зміст"
+  edit: "Редагувати"
+  edit section: "Редагувати розділ: %{name}"
+  revision history: "Історія змін сторінки «%{name}»"
+  compare revisions: "Порівняння версій сторінок"
+  pages in category: "Сторінки в категорії «%{category}»"
+
+  namespaces:
+    media: "Медіа"
+    file: "Файл,Зображення"
+    category: "Категорія"
+    template: "Шаблон"
+    special: "Спеціальна,Спеціальні"
+    help: "Довідка"
+    talk: "Обговорення"
+

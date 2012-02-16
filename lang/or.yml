@@ -1,0 +1,17 @@
+:or:
+  table of contents: "ଭିତର ଚିଜ"
+  edit: "ବଦଳାଇବେ"
+  edit section: "%{name} ଭାଗଟିକୁ ବଦଳାଇବେ"
+  revision history: "\"%{name}\" ପାଇଁ ସଙ୍କଳନ ଇତିହାସ"
+  compare revisions: "ପୃଷ୍ଠା ସଂସ୍କରଣ ତୁଳନା କରିବେ"
+  pages in category: "\"%{category}\" ଶ୍ରେଣୀରେ ଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକ"
+
+  namespaces:
+    media: "ମାଧ୍ୟମ"
+    file: "ଫାଇଲ"
+    category: "ଶ୍ରେଣୀ,ବିଭାଗ"
+    template: "ଟେମ୍ପଲେଟ,ଟେଁପଲେଟ"
+    special: "ବିଶେଷ"
+    help: "ସାହାଯ୍ୟ"
+    talk: "ଆଲୋଚନା"
+

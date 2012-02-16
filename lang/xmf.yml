@@ -1,0 +1,17 @@
+:xmf:
+  table of contents: "დინორე"
+  edit: "რედაქტირაფა"
+  edit section: "სექციაშ რედაქტირაფა: %{name}"
+  revision history: "\"%{name}\"–იშ თირაფეფიშ ისტორია"
+  compare revisions: ""
+  pages in category: "სტატიეფი \"%{category}\"  კატეგორიას"
+
+  namespaces:
+    media: "Media"
+    file: "Ofbeelding"
+    category: "Kattegerie,Categorie"
+    template: "Mal,Sjabloon"
+    special: "Speciaal,Speciaol"
+    help: "Hulpe"
+    talk: "Overleg"
+

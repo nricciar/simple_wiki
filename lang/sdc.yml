@@ -1,0 +1,17 @@
+:sdc:
+  table of contents: "Indizi"
+  edit: "Mudifigga"
+  edit section: "Mudìfigga la sezzioni %{name}"
+  revision history: "Cronologia di li mudìfigghi di \"%{name}\""
+  compare revisions: ""
+  pages in category: "Pàgini i\' la categuria \"%{category}\""
+
+  namespaces:
+    media: ""
+    file: "Immagina,Afbeelding"
+    category: "Categuria"
+    template: "Mudellu"
+    special: "Ippiziari"
+    help: "Aggiuddu"
+    talk: "Dischussioni"
+

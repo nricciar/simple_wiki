@@ -1,0 +1,17 @@
+:liv:
+  table of contents: "Sižāli"
+  edit: "Redigīer"
+  edit section: "Redigīer jaggõ %{name}"
+  revision history: "Līed \"%{name}\" mõitõkst istōrij"
+  compare revisions: ""
+  pages in category: "Lēḑõd kategōrijs \"%{category}\""
+
+  namespaces:
+    media: "මාධ්‍යය"
+    file: "ගොනුව,රූපය"
+    category: "ප්‍රවර්ගය"
+    template: "සැකිල්ල"
+    special: "විශේෂ"
+    help: "උදවු"
+    talk: "සාකච්ඡාව"
+

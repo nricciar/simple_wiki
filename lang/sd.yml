@@ -1,0 +1,17 @@
+:sd:
+  table of contents: "فهرست"
+  edit: "سنواريو"
+  edit section: "سنواريو سيڪشن: %{name}"
+  revision history: "\"%{name}\" جي سوانح"
+  compare revisions: ""
+  pages in category: "\"%{category}\" زمري جا صفحا"
+
+  namespaces:
+    media: "ذريعات"
+    file: "عڪس,Чурук"
+    category: "زمرو"
+    template: "سانچو"
+    special: "خاص"
+    help: "مدد"
+    talk: "بحث"
+

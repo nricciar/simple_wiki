@@ -1,0 +1,17 @@
+:krc:
+  table of contents: "Башлары"
+  edit: "Тюрлендир"
+  edit section: "%{name} бёлюмню тюрлендир"
+  revision history: "«%{name}» бетни тюрлениу тарихи"
+  compare revisions: "Бет версияланы тенглешдир"
+  pages in category: "«%{category}» категориядагъы бетле"
+
+  namespaces:
+    media: "Медиа"
+    file: "Файл,Afbeelding"
+    category: "Категория,Categorie"
+    template: "Шаблон,Sjabloon"
+    special: "Къуллукъ,Speciaal"
+    help: "Болушлукъ,Help"
+    talk: "Сюзюу,Overleg"
+

@@ -1,0 +1,17 @@
+:sgs:
+  table of contents: "Torėnīs"
+  edit: "Taisītė"
+  edit section: "Redagoutė skirsneli: %{name}"
+  revision history: "Poslapė „%{name}“ istuorėjė"
+  compare revisions: ""
+  pages in category: "Kateguorėjės „%{category}“ straipsnē"
+
+  namespaces:
+    media: "Medėjė"
+    file: "Abruozdielis,Vaizdas"
+    category: "Kateguorėjė,Kategorija"
+    template: "Šabluons,Šablonas"
+    special: "Specēlos,Specialus"
+    help: "Pagelba,Pagalba"
+    talk: "Aptarėms,Aptarimas"
+

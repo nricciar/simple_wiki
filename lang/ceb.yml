@@ -1,0 +1,17 @@
+:ceb:
+  table of contents: "Mga sulod"
+  edit: "Usba"
+  edit section: "Usba ang seksyong: %{name}"
+  revision history: "Kaagi sa rebisyon sa \"%{name}\""
+  compare revisions: ""
+  pages in category: "Mga panid sa kategoriyang \"%{category}\""
+
+  namespaces:
+    media: "Medya"
+    file: "Payl,Imahen"
+    category: "Kategoriya"
+    template: "Plantilya"
+    special: "Espesyal"
+    help: "Tabang"
+    talk: "Hisgot"
+

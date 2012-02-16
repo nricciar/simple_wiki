@@ -1,0 +1,17 @@
+:mrj:
+  table of contents: "Кӧргӹштӹжӹ"
+  edit: "Торлӓш"
+  edit section: "Секцим тӧрлӓш: %{name}"
+  revision history: "%{name} — вашталтымашвлӓн историштӹ"
+  compare revisions: ""
+  pages in category: "Категори «%{category}» ӹлӹштӓшвлӓ"
+
+  namespaces:
+    media: "Медиа"
+    file: "Файл"
+    category: "Категори"
+    template: "Шаблон"
+    special: "Спецӹлӹштӓш"
+    help: "Палшык"
+    talk: "Кӓнгӓшӹмӓш"
+

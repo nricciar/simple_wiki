@@ -1,0 +1,17 @@
+:nl:
+  table of contents: "Inhoud"
+  edit: "Bewerken"
+  edit section: "Deelpagina bewerken: %{name}"
+  revision history: "Geschiedenis van \"%{name}\""
+  compare revisions: "Paginaversies vergelijken"
+  pages in category: "Pagina’s in categorie “%{category}”"
+
+  namespaces:
+    media: "Media"
+    file: "Bestand,Afbeelding"
+    category: "Categorie"
+    template: "Sjabloon"
+    special: "Speciaal"
+    help: "Help"
+    talk: "Overleg"
+

@@ -1,0 +1,17 @@
+:bpy:
+  table of contents: "মেথেল"
+  edit: "পতানি"
+  edit section: "সেকসনহান পতা: %{name}"
+  revision history: "\"%{name}\"-র রিভিসন ইতিহাসহান"
+  compare revisions: ""
+  pages in category: "\"%{category}\" বিষয়রথাকে আসে নিবন্ধহানি"
+
+  namespaces:
+    media: "মিডিয়া,Mediya"
+    file: "ছবি"
+    category: "থাক"
+    template: "মডেল"
+    special: "বিশেষ"
+    help: "পাংলাক"
+    talk: "য়্যারী"
+

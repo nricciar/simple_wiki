@@ -1,0 +1,17 @@
+:myv:
+  table of contents: "Потмокс"
+  edit: "Витнеме-петнеме"
+  edit section: "%{name} секциянть-пельксэнть витнеме-петнеме"
+  revision history: "Историясь ламо вановксонть \"%{name}\""
+  compare revisions: ""
+  pages in category: "\"%{category}\" категориясонть лопатне"
+
+  namespaces:
+    media: "Медия,Медиа"
+    file: "Артовкс,Ресим,Resim"
+    category: "Категория,Категория"
+    template: "ЛопаПарцун,Шаблон"
+    special: "Башка тевень,Махсус"
+    help: "Лезкс,Ярдым"
+    talk: "Кортамо,Музакере"
+

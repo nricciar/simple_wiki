@@ -1,0 +1,17 @@
+:tr:
+  table of contents: "Konu başlıkları"
+  edit: "Düzenle"
+  edit section: "%{name} bölümünü değiştir"
+  revision history: "\"%{name}\" sayfasının geçmişi"
+  compare revisions: "Sayfa sürümlerini karşılaştır"
+  pages in category: "\"%{category}\" kategorisindeki sayfalar"
+
+  namespaces:
+    media: "Medya"
+    file: "Dosya,Resim"
+    category: "Kategori"
+    template: "Şablon"
+    special: "Özel"
+    help: "Yardım"
+    talk: "Tartışma"
+

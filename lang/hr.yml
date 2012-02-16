@@ -1,0 +1,17 @@
+:hr:
+  table of contents: "Sadržaj"
+  edit: "Uredi"
+  edit section: "Uređivanje odlomka: %{name}"
+  revision history: "Povijest izmjena stranice \"%{name}\""
+  compare revisions: "Usporedite inačice stranice"
+  pages in category: "Članci u kategoriji \"%{category}\""
+
+  namespaces:
+    media: "Mediji"
+    file: "Datoteka,Slika"
+    category: "Kategorija"
+    template: "Predložak"
+    special: "Posebno"
+    help: "Pomoć"
+    talk: "Razgovor"
+

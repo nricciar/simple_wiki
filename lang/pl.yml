@@ -1,0 +1,17 @@
+:pl:
+  table of contents: "Spis treści"
+  edit: "Edytuj"
+  edit section: "Edytuj sekcję: %{name}"
+  revision history: "Historia edycji „%{name}”"
+  compare revisions: "Porównanie wersji stron"
+  pages in category: "Strony w kategorii „%{category}”"
+
+  namespaces:
+    media: "Media"
+    file: "Plik,Grafika"
+    category: "Kategoria"
+    template: "Szablon"
+    special: "Specjalna"
+    help: "Pomoc"
+    talk: "Dyskusja"
+

@@ -1,0 +1,17 @@
+:ce:
+  table of contents: "Чулацам"
+  edit: "Нисйé"
+  edit section: "Нисде даакъа: %{name}"
+  revision history: "%{name} — хийцаман исторе"
+  compare revisions: ""
+  pages in category: "Агlонаш оц кадегаршчохь «%{category}»"
+
+  namespaces:
+    media: "Медиа,Медйа"
+    file: "Хlум,Сурт"
+    category: "Кадегар,Тоба"
+    template: "Куцкеп,Дакъан"
+    special: "Белхан,Башхо"
+    help: "Гlо,ГІо"
+    talk: "Дийцаре,Дийца"
+

@@ -1,0 +1,17 @@
+:eu:
+  table of contents: "Edukiak"
+  edit: "Aldatu"
+  edit section: "Atala aldatu: %{name}"
+  revision history: "\"%{name}\" orrialdearen historia laburpena"
+  compare revisions: "Orrialde-berrikuspenak alderatu"
+  pages in category: "\"%{category}\" kategoriako artikuluak"
+
+  namespaces:
+    media: "Media"
+    file: "Fitxategi,Irudi"
+    category: "Kategoria"
+    template: "Txantiloi"
+    special: "Berezi,Aparteko"
+    help: "Laguntza"
+    talk: "Eztabaida"
+

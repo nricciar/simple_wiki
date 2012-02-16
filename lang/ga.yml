@@ -1,0 +1,17 @@
+:ga:
+  table of contents: "Clár ábhair"
+  edit: "Athraigh an lch seo"
+  edit section: "Athraigh mír: %{name}"
+  revision history: "Stair leasú \"%{name}\""
+  compare revisions: ""
+  pages in category: "Ailt sa chatagóir \"%{category}\""
+
+  namespaces:
+    media: "Meán"
+    file: "Íomhá"
+    category: "Catagóir,Rang"
+    template: "Teimpléad,Múnla"
+    special: "Speisialta"
+    help: "Cabhair"
+    talk: "Plé"
+

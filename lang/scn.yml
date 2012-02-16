@@ -1,0 +1,17 @@
+:scn:
+  table of contents: "Ìndici"
+  edit: "cancia"
+  edit section: "Cancia la sezzioni %{name}"
+  revision history: "Crunoluggìa dî canciamenti di \"%{name}\""
+  compare revisions: ""
+  pages in category: "Artìculi ntâ catigurìa \"%{category}\""
+
+  namespaces:
+    media: "Mèdia"
+    file: "File,Mmàggini"
+    category: "Catigurìa"
+    template: "Template"
+    special: "Spiciali"
+    help: "Aiutu"
+    talk: "Discussioni"
+

@@ -1,0 +1,17 @@
+:uz:
+  table of contents: "Mundarija"
+  edit: "Tahrirlash"
+  edit section: "Boʻlimni tahrirlash: %{name}"
+  revision history: "\"%{name}\"ning tarixi"
+  compare revisions: ""
+  pages in category: "\"%{category}\" turkumidagi maqolalar."
+
+  namespaces:
+    media: "Media,Mediya"
+    file: "Tasvir"
+    category: "Turkum,Kategoriya"
+    template: "Andoza,Shablon"
+    special: "Maxsus"
+    help: "Yordam"
+    talk: "Munozara"
+

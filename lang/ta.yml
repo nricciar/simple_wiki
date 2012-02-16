@@ -1,0 +1,17 @@
+:ta:
+  table of contents: "பொருளடக்கம்"
+  edit: "தொகு"
+  edit section: "%{name} பகுதியைத் தொகு"
+  revision history: "\"%{name}\" பக்கத்தின் திருத்த வரலாறு"
+  compare revisions: "பக்க பரிசீலனைகளை ஒப்பிடு"
+  pages in category: "\"%{category}\" பகுப்பிலுள்ள பக்கங்கள்"
+
+  namespaces:
+    media: "ஊடகம்"
+    file: "படிமம்"
+    category: "பகுப்பு"
+    template: "வார்ப்புரு"
+    special: "சிறப்பு"
+    help: "உதவி"
+    talk: "பேச்சு"
+

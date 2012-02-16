@@ -1,0 +1,17 @@
+:min:
+  table of contents: "Kandungan"
+  edit: "Suntiang"
+  edit section: "Suntiang bagian: %{name}"
+  revision history: "Riwayat revisi dari \"%{name}\""
+  compare revisions: ""
+  pages in category: "Laman dalam kategori \"%{category}\""
+
+  namespaces:
+    media: "Mèdia"
+    file: "Fichièr,Imatge"
+    category: "Categoria"
+    template: "Modèl"
+    special: "Especial"
+    help: "Ajuda"
+    talk: "Discutir"
+

@@ -1,0 +1,17 @@
+:my:
+  table of contents: "မာတိကာ"
+  edit: "ပြင်​ဆင်​ရန်​"
+  edit section: "ဤအပိုင်းကို တည်းဖြတ်ရန် - %{name}"
+  revision history: "\"%{name}\" ၏ တည်းဖြတ်မူ ရာဇဝင်များ"
+  compare revisions: "စာမျက်နှာမူများကို နှုိင်းယှဉ်ရန်"
+  pages in category: "ကဏ္ဍ \"%{category}\" မှ စာမျက်နှာများ"
+
+  namespaces:
+    media: ""
+    file: "Fiileq,Fil,Billede"
+    category: "Sumut_atassuseq,Kategori"
+    template: "Ilisserut,Skabelon"
+    special: "Immikkut,Speciel"
+    help: "Ikiuutit,Hjælp"
+    talk: "Oqallinneq,Diskussion"
+

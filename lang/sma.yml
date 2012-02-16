@@ -1,0 +1,17 @@
+:sma:
+  table of contents: "Sisvege"
+  edit: "Sjiehtedh"
+  edit section: "Sektiovne sjiehtedh: %{name}"
+  revision history: "Gïehtjedamme histovrije ihke \"%{name}\""
+  compare revisions: ""
+  pages in category: "Bielie sïjse kategorije \"%{category}\""
+
+  namespaces:
+    media: "Mèdia"
+    file: "Fichièr,Imatge"
+    category: "Categoria"
+    template: "Modèl"
+    special: "Especial"
+    help: "Ajuda"
+    talk: "Discutir"
+

@@ -1,0 +1,17 @@
+:yue:
+  table of contents: "目錄"
+  edit: "改"
+  edit section: "編輯小節: %{name}"
+  revision history: "\"%{name}\"嘅修訂歷史"
+  compare revisions: "比較版修訂"
+  pages in category: "\"%{category}\" 類中嘅版"
+
+  namespaces:
+    media: "媒體,媒体"
+    file: "文件,檔,檔案,档,档案,圖,圖像,图,图像,Image"
+    category: "分類,類,类,分类"
+    template: "模"
+    special: "特別,特殊"
+    help: "幫手,幫助,說明,帮手,帮助,说明"
+    talk: "傾偈,對話,对话,討論,讨论"
+

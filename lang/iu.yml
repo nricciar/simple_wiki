@@ -1,0 +1,17 @@
+:iu:
+  table of contents: "విషయ సూచిక"
+  edit: "సవరించు"
+  edit section: "విభాగాన్ని మార్చు: %{name}"
+  revision history: "\"%{name}\" కూర్పుల చరితం"
+  compare revisions: "పుట కూర్పుల పోలిక"
+  pages in category: "\"%{category}\" వర్గంలోని పుటలు"
+
+  namespaces:
+    media: "మీడియా"
+    file: "దస్త్రం,బొమ్మ,ఫైలు"
+    category: "వర్గం"
+    template: "మూస"
+    special: "ప్రత్యేక"
+    help: "సహాయం,సహాయము"
+    talk: "చర్చ"
+

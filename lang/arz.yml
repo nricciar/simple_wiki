@@ -1,0 +1,17 @@
+:arz:
+  table of contents: "المحتويات"
+  edit: "تعديل"
+  edit section: "تعديل جزء : %{name}"
+  revision history: "تاريخ تعديل \"%{name}\""
+  compare revisions: ""
+  pages in category: "الصفحات فى التصنيف \"%{category}\""
+
+  namespaces:
+    media: "ميديا,وسائط"
+    file: "ملف,صورة"
+    category: "تصنيف"
+    template: "قالب"
+    special: "خاص"
+    help: "مساعدة"
+    talk: "نقاش"
+

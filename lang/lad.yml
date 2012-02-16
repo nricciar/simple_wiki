@@ -1,0 +1,17 @@
+:lad:
+  table of contents: "Contènidos"
+  edit: "Trocar"
+  edit section: "Troca el capítůlo: %{name}"
+  revision history: "Istoria de revisiones para «%{name}»"
+  compare revisions: ""
+  pages in category: "Artícůlos en la katēggoría \"%{category}\""
+
+  namespaces:
+    media: "Medya,Meddia"
+    file: "Dosya,Archivo,Dossia"
+    category: "Katēggoría,Categoría,Kateggoría"
+    template: "Xablón,Plantilla,Xabblón"
+    special: "Especial,Especial"
+    help: "Ayudo,Ayuda"
+    talk: "Diskusyón,Discusión,Diskussión"
+

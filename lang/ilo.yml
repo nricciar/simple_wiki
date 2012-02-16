@@ -1,0 +1,17 @@
+:ilo:
+  table of contents: "Dagiti linaon"
+  edit: "Urnosen"
+  edit section: "Urnosen ti paset: %{name}"
+  revision history: "Pakasaritaan ti pannakabalbaliw ti \"%{name}\""
+  compare revisions: "Ipada dagiti panagbaliw ti panid"
+  pages in category: "Dagiti panid iti kategoria  \"%{category}\""
+
+  namespaces:
+    media: "माध्यम"
+    file: "किपा,Imagem,Arquivo"
+    category: "पुचः"
+    template: ""
+    special: "विशेष"
+    help: "ग्वाहालि"
+    talk: "खँलाबँला"
+

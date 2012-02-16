@@ -1,0 +1,17 @@
+:mhr:
+  table of contents: "Вуйлымаш"
+  edit: "Тӧрлаташ"
+  edit section: "%{name} ужашым тӧрлаташ"
+  revision history: "%{name}лан тӱрлык эртымгорно"
+  compare revisions: ""
+  pages in category: "\"%{category}\" категорийыште лаштык-влак"
+
+  namespaces:
+    media: ",Медиа"
+    file: "Файл,Файл"
+    category: "Категорий,Категория"
+    template: "Кышкар,Шаблон,Ямдылык"
+    special: "Лӱмын_ыштыме,Служебная"
+    help: "Полшык,Справка"
+    talk: "Каҥашымаш,Обсуждение"
+

@@ -1,0 +1,17 @@
+:th:
+  table of contents: "เนื้อหา"
+  edit: "แก้ไข"
+  edit section: "แก้ไขส่วน: %{name}"
+  revision history: "ประวัติการแก้ไขหน้า \"%{name}\""
+  compare revisions: "เปรียบเทียบรุ่นของหน้า"
+  pages in category: "เนื้อหาในหมวดหมู่ \"%{category}\""
+
+  namespaces:
+    media: "สื่อ"
+    file: "ไฟล์,ภาพ"
+    category: "หมวดหมู่"
+    template: "แม่แบบ"
+    special: "พิเศษ"
+    help: "วิธีใช้"
+    talk: "พูดคุย"
+

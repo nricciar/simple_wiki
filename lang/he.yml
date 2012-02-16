@@ -1,0 +1,17 @@
+:he:
+  table of contents: "תוכן עניינים"
+  edit: "עריכה"
+  edit section: "עריכת פסקה: %{name}"
+  revision history: "היסטוריית הגרסאות של %{name}"
+  compare revisions: "השוואת גרסאות של דפים"
+  pages in category: "דפים בקטגוריה \"%{category}\""
+
+  namespaces:
+    media: "מדיה"
+    file: "קובץ,תמונה"
+    category: "קטגוריה"
+    template: "תבנית"
+    special: "מיוחד"
+    help: "עזרה"
+    talk: "שיחה"
+

@@ -1,0 +1,17 @@
+:qug:
+  table of contents: "Tiyakkuna"
+  edit: "killkana"
+  edit section: "%{name} Seccionpi llankana"
+  revision history: "\"%{name}\" pankapa killkaykunapa wiñay kawsay"
+  compare revisions: ""
+  pages in category: "\"%{category}\" katiguriyapi tiyak pankakuna"
+
+  namespaces:
+    media: "Multimédia"
+    file: "Ficheiro,Imagem,Arquivo"
+    category: "Categoria"
+    template: "Predefinição"
+    special: "Especial"
+    help: "Ajuda"
+    talk: "Discussão"
+

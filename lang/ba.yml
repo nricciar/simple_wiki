@@ -1,0 +1,17 @@
+:ba:
+  table of contents: "Эстәлеге"
+  edit: "Үҙгәртеү"
+  edit section: "%{name} бүлеген үҙгәртеү"
+  revision history: "%{name} битенең үҙгәртеү тарихы"
+  compare revisions: "Биттәрҙең өлгөләрен сағыштырыу"
+  pages in category: "«%{category}» категорияһындағы биттәр"
+
+  namespaces:
+    media: "Медиа,Μέσον"
+    file: "Рәсем,Εικόνα"
+    category: "Категория"
+    template: "Ҡалып"
+    special: "Ярҙамсы"
+    help: "Белешмә"
+    talk: "Фекер_алышыу"
+

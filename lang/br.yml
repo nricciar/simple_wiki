@@ -1,0 +1,17 @@
+:br:
+  table of contents: "Taolenn"
+  edit: "Kemmañ"
+  edit section: "Kemmañ ar rann : %{name}"
+  revision history: "Istor stummoù disheñvel \"%{name}\""
+  compare revisions: "Keñveriañ stummoù ar pajennoù"
+  pages in category: "Niver a bennadoù er rummad \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Restr,Skeudenn"
+    category: "Rummad"
+    template: "Patrom"
+    special: "Dibar"
+    help: "Skoazell"
+    talk: "Kaozeal"
+

@@ -1,0 +1,17 @@
+:de:
+  table of contents: "Inhaltsverzeichnis"
+  edit: "Bearbeiten"
+  edit section: "Abschnitt bearbeiten: %{name}"
+  revision history: "Versionsgeschichte von „%{name}“"
+  compare revisions: "Seitenversionen vergleichen"
+  pages in category: "Seiten in der Kategorie „%{category}“"
+
+  namespaces:
+    media: "Medium"
+    file: "Datei,Bild"
+    category: "Kategorie"
+    template: "Vorlage"
+    special: "Spezial"
+    help: "Hilfe"
+    talk: "Diskussion"
+

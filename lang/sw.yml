@@ -1,0 +1,17 @@
+:sw:
+  table of contents: "Yaliyomo"
+  edit: "Hariri"
+  edit section: "Hariri fungu: %{name}"
+  revision history: "Historia ya mapitio ya \"%{name}\""
+  compare revisions: "Kulinganisha mapitio"
+  pages in category: "Makala katika jamii \"%{category}\""
+
+  namespaces:
+    media: "Faili"
+    file: "Picha"
+    category: "Jamii"
+    template: "Kigezo"
+    special: "Maalum"
+    help: "Msaada"
+    talk: "Majadiliano"
+

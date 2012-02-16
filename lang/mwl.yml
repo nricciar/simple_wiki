@@ -1,0 +1,17 @@
+:mwl:
+  table of contents: "Tabela de cuntenido"
+  edit: "Eiditar"
+  edit section: "Eiditar cacho: %{name}"
+  revision history: "Stórico de eidiçones de \"%{name}\""
+  compare revisions: ""
+  pages in category: "Páiginas na catadorie \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Fexeiro,Ficheiro"
+    category: "Catadorie,Categoria"
+    template: "Modelo,Predefinição"
+    special: "Special,Especial"
+    help: "Ajuda"
+    talk: "Cumbersa,Discussão"
+

@@ -1,0 +1,17 @@
+:kaa:
+  table of contents: "Mazmunı"
+  edit: "O\'zgertiw"
+  edit section: "%{name} bo\'limin o\'zgertiw"
+  revision history: "\"%{name}\" betinin\' nusqa tariyxı"
+  compare revisions: ""
+  pages in category: "\"%{category}\" kategoriyasindag\'ı betler"
+
+  namespaces:
+    media: "Media"
+    file: "Su'wret,Imagem,Ficheiro"
+    category: "Kategoriya"
+    template: "Shablon"
+    special: "Arnawlı"
+    help: "Anıqlama"
+    talk: "Sa'wbet"
+

@@ -1,0 +1,17 @@
+:ltg:
+  table of contents: "Puslopu ruodeklis"
+  edit: "Pataiseit"
+  edit section: "Pataiseit padaļu: %{name}"
+  revision history: "\"%{name}\" verseju viesture"
+  compare revisions: ""
+  pages in category: "Puslopys kategorejā \"%{category}\""
+
+  namespaces:
+    media: "Medeja,Media"
+    file: "Fails,Imagen"
+    category: "Kategoreja,Categoría"
+    template: "Taiss,Plantilla"
+    special: "Seviškuo,Especial"
+    help: "Paleigs,Ayuda"
+    talk: "Sprīža,Discusión"
+

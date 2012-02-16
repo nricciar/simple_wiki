@@ -1,0 +1,17 @@
+:jam:
+  table of contents: "Kantent"
+  edit: "Edit"
+  edit section: "Edit sekshan: %{name}"
+  revision history: "Rivijan ischri a \"%{name}\""
+  compare revisions: ""
+  pages in category: "Piejdem ina kiatigari \"%{category}\""
+
+  namespaces:
+    media: "ميديا,وسائط"
+    file: "ملف,صورة"
+    category: "تصنيف"
+    template: "قالب"
+    special: "خاص"
+    help: "مساعدة"
+    talk: "نقاش"
+

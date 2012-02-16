@@ -1,0 +1,17 @@
+:mn:
+  table of contents: "Агуулга"
+  edit: "Засварлах"
+  edit section: "Хэсгийг засварлах: %{name}"
+  revision history: "\"%{name}\"-н засварын түүх"
+  compare revisions: "Хуудасны засваруудыг харьцуулах"
+  pages in category: "\"%{category}\" ангилал дахь хуудсууд"
+
+  namespaces:
+    media: "Медиа"
+    file: "Файл,Зураг"
+    category: "Ангилал"
+    template: "Загвар"
+    special: "Тусгай"
+    help: "Тусламж"
+    talk: "Хэлэлцүүлэг"
+

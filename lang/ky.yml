@@ -1,0 +1,17 @@
+:ky:
+  table of contents: "Мазмуну"
+  edit: "Оңдоо"
+  edit section: "%{name} бөлүмүн оңдо"
+  revision history: "\"%{name}\" барактын тарыхына сереп"
+  compare revisions: ""
+  pages in category: "\"%{category}\" категориядагы барактар"
+
+  namespaces:
+    media: ""
+    file: "Fiileq,Fil,Billede"
+    category: "Sumut_atassuseq,Kategori"
+    template: "Ilisserut,Skabelon"
+    special: "Immikkut,Speciel"
+    help: "Ikiuutit,Hjælp"
+    talk: "Oqallinneq,Diskussion"
+

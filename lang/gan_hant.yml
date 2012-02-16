@@ -1,0 +1,17 @@
+:gan_hant:
+  table of contents: "目錄"
+  edit: "編寫"
+  edit section: "編寫段落：%{name}"
+  revision history: "歷史版本嗰 \"%{name}\""
+  compare revisions: ""
+  pages in category: "「%{category}」分類裡頭嗰文章"
+
+  namespaces:
+    media: ""
+    file: ""
+    category: ",Catégorie"
+    template: ",Modèle"
+    special: ""
+    help: ",Aide"
+    talk: "談詑,Discuter"
+

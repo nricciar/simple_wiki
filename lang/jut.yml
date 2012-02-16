@@ -1,0 +1,17 @@
+:jut:
+  table of contents: "Endholtsførtegnelse"
+  edit: "Redigær"
+  edit section: "Redigær åfsnet: %{name}"
+  revision history: "Hersengsskigte før \"%{name}\""
+  compare revisions: ""
+  pages in category: "Ertikler i\'n klynge \"%{category}\""
+
+  namespaces:
+    media: "මාධ්‍යය"
+    file: "ගොනුව,රූපය"
+    category: "ප්‍රවර්ගය"
+    template: "සැකිල්ල"
+    special: "විශේෂ"
+    help: "උදවු"
+    talk: "සාකච්ඡාව"
+

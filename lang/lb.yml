@@ -1,0 +1,17 @@
+:lb:
+  table of contents: "Inhaltsverzeechnes"
+  edit: "Änneren"
+  edit section: "Abschnitt änneren: %{name}"
+  revision history: "Versiounshistorique vun „%{name}“"
+  compare revisions: "Versioune vu Säite vergläichen"
+  pages in category: "Säiten an der Kategorie \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Fichier,Bild"
+    category: "Kategorie"
+    template: "Schabloun"
+    special: "Spezial"
+    help: "Hëllef"
+    talk: "Diskussioun"
+

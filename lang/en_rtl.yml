@@ -1,0 +1,14 @@
+:en_rtl:
+  table of contents: "Spis treści"
+  edit: "Edytuj"
+  edit section: "Edytuj sekcję: %{name}"
+
+  namespaces:
+    media: "Media"
+    file: "Plik"
+    category: "Kategoria"
+    template: "Szablon"
+    special: "Specjalna"
+    help: "Pomoc"
+    talk: "Dyskusja"
+

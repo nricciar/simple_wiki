@@ -1,0 +1,17 @@
+:hif:
+  table of contents: "Obsah"
+  edit: "upraviť"
+  edit section: "Upraviť sekciu: %{name}"
+  revision history: "História revízií „%{name}“"
+  compare revisions: "Porovnať revízie stránky"
+  pages in category: "Stránky v kategórii „%{category}“"
+
+  namespaces:
+    media: "Médiá"
+    file: "Súbor,Obrázok"
+    category: "Kategória"
+    template: "Šablóna"
+    special: "Špeciálne"
+    help: "Pomoc"
+    talk: "Diskusia,Komentár"
+

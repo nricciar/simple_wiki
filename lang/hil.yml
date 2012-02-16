@@ -1,0 +1,17 @@
+:hil:
+  table of contents: "Kontents"
+  edit: "Ilisan"
+  edit section: "Islan ining bahin: %{name}"
+  revision history: "Rebisyon sang historya sa \"%{name}\""
+  compare revisions: ""
+  pages in category: "Mga pahina sa kategorya \"%{category}\""
+
+  namespaces:
+    media: "メディア"
+    file: "ファイル,画像"
+    category: "カテゴリ"
+    template: "テンプレート"
+    special: "特別"
+    help: "ヘルプ"
+    talk: "トーク,ノート"
+

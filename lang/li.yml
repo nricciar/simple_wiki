@@ -1,0 +1,17 @@
+:li:
+  table of contents: "Inhaud"
+  edit: "Bewèrk"
+  edit section: "Deilpagina bewirke: %{name}"
+  revision history: "Gesjiedenis van \"%{name}\""
+  compare revisions: "Vergeliek pazjenaversies"
+  pages in category: "Artikele in categorie \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Plaetje,Aafbeilding"
+    category: "Categorie,Kategorie"
+    template: "Sjabloon"
+    special: "Speciaal"
+    help: "Help"
+    talk: "Euverlèk"
+

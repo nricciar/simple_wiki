@@ -1,0 +1,17 @@
+:pdc:
+  table of contents: "Lischt vum Inhalt"
+  edit: "Ennere/Tscheensche"
+  edit section: "Abschnitt ennere: %{name}"
+  revision history: ""
+  compare revisions: ""
+  pages in category: "Bledder in Abdeeling „%{category}“"
+
+  namespaces:
+    media: ",Medium"
+    file: "Feil,Datei"
+    category: "Abdeeling,Kategorie"
+    template: "Moddel,Vorlage"
+    special: ",Spezial"
+    help: "Hilf,Hilfe"
+    talk: "Dischbedutt,Diskussion"
+

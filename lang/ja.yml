@@ -1,0 +1,17 @@
+:ja:
+  table of contents: "目次"
+  edit: "編集"
+  edit section: "節を編集: %{name}"
+  revision history: "「%{name}」の変更履歴"
+  compare revisions: "ページの版を比較"
+  pages in category: "カテゴリ「%{category}」にあるページ"
+
+  namespaces:
+    media: "メディア"
+    file: "ファイル,画像"
+    category: "カテゴリ"
+    template: "テンプレート"
+    special: "特別"
+    help: "ヘルプ"
+    talk: "トーク,ノート"
+

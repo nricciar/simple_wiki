@@ -1,0 +1,17 @@
+:rgn:
+  table of contents: "Indice"
+  edit: "Mudèfica"
+  edit section: "Mudèfica la seziòn: %{name}"
+  revision history: "Elench d\'j cambiamént sora \"%{name}\""
+  compare revisions: ""
+  pages in category: "Articul int la categurèja \"%{category}\""
+
+  namespaces:
+    media: ""
+    file: "Gefre,Afbeelding"
+    category: "Guru,Categorie"
+    template: "Ankra,Sjabloon"
+    special: "Spesyal,Speciaal"
+    help: "Yepi,Help"
+    talk: "Taki,Overleg"
+

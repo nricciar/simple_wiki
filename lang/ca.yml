@@ -1,0 +1,17 @@
+:ca:
+  table of contents: "Contingut"
+  edit: "Modifica"
+  edit section: "Modifica la secció: %{name}"
+  revision history: "Historial de versions de «%{name}»"
+  compare revisions: "Comparar revisions de pàgines"
+  pages in category: "Pàgines a la categoria «%{category}»"
+
+  namespaces:
+    media: "Media"
+    file: "Fitxer,Imatge"
+    category: "Categoria"
+    template: "Plantilla"
+    special: "Especial"
+    help: "Ajuda"
+    talk: "Discussió"
+

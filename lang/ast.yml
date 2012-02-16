@@ -1,0 +1,17 @@
+:ast:
+  table of contents: "Tabla de conteníos"
+  edit: "Editar"
+  edit section: "Editar seición: %{name}"
+  revision history: "Historial de revisiones de \"%{name}\""
+  compare revisions: "Comparar revisiones de páxina"
+  pages in category: "Páxines na categoría \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Archivu,Imaxe,Imaxen"
+    category: "Categoría"
+    template: "Plantía,Plantilla"
+    special: "Especial"
+    help: "Aida,Ayuda"
+    talk: "Alderique,Discusión"
+

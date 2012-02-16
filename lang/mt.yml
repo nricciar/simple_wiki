@@ -1,0 +1,17 @@
+:mt:
+  table of contents: "Kontenut"
+  edit: "Editja"
+  edit section: "Immodifika s-sezzjoni: %{name}"
+  revision history: "Kronoloġija tal-modifiki ta\' \"%{name}\""
+  compare revisions: "Ikkumpara reviżjonijiet ta\' paġna"
+  pages in category: "Paġni fil-kategorija \"%{category}\""
+
+  namespaces:
+    media: "Medja,Midja"
+    file: "Stampa"
+    category: "Kategorija"
+    template: "Mudell"
+    special: "Speċjali"
+    help: "Għajnuna"
+    talk: "Diskussjoni,Diskuti"
+

@@ -1,0 +1,17 @@
+:crh_cyrl:
+  table of contents: "Мундеридже"
+  edit: "Денъиштир"
+  edit section: "Денъиштирильген болюк: %{name}"
+  revision history: "%{name} саифесининъ денъишмелер тарихы"
+  compare revisions: ""
+  pages in category: "\"%{category}\" категориясындаки саифелер"
+
+  namespaces:
+    media: "Медиа,Media"
+    file: "Файл,Resim,Ресим"
+    category: "Категория,Kategoriya"
+    template: "Шаблон,Şablon"
+    special: "Махсус,Mahsus"
+    help: "Ярдым,Yardım"
+    talk: "Музакере,Muzakere"
+

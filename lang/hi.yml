@@ -1,0 +1,17 @@
+:hi:
+  table of contents: "विषय सूची"
+  edit: "सम्पादन"
+  edit section: "विभाग सम्पादन: %{name}"
+  revision history: "\"%{name}\" का अवतरण इतिहास"
+  compare revisions: "पृष्ठ संशोधन की तुलना करें"
+  pages in category: "\"%{category}\" श्रेणी में लेख"
+
+  namespaces:
+    media: "मीडिया,Medija"
+    file: "चित्र,Slika,Слика"
+    category: "श्रेणी,Kategorija"
+    template: "साँचा,Šablon"
+    special: "विशेष,Posebno"
+    help: "सहायता,Pomoć"
+    talk: "वार्ता,Razgovor"
+

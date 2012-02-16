@@ -1,3 +1,7 @@
+require 'rubygems'
+require 'bundler'
+Bundler.require
+
 require 'sinatra-s3/tasks'
 
 namespace :db do

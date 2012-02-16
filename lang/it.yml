@@ -1,0 +1,17 @@
+:it:
+  table of contents: "Indice"
+  edit: "Modifica"
+  edit section: "Modifica la sezione %{name}"
+  revision history: "Cronologia delle modifiche di \"%{name}\""
+  compare revisions: "Confronta le revisioni di una pagina"
+  pages in category: "Pagine nella categoria \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "File,Immagine"
+    category: "Categoria"
+    template: "Template"
+    special: "Speciale"
+    help: "Aiuto"
+    talk: "Discussione"
+

@@ -1,0 +1,17 @@
+:so:
+  table of contents: "Qoraalka gudaha oo kooban"
+  edit: "Wax ka bedel"
+  edit section: "Wax ka bedel: %{name}"
+  revision history: "Taariikhda badalka \"%{name}\""
+  compare revisions: ""
+  pages in category: "Maqaalada ku jirta qeybta \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Litratu,चित्र,চিত্র"
+    category: "Katigoria,श्रेणी,শ্রেণী"
+    template: ",साँचा"
+    special: "Espesiat,विशेष"
+    help: "Ayudo"
+    talk: "Kombetsasion,वार्ता,বার্তা"
+

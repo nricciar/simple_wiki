@@ -1,0 +1,17 @@
+:tcy:
+  table of contents: "ಪರಿವಿಡಿ"
+  edit: "ಸಂಪಾದನೆ ಮಲ್ಪುಲೆ(Edit this page)"
+  edit section: "%{name} ವಿಭಾಗದ ಸಂಪಾದನೆ ಮಲ್ಪುಲೆ"
+  revision history: "\"%{name}\" ಪುಟೊತ ಆವೃತ್ತಿ ಇತಿಹಾಸ"
+  compare revisions: ""
+  pages in category: "\"%{category}\" ವರ್ಗಡುಪ್ಪುನಂಚಿನ ಲೇಖನೊಲು"
+
+  namespaces:
+    media: "Multimédia"
+    file: "Ficheiro,Imagem,Arquivo"
+    category: "Categoria"
+    template: "Predefinição"
+    special: "Especial"
+    help: "Ajuda"
+    talk: "Discussão"
+

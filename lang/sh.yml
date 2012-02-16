@@ -1,0 +1,17 @@
+:sh:
+  table of contents: "Sadržaj"
+  edit: "Uredi"
+  edit section: "Uredi sekciju: %{name}"
+  revision history: "Historija izmjena stranice \"%{name}\""
+  compare revisions: "Usporedi revizije stranica"
+  pages in category: "Stranice u kategoriji \"%{category}\""
+
+  namespaces:
+    media: ""
+    file: "Datoteka,Bilde"
+    category: "Kategorija"
+    template: "Šablon"
+    special: "Posebno"
+    help: "Pomoć"
+    talk: "Razgovor"
+

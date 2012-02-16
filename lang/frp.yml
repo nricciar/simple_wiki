@@ -1,0 +1,17 @@
+:frp:
+  table of contents: "Somèro"
+  edit: "Changiér"
+  edit section: "Changiér la sèccion : %{name}"
+  revision history: "Historico de les vèrsions de « %{name} »"
+  compare revisions: "Comparar les vèrsions de les pâges"
+  pages in category: "Pâges dens la catègorie « %{category} »"
+
+  namespaces:
+    media: "Mèdia"
+    file: "Fichiér,Émâge"
+    category: "Catègorie"
+    template: "Modèlo"
+    special: "Spèciâl"
+    help: "Éde"
+    talk: "Discussion,Discutar"
+

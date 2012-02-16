@@ -1,0 +1,17 @@
+:anp:
+  table of contents: "विषय सूची"
+  edit: "संपादन"
+  edit section: "विभाग संपादन: %{name}"
+  revision history: "\"%{name}\" के अवतरण इतिहास"
+  compare revisions: ""
+  pages in category: "\"%{category}\" श्रेणी में लेख"
+
+  namespaces:
+    media: "Medya"
+    file: "Fichye"
+    category: "Kategori"
+    template: "Modèl"
+    special: "Espesyal"
+    help: "Èd"
+    talk: "Diskite"
+

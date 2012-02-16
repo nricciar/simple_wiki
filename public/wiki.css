@@ -1,3 +1,5 @@
+body { font-size:14px }
+#wiki_page { line-height:1.6em }
 .error { color:#cc0000;font-weight:bold }
 table { border:0 }
 table td, table th { border:0 }
@@ -20,6 +22,7 @@ overflow:hidden;
 padding:3px !important;
 text-align:center;
 }
+.thumbinner img { border:0 }
 .thumbimage { border:1px solid #CCCCCC }
 ins,del { display:block }
 ins { text-decoration:none }
@@ -56,3 +59,65 @@ word-wrap: break-word;       /* Internet Explorer 5.5+ */
 #page #revision_history { border:0px;margin:15px 0 }
 #revision_history td, #revision_history th { border:0px }
 #revision_history .check { width:1.5em;text-align:center }
+.citation {
+    word-wrap: break-word;
+}
+cite, .citation cite.article, .citation cite.contribution {
+    font-style: inherit;
+}
+.citation cite, .citation cite.periodical {
+    font-style: italic;
+}
+.citation .printonly {
+    display: none;
+}
+.new { color:#BA0000 }
+a { color: #0645AD }
+h1 a,h2 a, h3 a, h4 a, h5 a, h6 a { color:#000 }
+#catlinks {
+    line-height: 1.25em;
+}
+#catlinks li {
+    line-height: 1.25em;
+    margin: 0.125em 0;
+    padding: 0 0.5em;
+}
+#catlinks li:first-child {
+    padding-left: 0.25em;
+}
+.catlinks {
+    background-color: #F9F9F9;
+    border: 1px solid #AAAAAA;
+    clear: both;
+    margin-top: 1em;
+    padding: 5px;
+    font-size:0.88em;
+    margin-bottom:1.5em;
+}
+.catlinks a { text-decoration:none }
+#catlinks {
+    text-align: left;
+}
+#catlinks ul {
+    display: inline;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+#catlinks li {
+    border-left: 1px solid #AAAAAA;
+    display: inline-block;
+    line-height: 1.35em;
+    margin: 0.3em 0;
+    padding: 0 0.7em;
+}
+#catlinks li:first-child {
+    border-left: medium none;
+    padding-left: 0.4em;
+}
+.mw-hidden-cats-hidden {
+    display: none;
+}
+.catlinks-allhidden {
+    display: none;
+}

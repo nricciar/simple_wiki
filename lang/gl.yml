@@ -1,0 +1,17 @@
+:gl:
+  table of contents: "Índice"
+  edit: "Editar"
+  edit section: "Editar a sección: \"%{name}\""
+  revision history: "Historial de revisións de \"%{name}\""
+  compare revisions: "Comparar as revisións de dúas páxinas"
+  pages in category: "Artigos na categoría \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Ficheiro,Imaxe"
+    category: "Categoría"
+    template: "Modelo"
+    special: "Especial"
+    help: "Axuda"
+    talk: "Conversa"
+

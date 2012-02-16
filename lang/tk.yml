@@ -1,0 +1,17 @@
+:tk:
+  table of contents: "Mazmuny"
+  edit: "Redaktirle"
+  edit section: "%{name} bölümini redaktirle"
+  revision history: "\"%{name}\" sahypasynyň geçmişi"
+  compare revisions: "Sahypa wersiýalaryny deňeşdir"
+  pages in category: "\"%{category}\" kategoriýasyndaky sahypalar"
+
+  namespaces:
+    media: "Media"
+    file: "Faýl,Imahen"
+    category: "Kategoriýa"
+    template: "Şablon"
+    special: "Ýörite"
+    help: "Ýardam"
+    talk: "Çekişme"
+

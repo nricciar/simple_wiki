@@ -1,0 +1,17 @@
+:sa:
+  table of contents: "अन्तर्विषयाः"
+  edit: "सम्पाद्यताम्"
+  edit section: "अयं विभागः सम्पाद्यताम्: %{name}"
+  revision history: "\"%{name}\" इत्येतस्य आवर्तनेतिहासः :"
+  compare revisions: ""
+  pages in category: "\"%{category}\" इत्येतस्मिन् वर्गे विद्यमानानि पृष्ठानि"
+
+  namespaces:
+    media: "माध्यमम्,माध्यम"
+    file: "चित्रम्,चित्रं"
+    category: "वर्गः"
+    template: "फलकम्,बिंबधर"
+    special: "विशेष"
+    help: "सहाय्यम्,सहाय्य,उपकारः"
+    talk: "सम्भाषणम्,संभाषणं"
+

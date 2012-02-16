@@ -1,0 +1,17 @@
+:ia:
+  table of contents: "Contento"
+  edit: "Modificar"
+  edit section: "Modificar section: %{name}"
+  revision history: "Historia de versiones de \"%{name}\""
+  compare revisions: "Comparar versiones de pagina"
+  pages in category: "Articulos in le categoria \"%{category}\""
+
+  namespaces:
+    media: "Multimedia"
+    file: "File,Imagine"
+    category: "Categoria"
+    template: "Patrono"
+    special: "Special"
+    help: "Adjuta"
+    talk: "Discussion"
+

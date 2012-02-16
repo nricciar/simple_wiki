@@ -1,0 +1,17 @@
+:es:
+  table of contents: "Contenido"
+  edit: "Editar"
+  edit section: "Editar sección: %{name}"
+  revision history: "Historial de revisiones para «%{name}»"
+  compare revisions: "Comparar revisiones de página"
+  pages in category: "Artículos en la categoría «%{category}»"
+
+  namespaces:
+    media: "Medio"
+    file: "Archivo,Imagen"
+    category: "Categoría"
+    template: "Plantilla"
+    special: "Especial"
+    help: "Ayuda"
+    talk: "Discusión"
+

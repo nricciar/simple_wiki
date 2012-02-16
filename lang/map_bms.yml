@@ -1,0 +1,17 @@
+:map_bms:
+  table of contents: "Isi"
+  edit: "Sunting"
+  edit section: "Sunting bagian: %{name}"
+  revision history: "Sajarah revisi sekang \"%{name}\""
+  compare revisions: ""
+  pages in category: "Kaca nang kategori \"%{category}\""
+
+  namespaces:
+    media: "Медия,Медиа"
+    file: "Артовкс,Ресим,Resim"
+    category: "Категория,Категория"
+    template: "ЛопаПарцун,Шаблон"
+    special: "Башка тевень,Махсус"
+    help: "Лезкс,Ярдым"
+    talk: "Кортамо,Музакере"
+

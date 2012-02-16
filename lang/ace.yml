@@ -1,0 +1,17 @@
+:ace:
+  table of contents: "Asoë"
+  edit: "Andam"
+  edit section: "Andam bideuëng: %{name}"
+  revision history: "Riwayat geunantoë nibak \"%{name}\""
+  compare revisions: ""
+  pages in category: "Teunuléh lam kawan \"%{category}\""
+
+  namespaces:
+    media: "Alat"
+    file: "Beureukaih,Berkas,Gambar"
+    category: "Kawan,Kategori"
+    template: "Pola,Templat"
+    special: "Kusuih,Istimewa"
+    help: "Beunantu,Bantuan"
+    talk: "Marit,Pembicaraan,Bicara"
+

@@ -1,0 +1,17 @@
+:cs:
+  table of contents: "Obsah"
+  edit: "Editovat"
+  edit section: "Editace části %{name}"
+  revision history: "Historie verzí stránky „%{name}“"
+  compare revisions: "Porovnání revizí stránek"
+  pages in category: "Stránky v kategorii „%{category}“"
+
+  namespaces:
+    media: "Média"
+    file: "Soubor"
+    category: "Kategorie"
+    template: "Šablona"
+    special: "Speciální"
+    help: "Nápověda"
+    talk: "Diskuse"
+

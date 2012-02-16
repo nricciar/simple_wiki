@@ -1,0 +1,17 @@
+:ro:
+  table of contents: "Cuprins"
+  edit: "Modificare"
+  edit section: "Modifică secțiunea: %{name}"
+  revision history: "Istoricul versiunilor pentru „%{name}”"
+  compare revisions: "Comparație între versiuni"
+  pages in category: "Pagini din categoria „%{category}”"
+
+  namespaces:
+    media: "Media"
+    file: "Fișier,Imagine,Fişier"
+    category: "Categorie"
+    template: "Format"
+    special: "Special"
+    help: "Ajutor"
+    talk: "Discuție,Discuţie"
+

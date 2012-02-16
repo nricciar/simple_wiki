@@ -1,0 +1,17 @@
+:lo:
+  table of contents: "ເນື້ອໃນ"
+  edit: "ດັດແກ້"
+  edit section: "ດັດແກ້ ພາກ: %{name}"
+  revision history: "ປະຫວັດການດັດແກ້ ຂອງ \"%{name}\""
+  compare revisions: ""
+  pages in category: "ບົດຄວາມໃນໝວດ \"%{category}\""
+
+  namespaces:
+    media: "ສື່,ສື່ອ"
+    file: "ຮູບ"
+    category: "ໝວດ"
+    template: "ແມ່ແບບ"
+    special: "ພິເສດ"
+    help: "ຊ່ວຍເຫຼືອ"
+    talk: "ສົນທະນາ"
+

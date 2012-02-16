@@ -1,0 +1,17 @@
+:mo:
+  table of contents: "Таблэ де материй"
+  edit: "Едитязэ"
+  edit section: "Едитязэ секциуня: %{name}"
+  revision history: "Историкул ревизиилор пентру «%{name}»"
+  compare revisions: ""
+  pages in category: "Паӂинь дин категория «%{category}»"
+
+  namespaces:
+    media: "Xibaarukaay"
+    file: "Dencukaay"
+    category: "Wàll,Catégorie"
+    template: "Royuwaay,Modèle"
+    special: "Jagleel"
+    help: "Ndimbal,Aide"
+    talk: "Waxtaan,Discuter"
+

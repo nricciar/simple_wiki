@@ -1,0 +1,17 @@
+:kk_arab:
+  table of contents: "مازمۇنى"
+  edit: "وڭدەۋ"
+  edit section: "مىنا ٴبولىمدى وڭدەۋ: %{name}"
+  revision history: "«%{name}» — تۇزەتۋ تارىيحى"
+  compare revisions: ""
+  pages in category: "«%{category}» ساناتىنداعى بەتتەر"
+
+  namespaces:
+    media: "تاسپا,Таспа,Taspa"
+    file: "سۋرەت,Сурет,Swret"
+    category: "سانات,Санат,Sanat"
+    template: "ۇلگى,Үлгі,Ülgi,ٷلگٸ,ٴۇلگٴى"
+    special: "ارنايى,Арнайы,Arnaýı"
+    help: "انىقتاما,Анықтама,Anıqtama"
+    talk: "تالقىلاۋ,Талқылау,Talqılaw"
+

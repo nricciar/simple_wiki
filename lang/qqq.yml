@@ -1,0 +1,21 @@
+:qqq:
+  table of contents: "Ini adalah judul \"Daftar isi\" yang terlihat pada halaman yang memiliki lebih dari 3 bagian
+
+{{Identical|Contents}}"
+  edit: "The text of the tab going to the edit form. When the page is protected, you will see \"[[MediaWiki:Viewsource/{{SUBPAGENAME}}|{{int:viewsource}}]]\". Should be in the infinitive mood.
+
+{{Identical|Edit}}"
+  edit section: "Tool tip shown when hovering the mouse over the link to \'[{{MediaWiki:Editsection}}]\' a section. Example: Edit section: Heading name"
+  revision history: "Displayed as page title when you click on the \"history\" tab. The parameter %{name} is the normal page title."
+  compare revisions: "Header of the form on [[Special:ComparePages]]"
+  pages in category: "In category description page"
+
+  namespaces:
+    media: "Медиа,媒体"
+    file: "Сурат,檔,檔案,档,档案,圖,圖像,图,图像,Image"
+    category: "Категория,類,类,分类"
+    template: "Шаблон"
+    special: "Къуллугъирал_лажин,特殊"
+    help: "Кумаг,幫助,說明,帮手,帮助,说明"
+    talk: "Ихтилат,對話,对话,討論,讨论"
+

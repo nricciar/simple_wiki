@@ -1,0 +1,17 @@
+:ht:
+  table of contents: "Kontni yo"
+  edit: "Modifye"
+  edit section: "Modifye seksyon : %{name}"
+  revision history: "Istorik pou vèsyon « %{name} » yo"
+  compare revisions: ""
+  pages in category: "Paj yo ki nan kategori « %{category} »"
+
+  namespaces:
+    media: "Medya"
+    file: "Fichye"
+    category: "Kategori"
+    template: "Modèl"
+    special: "Espesyal"
+    help: "Èd"
+    talk: "Diskite"
+

@@ -1,0 +1,17 @@
+:jbo:
+  table of contents: "ckupau pagbu"
+  edit: "stika"
+  edit section: "stika ti: %{name}"
+  revision history: ""
+  compare revisions: ""
+  pages in category: "fe le kibypapri cu klesi \"%{category}\""
+
+  namespaces:
+    media: "Medie,Meedije"
+    file: "Datei,Beld,Belld"
+    category: "Saachjrupp,Sachjrop,Saachjrop,Saachjropp,Kattejori,Kategorie,Katejori"
+    template: "Schablon"
+    special: "Extra,Spezial,Shpezjal"
+    help: "Hölp,Hülp"
+    talk: "Klaaf"
+

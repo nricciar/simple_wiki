@@ -1,0 +1,17 @@
+:pam:
+  table of contents: "Kalamnan"
+  edit: "Alilan"
+  edit section: "Mag-edit dake: %{name}"
+  revision history: "Amlat ning pamagbayu king \"%{name}\""
+  compare revisions: ""
+  pages in category: "Deng bulung king kategoriyang \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Ofbeelding"
+    category: "Kattegerie,Categorie"
+    template: "Mal,Sjabloon"
+    special: "Speciaal,Speciaol"
+    help: "Hulpe"
+    talk: "Overleg"
+

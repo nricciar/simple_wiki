@@ -1,0 +1,17 @@
+:sli:
+  table of contents: "Inhoaltsverzeichnis"
+  edit: "Beoarbeita"
+  edit section: "Oabschnitt beorbeita: %{name}"
+  revision history: "Versionsgeschichte vun „%{name}“"
+  compare revisions: ""
+  pages in category: "Seyta ei derr Heetgruppe \"%{category}\""
+
+  namespaces:
+    media: "Xibaarukaay"
+    file: "Dencukaay"
+    category: "Wàll,Catégorie"
+    template: "Royuwaay,Modèle"
+    special: "Jagleel"
+    help: "Ndimbal,Aide"
+    talk: "Waxtaan,Discuter"
+

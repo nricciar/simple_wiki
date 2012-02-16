@@ -1,0 +1,17 @@
+:frr:
+  table of contents: "Inhåltsfertiiknis"
+  edit: "Beårbe"
+  edit section: "Säksjoon beårbe: %{name}"
+  revision history: "Färsjoonshistoori foon \"%{name}\""
+  compare revisions: ""
+  pages in category: "Side önj e kategorii \"%{category}\""
+
+  namespaces:
+    media: "Mèdia"
+    file: "Fichièr,Imatge"
+    category: "Categoria"
+    template: "Modèl"
+    special: "Especial"
+    help: "Ajuda"
+    talk: "Discutir"
+

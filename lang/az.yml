@@ -1,0 +1,17 @@
+:az:
+  table of contents: "Mündəricat"
+  edit: "Redaktə"
+  edit section: "%{name} bölməsini redaktə et"
+  revision history: "\"%{name}\" səhifəsinin tarixçəsi"
+  compare revisions: "Səhifə redaktələrini qarşılaşdır"
+  pages in category: "\"%{category}\" kateqoriyasındakı məqalələr"
+
+  namespaces:
+    media: ",Mediya"
+    file: "Şəkil"
+    category: "Kateqoriya"
+    template: "Şablon"
+    special: "Xüsusi"
+    help: "Kömək"
+    talk: "Müzakirə"
+

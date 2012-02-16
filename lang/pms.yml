@@ -1,0 +1,17 @@
+:pms:
+  table of contents: "Contnù"
+  edit: "Modìfica"
+  edit section: "I soma dapress a modifiché la session: %{name}"
+  revision history: "Cronologìa dle modìfiche ëd \"%{name}\""
+  compare revisions: "Confronté le revision dle pàgine"
+  pages in category: "Artìcoj ant la categorìa \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Figura,Зураг"
+    category: "Categorìa"
+    template: "Stamp"
+    special: "Special"
+    help: "Agiut"
+    talk: "Discussion"
+

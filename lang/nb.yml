@@ -1,0 +1,17 @@
+:nb:
+  table of contents: "Innhold"
+  edit: "Rediger"
+  edit section: "Rediger avsnitt: %{name}"
+  revision history: "Revisjonshistorikk for «%{name}»"
+  compare revisions: "Sammenlign siderevisjoner"
+  pages in category: "Sider i kategorien «%{category}»"
+
+  namespaces:
+    media: "ਮੀਡੀਆ,Medija"
+    file: "ਤਸਵੀਰ,Slika,Слика"
+    category: "ਸ਼੍ਰੇਣੀ,Kategorija"
+    template: "ਨਮੂਨਾ,Šablon"
+    special: "ਖਾਸ,Posebno"
+    help: "ਮਦਦ,Pomoć"
+    talk: "ਚਰਚਾ,Razgovor"
+

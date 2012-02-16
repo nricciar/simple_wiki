@@ -1,0 +1,17 @@
+:ml:
+  table of contents: "ഉള്ളടക്കം"
+  edit: "തിരുത്തുക"
+  edit section: "ഉപവിഭാഗം തിരുത്തുക: %{name}"
+  revision history: "\"%{name}\" എന്ന താളിന്റെ നാൾവഴി"
+  compare revisions: "താളിന്റെ നാൾപ്പതിപ്പുകൾ താരതമ്യപ്പെടുത്തുക"
+  pages in category: "\"%{category}\" എന്ന വർഗ്ഗത്തിലെ താളുകൾ"
+
+  namespaces:
+    media: "മീഡിയ"
+    file: "പ്രമാണം,ചി,ചിത്രം,പ്ര"
+    category: "വർഗ്ഗം,വി,വ,വിഭാഗം,വർഗ്ഗം"
+    template: "ഫലകം,ഫ"
+    special: "പ്രത്യേകം,പ്രത്യേ"
+    help: "സഹായം,സ"
+    talk: "സംവാദം,സം"
+

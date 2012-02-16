@@ -1,0 +1,17 @@
+:zea:
+  table of contents: "In\'oud"
+  edit: "Bewerken"
+  edit section: "Deêlpahina bewerken: %{name}"
+  revision history: "Heschiedenisse van \"%{name}\""
+  compare revisions: ""
+  pages in category: "Artikels in categorie \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Plaetje,Berkas,Gambar"
+    category: "Categorie,Kategori"
+    template: "Sjabloon,Templat"
+    special: "Speciaol,Istimewa"
+    help: "Ulpe,Bantuan"
+    talk: "Overleg,Pembicaraan,Bicara"
+

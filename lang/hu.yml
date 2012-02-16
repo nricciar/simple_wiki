@@ -1,0 +1,17 @@
+:hu:
+  table of contents: "Tartalomjegyzék"
+  edit: "Szerkesztés"
+  edit section: "Szakasz szerkesztése: %{name}"
+  revision history: "A(z) „%{name}” laptörténete"
+  compare revisions: "Lapváltozatok összehasonlítása"
+  pages in category: "A(z) „%{category}” kategóriába tartozó lapok"
+
+  namespaces:
+    media: "Média"
+    file: "Fájl,Kép"
+    category: "Kategória"
+    template: "Sablon"
+    special: "Speciális"
+    help: "Segítség"
+    talk: "Vita"
+

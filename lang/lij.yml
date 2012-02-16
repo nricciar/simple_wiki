@@ -1,0 +1,17 @@
+:lij:
+  table of contents: "Indiçe"
+  edit: "Càngia"
+  edit section: "Càngia a seçión %{name}"
+  revision history: "Stöia de revixoìn de \"%{name}\""
+  compare revisions: ""
+  pages in category: "Pàgine inta categorîa \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Immaggine,Immagine"
+    category: "Categorîa,Categoria"
+    template: ""
+    special: "Speçiale,Speciale"
+    help: "Agiûtto,Aiuto"
+    talk: "Discûscion,Discussione"
+

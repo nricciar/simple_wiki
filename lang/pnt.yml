@@ -1,0 +1,17 @@
+:pnt:
+  table of contents: "Περιεχόμενα"
+  edit: "Άλλαξον"
+  edit section: "Άλλαξον κομμάτ\': %{name}"
+  revision history: "Ιστορικόν εκδοσίων για τη σελίδαν \"%{name}\""
+  compare revisions: ""
+  pages in category: "Σελίδας τη κατηγορίας \"%{category}\""
+
+  namespaces:
+    media: "Μέσον"
+    file: "Αρχείον,Εικόναν"
+    category: "Κατηγορίαν"
+    template: "Πρότυπον"
+    special: "Ειδικόν"
+    help: "Βοήθειαν"
+    talk: "Καλάτσεμαν"
+

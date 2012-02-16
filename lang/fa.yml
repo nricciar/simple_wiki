@@ -1,0 +1,17 @@
+:fa:
+  table of contents: "محتویات"
+  edit: "ویرایش"
+  edit section: "ویرایش بخش: %{name}"
+  revision history: "تاریخچهٔ ویرایش‌های «%{name}»"
+  compare revisions: "مقایسهٔ نسخه‌های صفحه‌ها"
+  pages in category: "مقاله‌های ردهٔ «%{category}»"
+
+  namespaces:
+    media: "مدیا,رسانه,رسانه‌ای"
+    file: "پرونده,تصویر"
+    category: "رده"
+    template: "الگو"
+    special: "ویژه"
+    help: "راهنما"
+    talk: "بحث"
+

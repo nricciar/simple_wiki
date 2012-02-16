@@ -1,0 +1,17 @@
+:tt_cyrl:
+  table of contents: "Эчтәлек"
+  edit: "Үзгәртү"
+  edit section: "%{name} бүлеген үзгәртү"
+  revision history: "%{name} битенең үзгәртү тарихы"
+  compare revisions: "Битләрнең юрамаларын чагыштыру"
+  pages in category: "«%{category}» төркемендәге битләр"
+
+  namespaces:
+    media: "Медиа"
+    file: "Файл,Изображение,Рәсем,Räsem"
+    category: "Төркем,Категория,Törkem"
+    template: "Калып,Үрнәк,Шаблон,Ürnäk"
+    special: "Махсус,Служебная,Maxsus"
+    help: "Ярдәм,Справка,Yärdäm"
+    talk: "Бәхәс,Обсуждение,Фикер алышу,Bäxäs"
+

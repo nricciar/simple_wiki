@@ -1,0 +1,17 @@
+:sei:
+  table of contents: "Insacualte"
+  edit: "Ticpatlöx"
+  edit section: "Ticpatlöx partamöx: %{name}"
+  revision history: "Históriade revicionde \"%{name}\""
+  compare revisions: ""
+  pages in category: "Páhinám cayliibám zo iti \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Ofbeelding"
+    category: "Kattegerie,Categorie"
+    template: "Mal,Sjabloon"
+    special: "Speciaal,Speciaol"
+    help: "Hulpe"
+    talk: "Overleg"
+

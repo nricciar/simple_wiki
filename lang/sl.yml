@@ -1,0 +1,17 @@
+:sl:
+  table of contents: "Vsebina"
+  edit: "Uredi stran"
+  edit section: "Spremeni razdelek: %{name}"
+  revision history: "Zgodovina strani »%{name}«"
+  compare revisions: "Primerjaj redakcije strani"
+  pages in category: "Strani v kategoriji »%{category}«"
+
+  namespaces:
+    media: "Datoteka"
+    file: "Slika"
+    category: "Kategorija"
+    template: "Predloga"
+    special: "Posebno"
+    help: "Pomoč"
+    talk: "Pogovor,Діскузіа"
+

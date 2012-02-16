@@ -1,0 +1,17 @@
+:bg:
+  table of contents: "Съдържание"
+  edit: "Редактиране"
+  edit section: "Редактиране на раздел: %{name}"
+  revision history: "Преглед на историята на „%{name}“"
+  compare revisions: "Сравняване версиите на страници"
+  pages in category: "Страници в категория „%{category}“"
+
+  namespaces:
+    media: "Медия"
+    file: "Файл,Картинка"
+    category: "Категория"
+    template: "Шаблон"
+    special: "Специални"
+    help: "Помощ"
+    talk: "Беседа"
+

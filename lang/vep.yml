@@ -1,0 +1,17 @@
+:vep:
+  table of contents: "Südäiolend"
+  edit: "Redaktiruida"
+  edit section: "Redaktiruida jaguz %{name}"
+  revision history: "\"%{name}\"-lehtpolen toižetusiden istorii"
+  compare revisions: "Lehtpoliden versijoiden rindatuz"
+  pages in category: "Lehtpoled \"%{category}\"-kategorijas"
+
+  namespaces:
+    media: "Media"
+    file: "Fail"
+    category: "Kategorii"
+    template: "Šablon"
+    special: "Specialine,Speciala"
+    help: "Abu"
+    talk: "Lodu"
+

@@ -1,0 +1,17 @@
+:bjn:
+  table of contents: "Isi"
+  edit: "Babak"
+  edit section: "Babak hagian: %{name}"
+  revision history: "Ralatan halam matan \'\'%{name}\'\'"
+  compare revisions: "Tanding raralatan tungkaran"
+  pages in category: "Tutungkaran dalam tumbung \'\'%{category}\'\'"
+
+  namespaces:
+    media: "Media"
+    file: "Barakas,Berkas"
+    category: "Tumbung,Kategori"
+    template: "Citakan,Templat"
+    special: "Istimiwa,Istimewa"
+    help: "Patulung,Bantuan"
+    talk: "Pamandiran,Pembicaraan"
+

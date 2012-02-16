@@ -1,0 +1,17 @@
+:aln:
+  table of contents: "Përmbajtja"
+  edit: "Redakto"
+  edit section: "Redakto sekcionin: %{name}"
+  revision history: "Historiku i redaktimeve për \"%{name}\""
+  compare revisions: ""
+  pages in category: "Artikuj në kategorinë \"%{category}\""
+
+  namespaces:
+    media: ""
+    file: "Skeda,Figura"
+    category: "Kategoria,Kategori"
+    template: "Stampa"
+    special: "Speciale"
+    help: "Ndihmë"
+    talk: "Diskutim"
+

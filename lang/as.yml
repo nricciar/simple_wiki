@@ -1,0 +1,17 @@
+:as:
+  table of contents: "সূচী"
+  edit: "সম্পাদনা"
+  edit section: "%{name} খণ্ডৰ সম্পাদনা"
+  revision history: "\"%{name}\" ৰ সাল-সলনিৰ ইতিহাস"
+  compare revisions: "পৃষ্ঠা পুনৰীক্ষন তুলনা কৰক"
+  pages in category: "\"%{category}\" শ্ৰেণীৰ পৃষ্ঠাসমূহ"
+
+  namespaces:
+    media: "মাধ্যম"
+    file: "চিত্ৰ,चित्र,চিত্র"
+    category: "শ্ৰেণী,श्रेणी,শ্রেণী"
+    template: "সাঁচ,साँचा"
+    special: "বিশেষ,विशेष"
+    help: "সহায়"
+    talk: "বাৰ্তা,वार्ता,বার্তা"
+

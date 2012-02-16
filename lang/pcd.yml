@@ -1,0 +1,17 @@
+:pcd:
+  table of contents: "Étnus"
+  edit: "Éditer"
+  edit section: "Éditer el sekchon: %{name}"
+  revision history: "Histoère des cangemints éd \"%{name}\""
+  compare revisions: ""
+  pages in category: "Paches in catégorie \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Immaggine,Immagine"
+    category: "Categorîa,Categoria"
+    template: ""
+    special: "Speçiale,Speciale"
+    help: "Agiûtto,Aiuto"
+    talk: "Discûscion,Discussione"
+

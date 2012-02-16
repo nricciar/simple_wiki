@@ -1,0 +1,17 @@
+:be:
+  table of contents: "Змест"
+  edit: "Правіць"
+  edit section: "Правіць раздзел: %{name}"
+  revision history: "Гісторыя версій \"%{name}\""
+  compare revisions: "Параўнанне версій старонкі"
+  pages in category: "Складнікі ў катэгорыі “%{category}”"
+
+  namespaces:
+    media: "Мультымедыя"
+    file: "Выява,Bild"
+    category: "Катэгорыя"
+    template: "Шаблон"
+    special: "Адмысловае"
+    help: "Даведка"
+    talk: "Размовы"
+

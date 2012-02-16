@@ -1,0 +1,17 @@
+:tet:
+  table of contents: "Tabela konteúdu"
+  edit: "Edita"
+  edit section: "Edita parte %{name} pájina nian"
+  revision history: ""
+  compare revisions: ""
+  pages in category: "Artigu iha kategoría \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Imajen"
+    category: "Kategoria,Kategoría"
+    template: "Template"
+    special: "Espesiál"
+    help: "Ajuda"
+    talk: "Diskusaun"
+

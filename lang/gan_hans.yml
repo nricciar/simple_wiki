@@ -1,0 +1,17 @@
+:gan_hans:
+  table of contents: "目录"
+  edit: "编写"
+  edit section: "编写段落: %{name}"
+  revision history: "历史版本𠮶 \"%{name}\""
+  compare revisions: ""
+  pages in category: "“%{category}”分类里头𠮶文章"
+
+  namespaces:
+    media: ""
+    file: ",그림"
+    category: ""
+    template: ""
+    special: ",특"
+    help: ""
+    talk: "谈詑"
+

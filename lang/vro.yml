@@ -1,0 +1,17 @@
+:vro:
+  table of contents: "Sisukõrd"
+  edit: "Toimõndaq"
+  edit section: "Toimõndaq lõiku: %{name}"
+  revision history: "\"%{name}\" muutmiisi nimekiri"
+  compare revisions: ""
+  pages in category: "Katõgooria \"%{category}\" artikliq"
+
+  namespaces:
+    media: "Meediä"
+    file: "Pilt,Imajo"
+    category: "Katõgooria"
+    template: "Näüdüs,Modelo"
+    special: "Tallituslehekülg"
+    help: "Oppus"
+    talk: "Arotus"
+

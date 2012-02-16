@@ -1,0 +1,17 @@
+:srn:
+  table of contents: "San de"
+  edit: "Kenki"
+  edit section: "Kenki a pisi: %{name}"
+  revision history: "Historia fu \"%{name}\""
+  compare revisions: ""
+  pages in category: "Den papira ini grupu “%{category}”"
+
+  namespaces:
+    media: ""
+    file: "Gefre,Afbeelding"
+    category: "Guru,Categorie"
+    template: "Ankra,Sjabloon"
+    special: "Spesyal,Speciaal"
+    help: "Yepi,Help"
+    talk: "Taki,Overleg"
+

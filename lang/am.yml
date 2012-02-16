@@ -1,0 +1,17 @@
+:am:
+  table of contents: "ማውጫ"
+  edit: "አርም"
+  edit section: "ክፍሉን «%{name}» ለማስተካከል"
+  revision history: "የ«%{name}» እትሞች ታሪክ"
+  compare revisions: ""
+  pages in category: "በምድብ «%{category}» ውስጥ የሚገኙ ገጾች"
+
+  namespaces:
+    media: "ፋይል"
+    file: "ስዕል"
+    category: "መደብ"
+    template: "መለጠፊያ,መልጠፊያ"
+    special: "ልዩ"
+    help: "እርዳታ"
+    talk: "ውይይት"
+

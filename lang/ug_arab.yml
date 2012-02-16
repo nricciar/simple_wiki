@@ -1,0 +1,17 @@
+:ug_arab:
+  table of contents: "مەزمۇنى"
+  edit: "تەھرىر"
+  edit section: "ئابزاس تەھرىر: %{name}"
+  revision history: "\"%{name}\" نىڭ ئۆزگەرتىش خاتىرىسى"
+  compare revisions: "بەتنىڭ تۈزىتىلگەن نەشرىنى سېلىشتۇر"
+  pages in category: "\"%{category}\" تۈردىكى بەتلەر"
+
+  namespaces:
+    media: "ۋاسىتە,Таспа,Taspa"
+    file: "ھۆججەت,Сурет,Swret"
+    category: "تۈر,Санат,Sanat"
+    template: "قېلىپ,Үлгі,Ülgi,ٷلگٸ,ٴۇلگٴى"
+    special: "ئالاھىدە,Арнайы,Arnaýı"
+    help: "ياردەم,Анықтама,Anıqtama"
+    talk: "مۇنازىرە,Талқылау,Talqılaw"
+

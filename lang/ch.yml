@@ -1,0 +1,17 @@
+:ch:
+  table of contents: "Guihana"
+  edit: "Tulaika"
+  edit section: "Tulaika i patte: %{name}"
+  revision history: "Historian tinilaika nu \"%{name}\""
+  compare revisions: ""
+  pages in category: "Påhina siha gi katigoria \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Litratu,चित्र,চিত্র"
+    category: "Katigoria,श्रेणी,শ্রেণী"
+    template: ",साँचा"
+    special: "Espesiat,विशेष"
+    help: "Ayudo"
+    talk: "Kombetsasion,वार्ता,বার্তা"
+

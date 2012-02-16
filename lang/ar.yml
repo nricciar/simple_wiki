@@ -1,0 +1,17 @@
+:ar:
+  table of contents: "محتويات"
+  edit: "عدل"
+  edit section: "حرر القسم: %{name}"
+  revision history: "تاريخ مراجعة \"%{name}\""
+  compare revisions: "قارن مراجعات الصفحة"
+  pages in category: "صفحات تصنيف \"%{category}\""
+
+  namespaces:
+    media: "ميديا,وسائط"
+    file: "ملف,صورة"
+    category: "تصنيف"
+    template: "قالب"
+    special: "خاص"
+    help: "مساعدة"
+    talk: "نقاش"
+

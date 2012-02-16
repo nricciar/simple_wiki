@@ -1,0 +1,17 @@
+:fur:
+  table of contents: "Tabele dai contignûts"
+  edit: "Cambie"
+  edit section: "cambie la sezion %{name}"
+  revision history: "Storic dai cambiaments di \"%{name}\""
+  compare revisions: ""
+  pages in category: "Vôs inte categorie \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Figure,Immàgini"
+    category: "Categorie"
+    template: "Model"
+    special: "Speciâl,Speciale"
+    help: "Jutori"
+    talk: "Discussion,Contièndha"
+

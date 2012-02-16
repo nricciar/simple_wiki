@@ -1,0 +1,17 @@
+:nds_nl:
+  table of contents: "Onderwarpen"
+  edit: "Bewarken"
+  edit section: "Bewarkingsveld: %{name}"
+  revision history: "Geschiedenisse van \"%{name}\""
+  compare revisions: "Paginaversies vergelieken"
+  pages in category: "Artikels in kategorie %{category}"
+
+  namespaces:
+    media: "Media"
+    file: "Ofbeelding"
+    category: "Kattegerie,Categorie"
+    template: "Mal,Sjabloon"
+    special: "Speciaal,Speciaol"
+    help: "Hulpe"
+    talk: "Overleg"
+

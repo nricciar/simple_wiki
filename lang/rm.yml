@@ -1,0 +1,17 @@
+:rm:
+  table of contents: "Cuntegn"
+  edit: "Modifitgar"
+  edit section: "Modifitgar secziun: %{name}"
+  revision history: "Cronica da versiuns da \"%{name}\""
+  compare revisions: "Cumparegliar versiuns d\'ina pagina"
+  pages in category: "Artitgels en la categoria \"%{category}\""
+
+  namespaces:
+    media: "Multimedia"
+    file: "Datoteca,Mmàggini"
+    category: "Categoria"
+    template: "Model"
+    special: "Spezial"
+    help: "Agid"
+    talk: "Discussiun"
+

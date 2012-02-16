@@ -1,0 +1,17 @@
+:ms:
+  table of contents: "Isi kandungan"
+  edit: "Sunting"
+  edit section: "Sunting bahagian: %{name}"
+  revision history: "Sejarah semakan bagi \"%{name}\""
+  compare revisions: "Bandingkan semakan laman"
+  pages in category: "Laman-laman dalam kategori \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Fail,Imej"
+    category: "Kategori"
+    template: "Templat"
+    special: "Khas,Istimewa"
+    help: "Bantuan"
+    talk: "Perbincangan,Perbualan"
+

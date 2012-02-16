@@ -1,0 +1,17 @@
+:no:
+  table of contents: "Innhold"
+  edit: "Rediger"
+  edit section: "Rediger avsnitt: %{name}"
+  revision history: "Revisjonshistorikk for «%{name}»"
+  compare revisions: "Sammenlign siderevisjoner"
+  pages in category: "Sider i kategorien «%{category}»"
+
+  namespaces:
+    media: "Medium"
+    file: "Fil,Bilde"
+    category: "Kategori"
+    template: "Mal"
+    special: "Spesial"
+    help: "Hjelp"
+    talk: "Diskusjon"
+

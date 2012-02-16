@@ -1,0 +1,17 @@
+:khw:
+  table of contents: "فہرست"
+  edit: "ترمیم"
+  edit section: "تدوینِو حصّہ: %{name}"
+  revision history: "تاریخچہ \"%{name}\""
+  compare revisions: ""
+  pages in category: "زمرہ \"%{category}\" مضمون\'"
+
+  namespaces:
+    media: "Медија,Medija"
+    file: "Датотека,Slika,Слика"
+    category: "Категорија,Kategorija"
+    template: "Шаблон,Šablon"
+    special: "Посебно,Posebno"
+    help: "Помоћ,Pomoć"
+    talk: "Разговор,Razgovor"
+

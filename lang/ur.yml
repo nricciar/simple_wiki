@@ -1,0 +1,17 @@
+:ur:
+  table of contents: "فہرست"
+  edit: "ترمیم"
+  edit section: "تدوینِ حصّہ: %{name}"
+  revision history: "\"%{name}\" کا نظرثانی تاریخچہ"
+  compare revisions: ""
+  pages in category: "زمرہ \"%{category}\" میں مضامین"
+
+  namespaces:
+    media: "زریعہ,Medija"
+    file: "تصویر,Slika,Слика"
+    category: "زمرہ,Kategorija"
+    template: "سانچہ,Šablon"
+    special: "خاص,Posebno"
+    help: "معاونت,Pomoć"
+    talk: "تبادلۂ_خیال,Razgovor"
+

@@ -1,0 +1,17 @@
+:bs:
+  table of contents: "Sadržaj"
+  edit: "Uredi"
+  edit section: "Uredi sekciju: %{name}"
+  revision history: "Historija izmjena stranice \"%{name}\""
+  compare revisions: "Usporedi ispravljanje stranica"
+  pages in category: "Članci u kategoriji \"%{category}\""
+
+  namespaces:
+    media: "Mediji,Medija"
+    file: "Datoteka,Slika"
+    category: "Kategorija"
+    template: "Šablon"
+    special: "Posebno"
+    help: "Pomoć"
+    talk: "Razgovor"
+

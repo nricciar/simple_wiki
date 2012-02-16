@@ -1,0 +1,17 @@
+:wo:
+  table of contents: "Tëraliin"
+  edit: "Soppi"
+  edit section: "Soppi bii xaaj : %{name}"
+  revision history: "Jaar-jaaru sumbi « %{name} »"
+  compare revisions: ""
+  pages in category: "Xëti wàll wi « %{category} »"
+
+  namespaces:
+    media: "Xibaarukaay"
+    file: "Dencukaay"
+    category: "Wàll,Catégorie"
+    template: "Royuwaay,Modèle"
+    special: "Jagleel"
+    help: "Ndimbal,Aide"
+    talk: "Waxtaan,Discuter"
+

@@ -1,0 +1,17 @@
+:lzh:
+  table of contents: "章"
+  edit: "纂"
+  edit section: "纂 %{name}"
+  revision history: "%{name}之誌"
+  compare revisions: "較頁之審"
+  pages in category: "「%{category}」中之頁"
+
+  namespaces:
+    media: "Media"
+    file: "Faýl,Imahen"
+    category: "Kategoriýa"
+    template: "Şablon"
+    special: "Ýörite"
+    help: "Ýardam"
+    talk: "Çekişme"
+

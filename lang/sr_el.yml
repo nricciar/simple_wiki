@@ -1,0 +1,17 @@
+:sr_el:
+  table of contents: "Sadržaj"
+  edit: "Uredi"
+  edit section: "Uredite odeljak „%{name}“"
+  revision history: "Istorija izmena za „%{name}“"
+  compare revisions: "Upoređivanje izmena stranice"
+  pages in category: "Stranice u kategoriji „%{category}“"
+
+  namespaces:
+    media: "Medija,Медија"
+    file: "Slika,Слика"
+    category: "Kategorija,Категорија"
+    template: "Šablon,Шаблон"
+    special: "Posebno,Посебно"
+    help: "Pomoć,Помоћ"
+    talk: "Razgovor,Разговор"
+

@@ -1,0 +1,17 @@
+:sco:
+  table of contents: "Table o contents"
+  edit: "Edit"
+  edit section: "Edit section: %{name}"
+  revision history: "Revision history of \"%{name}\""
+  compare revisions: ""
+  pages in category: "Pages in category \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Bielde,Afbeelding"
+    category: "Kategorie,Categorie"
+    template: "Foarloage,Sjabloon"
+    special: "Spezial,Speciaal"
+    help: "Hälpe,Help"
+    talk: "Diskussion,Overleg"
+

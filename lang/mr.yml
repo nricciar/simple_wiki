@@ -1,0 +1,17 @@
+:mr:
+  table of contents: "अनुक्रमणिका"
+  edit: "संपादन"
+  edit section: "विभाग: %{name} संपादित करा"
+  revision history: "\"%{name}\" चा संपादन इतिहास"
+  compare revisions: "पानांच्या आवर्तनांची तुलना करा"
+  pages in category: "\"%{category}\" वर्गातील लेख"
+
+  namespaces:
+    media: "मिडिया"
+    file: "चित्र"
+    category: "वर्ग"
+    template: "साचा"
+    special: "विशेष"
+    help: "सहाय्य,साहाय्य"
+    talk: "चर्चा"
+

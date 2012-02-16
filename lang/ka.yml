@@ -1,0 +1,17 @@
+:ka:
+  table of contents: "სარჩევი"
+  edit: "რედაქტირება"
+  edit section: "სექციის რედაქტირება: %{name}"
+  revision history: "ცვლილებათა ისტორია სტატიაში „%{name}“"
+  compare revisions: "გვერდების ვერსიების შედარება"
+  pages in category: "სტატიები კატეგორიაში „%{category}“"
+
+  namespaces:
+    media: "მედია"
+    file: "ფაილი,სურათი"
+    category: "კატეგორია"
+    template: "თარგი"
+    special: "სპეციალური"
+    help: "დახმარება"
+    talk: "განხილვა"
+

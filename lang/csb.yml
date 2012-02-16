@@ -1,0 +1,17 @@
+:csb:
+  table of contents: "Spisënk zamkłoscë"
+  edit: "Edicëjô"
+  edit section: "Editëjë dzél: %{name}"
+  revision history: "Historëjô wersëji dlô \"%{name}\""
+  compare revisions: ""
+  pages in category: "Artikle w kategòrëji \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Òbrôzk"
+    category: "Kategòrëjô"
+    template: "Szablóna"
+    special: "Specjalnô"
+    help: "Pòmòc"
+    talk: "Diskùsëjô"
+

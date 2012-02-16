@@ -1,0 +1,17 @@
+:af:
+  table of contents: "Inhoud"
+  edit: "Wysig"
+  edit section: "Wysig afdeling: %{name}"
+  revision history: "Weergawegeskiedenis van \"%{name}\""
+  compare revisions: "Vergelyk bladsyweergawes"
+  pages in category: "Bladsye in kategorie \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Lêer,Beeld"
+    category: "Kategorie"
+    template: "Sjabloon"
+    special: "Spesiaal"
+    help: "Hulp"
+    talk: "Bespreking"
+

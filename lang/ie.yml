@@ -1,0 +1,17 @@
+:ie:
+  table of contents: "Contenetes"
+  edit: "Redacter"
+  edit section: "Redacter division: %{name}"
+  revision history: "Revision del historie de \"%{name}\""
+  compare revisions: ""
+  pages in category: "Articules in categorie \"%{category}\""
+
+  namespaces:
+    media: "Media,Medya"
+    file: "File,Dosya"
+    category: "Categorie,Kategori"
+    template: "Avise,Şablon"
+    special: "Special,Özel"
+    help: "Auxilie,Yardım"
+    talk: "Discussion,Tartışma"
+

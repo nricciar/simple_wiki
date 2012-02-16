@@ -1,0 +1,17 @@
+:gag:
+  table of contents: "İçindekilär"
+  edit: "Diiştir"
+  edit section: "Diiştirilen bölüm: %{name}"
+  revision history: "\"%{name}\" yapraın istoriyası"
+  compare revisions: ""
+  pages in category: "\"%{category}\" kategoriyasındaki sayfalar"
+
+  namespaces:
+    media: "Mediya,Medya"
+    file: "Dosye,Dosya"
+    category: "Kategoriya,Kategori"
+    template: "Şablon,Şablon"
+    special: "Maasus,Özel"
+    help: "Yardım,Yardım"
+    talk: "Dartışma,Tartışma"
+

@@ -1,0 +1,17 @@
+:ruq_latn:
+  table of contents: "Kuprins"
+  edit: "Edita"
+  edit section: "Editaere ţisecion: %{name}"
+  revision history: "Editaerehistoria pentru \"%{name}\""
+  compare revisions: ""
+  pages in category: "Pažus en kategoria \"%{category}\""
+
+  namespaces:
+    media: "Média"
+    file: "Soubor"
+    category: "Kategorie"
+    template: "Šablona"
+    special: "Speciální"
+    help: "Nápověda"
+    talk: "Diskuse"
+

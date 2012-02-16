@@ -1,0 +1,17 @@
+:oc:
+  table of contents: "Somari"
+  edit: "Modificar"
+  edit section: "Modificar la seccion : %{name}"
+  revision history: "Istoric de las versions de « %{name} »"
+  compare revisions: ""
+  pages in category: "Articles dins la categoria « %{category} »"
+
+  namespaces:
+    media: "Mèdia"
+    file: "Fichièr,Imatge"
+    category: "Categoria"
+    template: "Modèl"
+    special: "Especial"
+    help: "Ajuda"
+    talk: "Discutir"
+

@@ -1,0 +1,17 @@
+:bcl:
+  table of contents: "Mga laog"
+  edit: "Liwatón"
+  edit section: "Liwatón an seksyon: %{name}"
+  revision history: "Uusipón nin pagpakarháy kan \"%{name}\""
+  compare revisions: ""
+  pages in category: "Mga artikulo sa kategoryang \"%{category}\""
+
+  namespaces:
+    media: "Medio"
+    file: "Ladawan,Vaizdas"
+    category: "Kategorya,Kategorija"
+    template: "Plantilya,Šablonas"
+    special: "Espesyal,Specialus"
+    help: "Tabang,Pagalba"
+    talk: "Olay,Aptarimas"
+

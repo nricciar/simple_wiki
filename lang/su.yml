@@ -1,0 +1,17 @@
+:su:
+  table of contents: "Daptar eusi"
+  edit: "Édit"
+  edit section: "Édit bab: %{name}"
+  revision history: "Jujutan révisi \"%{name}\""
+  compare revisions: ""
+  pages in category: "Artikel-artikel na kategori \"%{category}\""
+
+  namespaces:
+    media: "Média"
+    file: "Gambar"
+    category: "Kategori"
+    template: "Citakan"
+    special: "Husus"
+    help: "Pitulung"
+    talk: "Obrolan"
+

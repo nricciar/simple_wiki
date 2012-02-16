@@ -1,0 +1,17 @@
+:is:
+  table of contents: "Efnisyfirlit"
+  edit: "Breyta"
+  edit section: "Breyti hluta: %{name}"
+  revision history: "Breytingaskrá fyrir \"%{name}\""
+  compare revisions: "Bera saman útgáfur síðna"
+  pages in category: "Síður í flokknum „%{category}“"
+
+  namespaces:
+    media: "Miðill"
+    file: "Mynd,Berkas,Gambar"
+    category: "Flokkur,Kategori"
+    template: "Snið,Templat"
+    special: "Kerfissíða,Istimewa"
+    help: "Hjálp,Bantuan"
+    talk: "Spjall,Pembicaraan,Bicara"
+

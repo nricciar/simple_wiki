@@ -1,0 +1,17 @@
+:ext:
+  table of contents: "Continius"
+  edit: "Eital"
+  edit section: "Eital seción: %{name}"
+  revision history: "Estorial de revisionis de \"%{name}\""
+  compare revisions: ""
+  pages in category: "Artículus ena categoria \"%{category}\""
+
+  namespaces:
+    media: ""
+    file: ",Immagine"
+    category: ""
+    template: "Prantilla"
+    special: ""
+    help: ""
+    talk: ""
+

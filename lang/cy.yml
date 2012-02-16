@@ -1,0 +1,17 @@
+:cy:
+  table of contents: "Cynnwys"
+  edit: "Golygu"
+  edit section: "Golygu\'r adran: %{name}"
+  revision history: "Hanes golygu \'%{name}\'"
+  compare revisions: "Cymharu diwygiadau gwahanol o\'r dudalen"
+  pages in category: "Erthyglau yn y categori \"%{category}\""
+
+  namespaces:
+    media: "Media,Медија"
+    file: "Delwedd,Слика"
+    category: "Categori,Категорија"
+    template: "Nodyn,Шаблон"
+    special: "Arbennig,Посебно"
+    help: "Cymorth,Помоћ"
+    talk: "Sgwrs,Разговор"
+

@@ -1,0 +1,17 @@
+:frc:
+  table of contents: "Matières"
+  edit: "Changer"
+  edit section: "Changer la section: %{name}"
+  revision history: ""
+  compare revisions: ""
+  pages in category: "Articles dans classe \"%{category}\""
+
+  namespaces:
+    media: "Медия,Медиа"
+    file: "Артовкс,Ресим,Resim"
+    category: "Категория,Категория"
+    template: "ЛопаПарцун,Шаблон"
+    special: "Башка тевень,Махсус"
+    help: "Лезкс,Ярдым"
+    talk: "Кортамо,Музакере"
+

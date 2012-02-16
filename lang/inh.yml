@@ -1,0 +1,17 @@
+:inh:
+  table of contents: "Чулоацам"
+  edit: "Хувца"
+  edit section: "Декъам хувца: %{name}"
+  revision history: "\"%{name}\" хувцамий искар"
+  compare revisions: ""
+  pages in category: "\"%{category}\" Цатегчу оагӀувнаш"
+
+  namespaces:
+    media: "Xibaarukaay"
+    file: "Dencukaay"
+    category: "Wàll,Catégorie"
+    template: "Royuwaay,Modèle"
+    special: "Jagleel"
+    help: "Ndimbal,Aide"
+    talk: "Waxtaan,Discuter"
+

@@ -1,0 +1,17 @@
+:ps:
+  table of contents: "نيوليک"
+  edit: "سمول"
+  edit section: "د سمولو برخه: %{name}"
+  revision history: "د \"%{name}\" د پېښليک بڼه"
+  compare revisions: "د مخ بڼې سره پرتلل"
+  pages in category: "د \"%{category}\" په وېشنيزه کې شته مخونه"
+
+  namespaces:
+    media: "رسنۍ"
+    file: "دوتنه,انځور"
+    category: "وېشنيزه"
+    template: "کينډۍ"
+    special: "ځانګړی"
+    help: "لارښود"
+    talk: "خبرې_اترې"
+

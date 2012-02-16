@@ -1,0 +1,17 @@
+:kbd_cyrl:
+  table of contents: "Хэтхахэр"
+  edit: "Гъэтэрэзын"
+  edit section: "Секцэр гъэтэрэзын: %{name}"
+  revision history: "%{name} - зэхъуэкIыныгъэм и тхыдэ"
+  compare revisions: ""
+  pages in category: "НапэкIуэцIхэр \"%{category}\" категориэм"
+
+  namespaces:
+    media: "ਮੀਡੀਆ,Medija"
+    file: "ਤਸਵੀਰ,Slika,Слика"
+    category: "ਸ਼੍ਰੇਣੀ,Kategorija"
+    template: "ਨਮੂਨਾ,Šablon"
+    special: "ਖਾਸ,Posebno"
+    help: "ਮਦਦ,Pomoć"
+    talk: "ਚਰਚਾ,Razgovor"
+

@@ -1,0 +1,17 @@
+:lv:
+  table of contents: "Satura rādītājs"
+  edit: "Izmainīt šo lapu"
+  edit section: "Rediģēt sadaļu: %{name}"
+  revision history: "\"%{name}\" versiju hronoloģija"
+  compare revisions: "Salīdzināt lapu versijas"
+  pages in category: "Raksti, kas ietverti kategorijā \"%{category}\"."
+
+  namespaces:
+    media: "Media"
+    file: "Attēls,Imajo"
+    category: "Kategorija"
+    template: "Veidne,Modelo"
+    special: "Special"
+    help: "Palīdzība"
+    talk: "Diskusija"
+

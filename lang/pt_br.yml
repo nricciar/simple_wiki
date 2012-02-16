@@ -1,0 +1,17 @@
+:pt_br:
+  table of contents: "Tabela de conteúdo"
+  edit: "Editar"
+  edit section: "Editar seção: %{name}"
+  revision history: "Histórico de edições de \"%{name}\""
+  compare revisions: "Comparar edições da página"
+  pages in category: "Páginas na categoria \"%{category}\""
+
+  namespaces:
+    media: "Mídia"
+    file: "Arquivo,Imagem,Ficheiro"
+    category: "Categoria"
+    template: "Predefinição"
+    special: "Especial"
+    help: "Ajuda"
+    talk: "Discussão"
+

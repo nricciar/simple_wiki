@@ -1,0 +1,17 @@
+:vi:
+  table of contents: "Mục lục"
+  edit: "Sửa đổi"
+  edit section: "Sửa đổi đề mục: %{name}"
+  revision history: "Lịch sử sửa đổi của “%{name}”"
+  compare revisions: "So sánh phiên bản trang"
+  pages in category: "Các trang trong thể loại “%{category}”"
+
+  namespaces:
+    media: "Phương_tiện"
+    file: "Tập_tin,Hình"
+    category: "Thể_loại"
+    template: "Bản_mẫu,Tiêu_bản"
+    special: "Đặc_biệt"
+    help: "Trợ_giúp"
+    talk: "Thảo_luận"
+

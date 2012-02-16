@@ -1,0 +1,17 @@
+:da:
+  table of contents: "Indholdsfortegnelse"
+  edit: "Redigér"
+  edit section: "Rediger afsnit: %{name}"
+  revision history: "Versionshistorik for \"%{name}\""
+  compare revisions: "Sammenlign sideversioner"
+  pages in category: "Sider i kategorien \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Fil,Billede"
+    category: "Kategori"
+    template: "Skabelon"
+    special: "Speciel"
+    help: "Hjælp"
+    talk: "Diskussion"
+

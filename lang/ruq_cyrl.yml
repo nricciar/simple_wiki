@@ -1,0 +1,17 @@
+:ruq_cyrl:
+  table of contents: "Купринс"
+  edit: "Едита"
+  edit section: "Едитаере ћисецион: %{name}"
+  revision history: "Едитаерехисториа пентру \"%{name}\""
+  compare revisions: ""
+  pages in category: "Пажус ен категориа \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Ficheiro,Imaxe"
+    category: "Categoría"
+    template: "Modelo"
+    special: "Especial"
+    help: "Axuda"
+    talk: "Conversa"
+

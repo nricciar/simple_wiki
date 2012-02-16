@@ -1,0 +1,17 @@
+:nds:
+  table of contents: "Inholtsverteken"
+  edit: "Ännern"
+  edit section: "Ännere Afsnitt: %{name}"
+  revision history: "Versionshistorie vun „%{name}“"
+  compare revisions: "Siedenversionen verglieken"
+  pages in category: "Sieden in de Kategorie „%{category}“"
+
+  namespaces:
+    media: "Media"
+    file: "Bild,Datei"
+    category: "Kategorie,Kategorie"
+    template: "Vörlaag,Vorlage"
+    special: "Spezial"
+    help: "Hülp,Hilfe"
+    talk: "Diskuschoon,Diskussion"
+

@@ -1,0 +1,17 @@
+:ne:
+  table of contents: "विषयसूची"
+  edit: "परिवर्तन"
+  edit section: "खण्ड: %{name} सम्पादन गर्नुहोस्"
+  revision history: "\"%{name}\" को पुनरावलोकन इतिहास"
+  compare revisions: "पृष्ठ संस्करणहरु दाज्ने \\"
+  pages in category: "\"%{category}\" श्रेणीमा भएका लेखहरू"
+
+  namespaces:
+    media: "मीडिया"
+    file: "चित्र"
+    category: "श्रेणी"
+    template: "ढाँचा,Talγa"
+    special: "विशेष"
+    help: "मद्दत"
+    talk: "वार्तालाप"
+

@@ -1,0 +1,17 @@
+:fi:
+  table of contents: "Sisällysluettelo"
+  edit: "Muokkaa"
+  edit section: "Muokkaa osiota %{name}"
+  revision history: "Sivun %{name} muutoshistoria"
+  compare revisions: "Vertaile sivuversioita"
+  pages in category: "Sivut, jotka ovat luokassa %{category}"
+
+  namespaces:
+    media: "Media"
+    file: "Tiedosto,Kuva"
+    category: "Luokka"
+    template: "Malline"
+    special: "Toiminnot"
+    help: "Ohje"
+    talk: "Keskustelu"
+

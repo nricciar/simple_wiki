@@ -1,0 +1,17 @@
+:eo:
+  table of contents: "Enhavo"
+  edit: "Redakti"
+  edit section: "Redakti sekcion: %{name}"
+  revision history: "Redakto-historio de \"%{name}\""
+  compare revisions: "Kompari reviziojn de paĝo"
+  pages in category: "Artikoloj en kategorio \"%{category}\""
+
+  namespaces:
+    media: "Aŭdvidaĵo"
+    file: "Dosiero"
+    category: "Kategorio"
+    template: "Ŝablono"
+    special: "Specialaĵo,Speciala"
+    help: "Helpo"
+    talk: "Diskuto"
+

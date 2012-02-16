@@ -1,0 +1,17 @@
+:sv:
+  table of contents: "Innehåll"
+  edit: "Redigera"
+  edit section: "Redigera avsnitt: %{name}"
+  revision history: "Versionshistorik för \"%{name}\""
+  compare revisions: "Jämför sidversioner"
+  pages in category: "Sidor i kategorin \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Fil,Bild"
+    category: "Kategori"
+    template: "Mall"
+    special: "Special"
+    help: "Hjälp"
+    talk: "Diskussion"
+

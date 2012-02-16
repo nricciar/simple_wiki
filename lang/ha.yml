@@ -1,0 +1,17 @@
+:ha:
+  table of contents: "Kanun bayannai"
+  edit: "Gyarawa"
+  edit section: "Gyara sashe: %{name}"
+  revision history: "Tarihin sauye-sauyen \"%{name}\""
+  compare revisions: ""
+  pages in category: "Shafuna na cikin rukunin \"%{category}\""
+
+  namespaces:
+    media: "Медија"
+    file: "Податотека,Слика"
+    category: "Категорија"
+    template: "Шаблон"
+    special: "Специјална,Специјални"
+    help: "Помош"
+    talk: "Разговор"
+

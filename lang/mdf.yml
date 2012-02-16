@@ -1,0 +1,17 @@
+:mdf:
+  table of contents: "Лопань потмоц"
+  edit: "Петнеме"
+  edit section: "Петемс пялькс: %{name}"
+  revision history: "\"%{name}\"-нь верзиетнень историясна"
+  compare revisions: ""
+  pages in category: "\"%{category}\" категориеса лопатне"
+
+  namespaces:
+    media: "Медиа"
+    file: "Няйф,Изображение"
+    category: "Категорие,Категория"
+    template: "Шаблон,Шаблон"
+    special: "Башка,Служебная"
+    help: "Лезкс,Справка"
+    talk: "Корхнема,Обсуждение"
+

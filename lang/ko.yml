@@ -1,0 +1,17 @@
+:ko:
+  table of contents: "목차"
+  edit: "편집"
+  edit section: "부분 편집: %{name}"
+  revision history: "‘%{name}’ 문서의 변경 내력"
+  compare revisions: "문서의 특정판 비교"
+  pages in category: "‘%{category}’ 분류에 속하는 문서"
+
+  namespaces:
+    media: "미디어"
+    file: "파일,그림"
+    category: "분류"
+    template: "틀"
+    special: "특수기능,특"
+    help: "도움말"
+    talk: "토론"
+

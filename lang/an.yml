@@ -1,0 +1,17 @@
+:an:
+  table of contents: "Contenius"
+  edit: "Editar"
+  edit section: "Editar a sección: %{name}"
+  revision history: "Historial de versions de \"%{name}\""
+  compare revisions: "Contimparar as versions d\'as pachinas"
+  pages in category: "Articlos en a categoría \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Imachen"
+    category: "Categoría"
+    template: "Plantilla"
+    special: "Especial,Espezial"
+    help: "Aduya"
+    talk: "Descusión"
+

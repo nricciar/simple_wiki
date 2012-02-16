@@ -1,0 +1,17 @@
+:kk_tr:
+  table of contents: "حصے"
+  edit: "لکھو"
+  edit section: "حصہ لکھو: %{name}"
+  revision history: "\"%{name}\" دا ریکارڈ"
+  compare revisions: "صفیاں تے دوبارہ ویکھ دیکھو"
+  pages in category: "\"%{category}\" کیٹاگری وچ صفحے"
+
+  namespaces:
+    media: "Амедиа,Медиа"
+    file: "Афаил,Файл"
+    category: "Акатегориа,Категория"
+    template: "Ашаблон,Шаблон"
+    special: "Цастәи,Служебная"
+    help: "Ацхыраара,Справка"
+    talk: "Ахцәажәара,Обсуждение"
+

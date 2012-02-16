@@ -1,0 +1,17 @@
+:si:
+  table of contents: "පටුන"
+  edit: "සංස්කරණය කරන්න"
+  edit section: "ඡේදය සංස්කරණය කරන්න: %{name}"
+  revision history: "\"%{name}\"හි සංශෝධන ඉතිහාසය"
+  compare revisions: "පිටුවේ සංශෝධන සසඳන්න"
+  pages in category: "\"%{category}\" ප්‍රවර්ගයට අයත් පිටු"
+
+  namespaces:
+    media: "මාධ්‍යය"
+    file: "ගොනුව,රූපය"
+    category: "ප්‍රවර්ගය"
+    template: "සැකිල්ල"
+    special: "විශේෂ"
+    help: "උදවු"
+    talk: "සාකච්ඡාව"
+

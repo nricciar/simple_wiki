@@ -1,0 +1,17 @@
+:la:
+  table of contents: "Index"
+  edit: "Recensere"
+  edit section: "Recensere partem: %{name}"
+  revision history: "Historia paginae \"%{name}\""
+  compare revisions: ""
+  pages in category: "Paginae in categoria \"%{category}\""
+
+  namespaces:
+    media: ""
+    file: "Fasciculus,Imago"
+    category: "Categoria"
+    template: "Formula"
+    special: "Specialis"
+    help: "Auxilium"
+    talk: "Disputatio"
+

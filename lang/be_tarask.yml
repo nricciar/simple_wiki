@@ -1,0 +1,17 @@
+:be_tarask:
+  table of contents: "Зьмест"
+  edit: "Рэдагаваць"
+  edit section: "Рэдагаваць сэкцыю «%{name}»"
+  revision history: "Гісторыя зьменаў старонкі «%{name}»"
+  compare revisions: "Параўнаньне вэрсіяў старонак"
+  pages in category: "Старонкі ў катэгорыі «%{category}»"
+
+  namespaces:
+    media: "Мэдыя"
+    file: "Файл,Выява"
+    category: "Катэгорыя"
+    template: "Шаблён"
+    special: "Спэцыяльныя"
+    help: "Дапамога"
+    talk: "Абмеркаваньне"
+

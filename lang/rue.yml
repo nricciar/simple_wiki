@@ -1,0 +1,17 @@
+:rue:
+  table of contents: "Обсяг"
+  edit: "Едітовати"
+  edit section: "Едітовати секцію: %{name}"
+  revision history: "Історія змін сторінкы «%{name}»"
+  compare revisions: "Порівнаня ревізій сторінок"
+  pages in category: "Сторінкы в катеґорії «%{category}»"
+
+  namespaces:
+    media: "Медіа"
+    file: "Файл"
+    category: "Катеґорія"
+    template: "Шаблона"
+    special: "Шпеціална"
+    help: "Поміч"
+    talk: "Діскузія,Діскузіа"
+

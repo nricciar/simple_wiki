@@ -1,0 +1,17 @@
+:id:
+  table of contents: "Daftar isi"
+  edit: "Sunting"
+  edit section: "Sunting bagian: %{name}"
+  revision history: "Riwayat revisi dari \"%{name}\""
+  compare revisions: "Bandingkan revisi halaman"
+  pages in category: "Halaman dalam kategori \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Berkas,Gambar"
+    category: "Kategori"
+    template: "Templat"
+    special: "Istimewa"
+    help: "Bantuan"
+    talk: "Pembicaraan,Bicara"
+

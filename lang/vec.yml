@@ -1,0 +1,17 @@
+:vec:
+  table of contents: "Indice"
+  edit: "Canbia"
+  edit section: "Canbia la sezion %{name}"
+  revision history: "Storia dei canbiamenti de \'\'%{name}\'\'"
+  compare revisions: "Confronta le revision de na pagina"
+  pages in category: "Pagine in te la categoria \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "File,Imagine"
+    category: "Categoria"
+    template: "Modèl"
+    special: "Speciale"
+    help: "Ajuto,Aiuto"
+    talk: "Discussion"
+

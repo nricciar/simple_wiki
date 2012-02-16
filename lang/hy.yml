@@ -1,0 +1,17 @@
+:hy:
+  table of contents: "Բովանդակություն"
+  edit: "Խմբագրել"
+  edit section: "Խմբագրել բաժինը. %{name}"
+  revision history: "«%{name}» էջի փոփոխումների պատմություն"
+  compare revisions: ""
+  pages in category: "«%{category}» կատեգորիայի հոդվածները"
+
+  namespaces:
+    media: "Մեդիա"
+    file: "Պատկեր"
+    category: "Կատեգորիա"
+    template: "Կաղապար"
+    special: "Սպասարկող,Սպասարկող"
+    help: "Օգնություն"
+    talk: "Քննարկում"
+

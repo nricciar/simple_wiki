@@ -1,0 +1,17 @@
+:nn:
+  table of contents: "Innhaldsliste"
+  edit: "Endre"
+  edit section: "Endre bolk: %{name}"
+  revision history: "Historikken til «%{name}»"
+  compare revisions: "Samanlikn sideversjonar"
+  pages in category: "Artiklar i kategorien «%{category}»"
+
+  namespaces:
+    media: "Filpeikar"
+    file: "Fil,Imagine"
+    category: "Kategori"
+    template: "Mal"
+    special: "Spesial"
+    help: "Hjelp,Aiuto"
+    talk: "Diskusjon"
+

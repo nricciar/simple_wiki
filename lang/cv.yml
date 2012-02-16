@@ -1,0 +1,17 @@
+:cv:
+  table of contents: "Тупмалли"
+  edit: "Тӳрлетӳ"
+  edit section: "%{name} пайне тӳрлет"
+  revision history: ""
+  compare revisions: ""
+  pages in category: "«%{category}» категорири статьясем"
+
+  namespaces:
+    media: "Медиа"
+    file: "Ӳкерчĕк"
+    category: "Категори,Categorie"
+    template: "Шаблон,Sjabloon"
+    special: "Ятарлă,Speciaol"
+    help: "Пулăшу"
+    talk: "Сӳтсе явасси"
+

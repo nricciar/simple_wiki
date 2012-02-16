@@ -1,0 +1,17 @@
+:bcc:
+  table of contents: "محتوا"
+  edit: "اصلاح"
+  edit section: ": %{name}اصلاح انتخاب"
+  revision history: "تاریح بازبینی \"%{name}\""
+  compare revisions: ""
+  pages in category: "صفحات ته دسته \"%{category}\""
+
+  namespaces:
+    media: "مدیا,مدیا"
+    file: "عکس,تصویر"
+    category: "دسته,رده"
+    template: "تمپلت,الگو"
+    special: "حاص,ویژه"
+    help: "کمک,راهنما"
+    talk: "گپ,بحث"
+

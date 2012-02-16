@@ -1,0 +1,17 @@
+:vo:
+  table of contents: "Ninäd"
+  edit: "Redakön"
+  edit section: "Redakolöd dilädi: %{name}"
+  revision history: "Revidajenotem pada: \"%{name}\""
+  compare revisions: ""
+  pages in category: "Pads in klad: „%{category}“"
+
+  namespaces:
+    media: "Nünamakanäd"
+    file: "Ragiv,Magod"
+    category: "Klad"
+    template: "Samafomot"
+    special: "Patikos"
+    help: "Yuf"
+    talk: "Bespik"
+

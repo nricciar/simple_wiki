@@ -1,0 +1,17 @@
+:bn:
+  table of contents: "পরিচ্ছেদসমূহ"
+  edit: "সম্পাদনা"
+  edit section: "পরিচ্ছেদ সম্পাদনা: %{name}"
+  revision history: "\"%{name}\" এর সংশোধনের ইতিহাস"
+  compare revisions: "পাতার সংশোধন তুলনা"
+  pages in category: "\"%{category}\" বিষয়শ্রেণীতে অন্তর্ভুক্ত পাতাগুলি"
+
+  namespaces:
+    media: "মিডিয়া"
+    file: "চিত্র"
+    category: "বিষয়শ্রেণী"
+    template: "টেমপ্লেট"
+    special: "বিশেষ"
+    help: "সাহায্য"
+    talk: "আলাপ"
+

@@ -1,0 +1,18 @@
+:sq:
+  table of contents: "Përmbajtje"
+  edit: "Redakto"
+  edit section: "Redaktoni seksionin:
+Edit section: %{name}"
+  revision history: "Historiku i redaktimeve te \"%{name}\""
+  compare revisions: "Krahasoni versionet e faqeve"
+  pages in category: "Artikuj në kategorinë \"%{category}\""
+
+  namespaces:
+    media: "Media"
+    file: "Skeda,Figura"
+    category: "Kategoria,Kategori"
+    template: "Stampa"
+    special: "Speciale"
+    help: "Ndihmë"
+    talk: "Diskutim"
+

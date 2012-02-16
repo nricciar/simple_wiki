@@ -1,0 +1,17 @@
+:zh_hans:
+  table of contents: "目录"
+  edit: "编辑"
+  edit section: "编辑段落：%{name}"
+  revision history: "“%{name}”的版本历史"
+  compare revisions: "对比页面版本"
+  pages in category: "分类“%{category}”中的页面"
+
+  namespaces:
+    media: "媒体文件,媒体"
+    file: "文件,图像,档案,文件,Image"
+    category: "分类,分类"
+    template: "模板,模板"
+    special: "特殊,特殊"
+    help: "帮助,帮助"
+    talk: "讨论,对话,讨论"
+

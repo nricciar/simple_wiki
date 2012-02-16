@@ -1,0 +1,17 @@
+:crh_latn:
+  table of contents: "Münderice"
+  edit: "Deñiştir"
+  edit section: "Deñiştirilgen bölük: %{name}"
+  revision history: "\"%{name}\" saifesiniñ deñişmeler tarihı"
+  compare revisions: ""
+  pages in category: "\"%{category}\" kategoriyasındaki saifeler"
+
+  namespaces:
+    media: "Media,Медиа"
+    file: "Fayl,Ресим,Resim"
+    category: "Kategoriya,Категория"
+    template: "Şablon,Шаблон"
+    special: "Mahsus,Махсус"
+    help: "Yardım,Ярдым"
+    talk: "Muzakere,Музакере"
+

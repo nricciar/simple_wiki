@@ -1,0 +1,17 @@
+:lfn:
+  table of contents: "Contenida"
+  edit: "Cambia"
+  edit section: "Edita sesion: %{name}"
+  revision history: "Istoria de cambias de \"%{name}\""
+  compare revisions: ""
+  pages in category: "Articles en categoria \"%{category}\""
+
+  namespaces:
+    media: ""
+    file: "Fix,انځور"
+    category: "Categoria"
+    template: "Model"
+    special: "Spesial"
+    help: "Aida"
+    talk: "Discute"
+
