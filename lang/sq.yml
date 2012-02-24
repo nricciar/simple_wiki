@@ -1,9 +1,15 @@
 :sq:
   table of contents: "Përmbajtje"
   edit: "Redakto"
+  edit tab: "Redakto"
   edit section: "Redaktoni seksionin:
 Edit section: %{name}"
+  editing page: "Duke redaktuar %{name}"
+  summary: "Përmbledhje:"
+  update: "Kryej ndryshimet"
+  preview: "Shqyrto"
   revision history: "Historiku i redaktimeve te \"%{name}\""
+  history tab: "Historiku"
   compare revisions: "Krahasoni versionet e faqeve"
   pages in category: "Artikuj në kategorinë \"%{category}\""
 

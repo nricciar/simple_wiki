@@ -1,8 +1,14 @@
 :sh:
   table of contents: "Sadržaj"
   edit: "Uredi"
+  edit tab: "Uredi"
   edit section: "Uredi sekciju: %{name}"
+  editing page: "Uređujete %{name}"
+  summary: "Sažetak:"
+  update: "Snimi stranicu"
+  preview: "Pretpregled"
   revision history: "Historija izmjena stranice \"%{name}\""
+  history tab: "Historija"
   compare revisions: "Usporedi revizije stranica"
   pages in category: "Stranice u kategoriji \"%{category}\""
 

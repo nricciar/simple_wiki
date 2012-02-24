@@ -1,8 +1,14 @@
 :bcc:
   table of contents: "محتوا"
   edit: "اصلاح"
+  edit tab: "اصلاح"
   edit section: ": %{name}اصلاح انتخاب"
+  editing page: "اصلاح %{name}"
+  summary: "خلاصه:"
+  update: "صفحه ذخیره کن"
+  preview: "بازبین"
   revision history: "تاریح بازبینی \"%{name}\""
+  history tab: "تاریح"
   compare revisions: ""
   pages in category: "صفحات ته دسته \"%{category}\""
 

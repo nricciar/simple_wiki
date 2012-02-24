@@ -1,8 +1,14 @@
 :kk_arab:
   table of contents: "مازمۇنى"
   edit: "وڭدەۋ"
+  edit tab: "وڭدەۋ"
   edit section: "مىنا ٴبولىمدى وڭدەۋ: %{name}"
+  editing page: "وڭدەلۋدە: %{name}"
+  summary: "قىسقاشا مازمۇنداماسى:"
+  update: "بەتتى ساقتا!"
+  preview: "قاراپ شىعۋ"
   revision history: "«%{name}» — تۇزەتۋ تارىيحى"
+  history tab: "تارىيحى"
   compare revisions: ""
   pages in category: "«%{category}» ساناتىنداعى بەتتەر"
 

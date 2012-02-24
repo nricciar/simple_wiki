@@ -1,8 +1,14 @@
 :hu:
   table of contents: "Tartalomjegyzék"
   edit: "Szerkesztés"
+  edit tab: "Szerkesztés"
   edit section: "Szakasz szerkesztése: %{name}"
+  editing page: "%{name} szerkesztése"
+  summary: "Összefoglaló:"
+  update: "Lap mentése"
+  preview: "Előnézet"
   revision history: "A(z) „%{name}” laptörténete"
+  history tab: "Laptörténet"
   compare revisions: "Lapváltozatok összehasonlítása"
   pages in category: "A(z) „%{category}” kategóriába tartozó lapok"
 

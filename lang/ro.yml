@@ -1,8 +1,14 @@
 :ro:
   table of contents: "Cuprins"
   edit: "Modificare"
+  edit tab: "Modificare"
   edit section: "Modifică secțiunea: %{name}"
+  editing page: "modificare %{name}"
+  summary: "Rezumat:"
+  update: "Salvare pagină"
+  preview: "Previzualizare"
   revision history: "Istoricul versiunilor pentru „%{name}”"
+  history tab: "Istoric"
   compare revisions: "Comparație între versiuni"
   pages in category: "Pagini din categoria „%{category}”"
 

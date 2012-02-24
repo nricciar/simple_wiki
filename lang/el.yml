@@ -1,8 +1,14 @@
 :el:
   table of contents: "Πίνακας περιεχομένων"
   edit: "Επεξεργασία"
+  edit tab: "Επεξεργασία"
   edit section: "Επεξεργασία ενότητας: %{name}"
+  editing page: "Επεξεργασία %{name}"
+  summary: "Σύνοψη:"
+  update: "Αποθήκευση σελίδας"
+  preview: "Προεπισκόπηση"
   revision history: "Ιστορικό εκδόσεων για τη σελίδα \"%{name}\""
+  history tab: "Ιστορικό"
   compare revisions: "Συγκρίνετε τις αναθεωρήσεις των σελίδων"
   pages in category: "Άρθρα στην κατηγορία \"%{category}\""
 

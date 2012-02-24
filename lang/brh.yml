@@ -1,8 +1,14 @@
 :brh:
   table of contents: "Ridoband"
   edit: "Radbadal"
+  edit tab: "Radbadal"
   edit section: "Vanđ aŧí radbadal: %{name}"
+  editing page: "%{name} aŧí radbadal kanning us"
+  summary: "Bungapp:"
+  update: "Panna e atíko kar"
+  preview: "Sarí Jác"
   revision history: "%{name} aŧí radbadal ná lekav"
+  history tab: "Lekav"
   compare revisions: ""
   pages in category: "Xáot \"%{category}\" ŧí panna ģák"
 

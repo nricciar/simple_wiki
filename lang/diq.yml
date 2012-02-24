@@ -1,8 +1,14 @@
 :diq:
   table of contents: "Tedeestey"
   edit: "Bıvurne"
+  edit tab: "Bıvurne"
   edit section: "Qısımi bıvurne: %{name}"
+  editing page: "Şımayê kenê \"%{name}\" bıvurnê"
+  summary: "Mênine:"
+  update: "Ena pele qeyd ke"
+  preview: "Verqayt"
   revision history: "Tarixê revizyoniyê \"%{name}\""
+  history tab: "Tarix"
   compare revisions: "Revizyonê pele miqayese bike"
   pages in category: "Pelê ke kategoriya \"%{category}\" derê"
 

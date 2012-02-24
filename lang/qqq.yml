@@ -5,8 +5,22 @@
   edit: "The text of the tab going to the edit form. When the page is protected, you will see \"[[MediaWiki:Viewsource/{{SUBPAGENAME}}|{{int:viewsource}}]]\". Should be in the infinitive mood.
 
 {{Identical|Edit}}"
+  edit tab: "The text of the tab going to the edit form. When the page is protected, you will see \"[[MediaWiki:Viewsource/{{SUBPAGENAME}}|{{int:viewsource}}]]\". Should be in the infinitive mood.
+
+{{Identical|Edit}}"
   edit section: "Tool tip shown when hovering the mouse over the link to \'[{{MediaWiki:Editsection}}]\' a section. Example: Edit section: Heading name"
+  editing page: "Shown as page title when editing a page. %{name} is the name of the page that is being edited. Example: \"\'\'Editing Main Page\'\'\"."
+  summary: "The Summary text beside the edit summary field
+
+{{Identical|Summary}}"
+  update: "Text on the Save page button. See also {{msg|showpreview}} and {{msg|showdiff}} for the other buttons."
+  preview: "The title of the Preview page shown after clicking the \"Show preview\" button in the edit page. Since this is a heading, it should probably be translated as a noun and not as a verb.
+
+{{Identical|Preview}}"
   revision history: "Displayed as page title when you click on the \"history\" tab. The parameter %{name} is the normal page title."
+  history tab: "Text used on the history tab.
+
+{{Identical|History}}"
   compare revisions: "Header of the form on [[Special:ComparePages]]"
   pages in category: "In category description page"
 

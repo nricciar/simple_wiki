@@ -1,8 +1,14 @@
 :tg_latn:
   table of contents: "Mundariça"
   edit: "Viroiş"
+  edit tab: "Viroiş"
   edit section: "Viroişi qismat: %{name}"
+  editing page: "Dar holi viroiş %{name}"
+  summary: "Xulosa:"
+  update: "Sahifa zaxira şavad"
+  preview: "Peşnamoiş"
   revision history: "Ta\'rixcai viroişhoi \"%{name}\""
+  history tab: "Ta\'rix"
   compare revisions: ""
   pages in category: "Maqolaho dar gurūhi \"%{category}\""
 

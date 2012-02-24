@@ -1,8 +1,14 @@
 :srn:
   table of contents: "San de"
   edit: "Kenki"
+  edit tab: "Kenki"
   edit section: "Kenki a pisi: %{name}"
+  editing page: "E Kenki %{name}"
+  summary: "In\' syatu:"
+  update: "Kibri a papira disi"
+  preview: "Luku-na-fesi"
   revision history: "Historia fu \"%{name}\""
+  history tab: "Historia"
   compare revisions: ""
   pages in category: "Den papira ini grupu “%{category}”"
 

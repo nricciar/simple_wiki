@@ -1,8 +1,14 @@
 :ruq_cyrl:
   table of contents: "Купринс"
   edit: "Едита"
+  edit tab: "Едита"
   edit section: "Едитаере ћисецион: %{name}"
+  editing page: "о %{name} едитаере"
+  summary: "Сумар:"
+  update: ""
+  preview: ""
   revision history: "Едитаерехисториа пентру \"%{name}\""
+  history tab: ""
   compare revisions: ""
   pages in category: "Пажус ен категориа \"%{category}\""
 

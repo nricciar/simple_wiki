@@ -1,8 +1,14 @@
 :lg:
   table of contents: "Ebirimu"
   edit: "Kyusa"
+  edit tab: "Kyusa"
   edit section: "Nyiga wano okukyusaamu ekitundu: %{name}"
+  editing page: "Kati okyusa %{name}"
+  summary: "Wandika wano ebinyonyola enkyukakyuka z\'okoze:"
+  update: "Kaza olupapula"
+  preview: "Kulagako"
   revision history: "Empandika eza \"%{name}\""
+  history tab: "Ennanda"
   compare revisions: ""
   pages in category: "Empapula eziri mu ttuluba lya \"%{category}\""
 

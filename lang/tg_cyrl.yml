@@ -1,8 +1,14 @@
 :tg_cyrl:
   table of contents: "Мундариҷа"
   edit: "Вироиш"
+  edit tab: "Вироиш"
   edit section: "Вироиши қисмат: %{name}"
+  editing page: "Дар ҳоли вироиш %{name}"
+  summary: "Хулоса:"
+  update: "Саҳифа захира шавад"
+  preview: "Пешнамоиш"
   revision history: "Таърихчаи вироишҳои \"%{name}\""
+  history tab: "Таърих"
   compare revisions: ""
   pages in category: "Мақолаҳо дар гурӯҳи \"%{category}\""
 

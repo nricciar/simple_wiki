@@ -1,8 +1,14 @@
 :bat_smg:
   table of contents: "Clár ábhair"
   edit: "Athraigh an lch seo"
+  edit tab: "Athraigh an lch seo"
   edit section: "Athraigh mír: %{name}"
+  editing page: "Ag athrú %{name}"
+  summary: "Achoimriú:"
+  update: "Sábháil an lch"
+  preview: "Réamhamharc"
   revision history: "Stair leasú \"%{name}\""
+  history tab: "Stair"
   compare revisions: ""
   pages in category: "Ailt sa chatagóir \"%{category}\""
 

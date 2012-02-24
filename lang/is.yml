@@ -1,8 +1,14 @@
 :is:
   table of contents: "Efnisyfirlit"
   edit: "Breyta"
+  edit tab: "Breyta"
   edit section: "Breyti hluta: %{name}"
+  editing page: "Breyti %{name}"
+  summary: "Breytingarágrip:"
+  update: "Vista síðu"
+  preview: "Forskoða"
   revision history: "Breytingaskrá fyrir \"%{name}\""
+  history tab: "Breytingaskrá"
   compare revisions: "Bera saman útgáfur síðna"
   pages in category: "Síður í flokknum „%{category}“"
 

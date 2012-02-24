@@ -1,8 +1,14 @@
 :gu:
   table of contents: "અનુક્રમણિકા"
   edit: "ફેરફાર કરો"
+  edit tab: "ફેરફાર કરો"
   edit section: "ફેરફાર કરો - પરિચ્છેદ: %{name}"
+  editing page: "%{name}નો ફેરફાર કરી રહ્યા છે"
+  summary: "સારાંશ:"
+  update: "સાચવો"
+  preview: "પૂર્વાવલોકન"
   revision history: "\"%{name}\"ના ફેરફારોનો ઇતિહાસ"
+  history tab: "ઇતિહાસ"
   compare revisions: "પાનાનાં પુનરાવર્તન સરખાવો"
   pages in category: "શ્રેણી \"%{category}\"માં પાના"
 

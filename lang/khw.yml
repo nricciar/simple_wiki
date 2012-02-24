@@ -1,8 +1,14 @@
 :khw:
   table of contents: "فہرست"
   edit: "ترمیم"
+  edit tab: "ترمیم"
   edit section: "تدوینِو حصّہ: %{name}"
+  editing page: "تو \"%{name}\" ترمیم کوروسان۔"
+  summary: "خلاصہ:"
+  update: "محفوظ"
+  preview: "نمائش"
   revision history: "تاریخچہ \"%{name}\""
+  history tab: "تاریخچہ"
   compare revisions: ""
   pages in category: "زمرہ \"%{category}\" مضمون\'"
 

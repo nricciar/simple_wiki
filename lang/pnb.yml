@@ -1,8 +1,14 @@
 :pnb:
   table of contents: "حصے"
   edit: "لکھو"
+  edit tab: "لکھو"
   edit section: "حصہ لکھو: %{name}"
+  editing page: "تسی \"%{name}\" لکھ رہے او"
+  summary: "خلاصہ:"
+  update: "کم بچاؤ"
+  preview: "وکھاؤ"
   revision history: "\"%{name}\" دا ریکارڈ"
+  history tab: "ریکارڈ"
   compare revisions: "صفیاں تے دوبارہ ویکھ دیکھو"
   pages in category: "\"%{category}\" کیٹاگری وچ صفحے"
 

@@ -1,8 +1,14 @@
 :xal:
   table of contents: "Һарг"
   edit: "Чиклх"
+  edit tab: "Чиклх"
   edit section: "«%{name}» гидг хүвиг чиклх"
+  editing page: "Чикллһн: %{name}"
+  summary: "Учр-утх:"
+  update: "Хадһлх"
+  preview: "Хәләвр"
   revision history: "%{name} — сольлһна тууҗ"
+  history tab: "Тууҗ"
   compare revisions: ""
   pages in category: "«%{category}» әәшлд бәәдг халхс"
 

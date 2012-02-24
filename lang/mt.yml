@@ -1,8 +1,14 @@
 :mt:
   table of contents: "Kontenut"
   edit: "Editja"
+  edit tab: "Editja"
   edit section: "Immodifika s-sezzjoni: %{name}"
+  editing page: "Modifika ta\' %{name}"
+  summary: "Taqsira:"
+  update: "Salva l-paġna"
+  preview: "Dehra proviżorja"
   revision history: "Kronoloġija tal-modifiki ta\' \"%{name}\""
+  history tab: "Kronoloġija"
   compare revisions: "Ikkumpara reviżjonijiet ta\' paġna"
   pages in category: "Paġni fil-kategorija \"%{category}\""
 

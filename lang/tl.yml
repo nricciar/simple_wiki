@@ -1,8 +1,14 @@
 :tl:
   table of contents: "Mga nilalaman"
   edit: "Baguhin"
+  edit tab: "Baguhin"
   edit section: "Baguhin ang seksiyon: %{name}"
+  editing page: "Binabago ang %{name}"
+  summary: "Buod:"
+  update: "Itala ang pahina"
+  preview: "Paunang tingin"
   revision history: "Kasaysayan ng pagbabago ng \"%{name}\""
+  history tab: "Kasaysayan"
   compare revisions: "Paghambingin ang mga pahina ng rebisyon"
   pages in category: "Mga pahina sa kategoryang \"%{category}\""
 

@@ -1,8 +1,14 @@
 :ca:
   table of contents: "Contingut"
   edit: "Modifica"
+  edit tab: "Modifica"
   edit section: "Modifica la secció: %{name}"
+  editing page: "S\'està editant %{name}"
+  summary: "Resum:"
+  update: "Desa la pàgina"
+  preview: "Previsualització"
   revision history: "Historial de versions de «%{name}»"
+  history tab: "Historial"
   compare revisions: "Comparar revisions de pàgines"
   pages in category: "Pàgines a la categoria «%{category}»"
 

@@ -1,8 +1,14 @@
 :ike_cans:
   table of contents: ""
   edit: "ᓱᖁᓯᖅᐹ"
+  edit tab: "ᓱᖁᓯᖅᐹ"
   edit section: "ᓱᖁᓯᖅᐹ ᐃᓚᖏᐅᑎᑎᑦᓯᒍᑎ: %{name}"
+  editing page: "ᐊᓯᐊᙳᑐᖅ %{name}"
+  summary: "ᓱᕕᑦ:"
+  update: "ᐅᖃᐅᓯᓪᓚᕆᖏᑕ ᑎᑎᕋᖅᑕᐅᓂᖏᑦ"
+  preview: "ᐅᕝᕙ ᖃᖓᓵᖑᓕᖅᑐᖅ"
   revision history: "ᑎᑎᕋᖅᑕᐅᒋᐊᕐᖓᕈᑦ ᒪᑉᐱᑕᖅ ᑭᖑᓂᑦᑎᓐᓂ \"%{name}\""
+  history tab: "ᒪᑉᐱᑕᖅ ᑭᖑᓂᑦᑎᓐᓂ"
   compare revisions: ""
   pages in category: ""
 

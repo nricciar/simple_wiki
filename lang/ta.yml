@@ -1,8 +1,14 @@
 :ta:
   table of contents: "பொருளடக்கம்"
   edit: "தொகு"
+  edit tab: "தொகு"
   edit section: "%{name} பகுதியைத் தொகு"
+  editing page: "%{name} தொகுக்கப்படுகிறது"
+  summary: "சுருக்கம்:"
+  update: "பக்கத்தைச் சேமி"
+  preview: "முன்தோற்றம்"
   revision history: "\"%{name}\" பக்கத்தின் திருத்த வரலாறு"
+  history tab: "வரலாறு"
   compare revisions: "பக்க பரிசீலனைகளை ஒப்பிடு"
   pages in category: "\"%{category}\" பகுப்பிலுள்ள பக்கங்கள்"
 

@@ -1,8 +1,14 @@
 :hsb:
   table of contents: "Wobsah"
   edit: "wobdźěłać"
+  edit tab: "wobdźěłać"
   edit section: "Wotrězk wobdźěłać: %{name}"
+  editing page: "Wobdźěłanje strony %{name}"
+  summary: "Zjeće:"
+  update: "Składować"
+  preview: "Přehlad"
   revision history: "Stawizny wersijow strony „%{name}“"
+  history tab: "stawizny"
   compare revisions: "Wersije strony přirunać"
   pages in category: "Nastawki w kategoriji „%{category}”"
 

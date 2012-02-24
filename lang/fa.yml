@@ -1,8 +1,14 @@
 :fa:
   table of contents: "محتویات"
   edit: "ویرایش"
+  edit tab: "ویرایش"
   edit section: "ویرایش بخش: %{name}"
+  editing page: "در حال ویرایش %{name}"
+  summary: "خلاصه:"
+  update: "صفحه ذخیره شود"
+  preview: "پیش‌نمایش"
   revision history: "تاریخچهٔ ویرایش‌های «%{name}»"
+  history tab: "تاریخچه"
   compare revisions: "مقایسهٔ نسخه‌های صفحه‌ها"
   pages in category: "مقاله‌های ردهٔ «%{category}»"
 

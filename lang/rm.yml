@@ -1,8 +1,14 @@
 :rm:
   table of contents: "Cuntegn"
   edit: "Modifitgar"
+  edit tab: "Modifitgar"
   edit section: "Modifitgar secziun: %{name}"
+  editing page: "Modifitgar %{name}"
+  summary: "Resumaziun:"
+  update: "Memorisar la pagina"
+  preview: "Prevista"
   revision history: "Cronica da versiuns da \"%{name}\""
+  history tab: "versiuns/auturs"
   compare revisions: "Cumparegliar versiuns d\'ina pagina"
   pages in category: "Artitgels en la categoria \"%{category}\""
 

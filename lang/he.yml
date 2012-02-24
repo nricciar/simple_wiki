@@ -1,8 +1,14 @@
 :he:
   table of contents: "תוכן עניינים"
   edit: "עריכה"
+  edit tab: "עריכה"
   edit section: "עריכת פסקה: %{name}"
+  editing page: "עריכת %{name}"
+  summary: "תקציר:"
+  update: "שמירה"
+  preview: "תצוגה מקדימה"
   revision history: "היסטוריית הגרסאות של %{name}"
+  history tab: "היסטוריית הדף"
   compare revisions: "השוואת גרסאות של דפים"
   pages in category: "דפים בקטגוריה \"%{category}\""
 

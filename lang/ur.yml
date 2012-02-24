@@ -1,8 +1,14 @@
 :ur:
   table of contents: "فہرست"
   edit: "ترمیم"
+  edit tab: "ترمیم"
   edit section: "تدوینِ حصّہ: %{name}"
+  editing page: "آپ \"%{name}\" میں ترمیم کر رہے ہیں۔"
+  summary: "خلاصہ:"
+  update: "محفوظ"
+  preview: "نمائش"
   revision history: "\"%{name}\" کا نظرثانی تاریخچہ"
+  history tab: "تاریخچہ"
   compare revisions: ""
   pages in category: "زمرہ \"%{category}\" میں مضامین"
 

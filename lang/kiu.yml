@@ -1,8 +1,14 @@
 :kiu:
   table of contents: "Tedeestey"
   edit: "Bıvurne"
+  edit tab: "Bıvurne"
   edit section: "Qısımê %{name} bıvurne"
+  editing page: "Tıya %{name} vurnena"
+  summary: "Xulasa:"
+  update: "Pele qeyd ke"
+  preview: "Verqayt"
   revision history: "Viartê pelga \"%{name}\"ine"
+  history tab: "Tarix"
   compare revisions: ""
   pages in category: "Pelê ke kategoriya \"%{category}\" derê"
 

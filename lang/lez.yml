@@ -1,8 +1,14 @@
 :lez:
   table of contents: "КЪене авайбур"
   edit: "Дуьзар хъувун"
+  edit tab: "Дуьзар хъувун"
   edit section: "Пай дуьзар хъувун: %{name}"
+  editing page: "%{name} Дуьзар хъувун"
+  summary: "Нетижа:"
+  update: "Ччин хуьн"
+  preview: "Сифтедин килигун"
   revision history: "%{name}-ан дегишвилерин тарих"
+  history tab: "Тарих"
   compare revisions: ""
   pages in category: "\"%{category}\" категориядин ччинар"
 

@@ -1,8 +1,14 @@
 :vmf:
   table of contents: "Inhaldsfadsajchnis"
   edit: "Beärwâdn"
+  edit tab: "Beärwâdn"
   edit section: "Abschnid beärbâdn: %{name}"
+  editing page: "Beärbâdn fon %{name}"
+  summary: "Dsamfasung:"
+  update: "Sajdn schbajchän"
+  preview: "Dii sajdn, wii\'s wärn dääd"
   revision history: "Wärsjoonsfolche fo „%{name}“"
+  history tab: "Wärsjoonsfolche"
   compare revisions: ""
   pages in category: "Sajdn in dr ghadegorii „%{category}“"
 

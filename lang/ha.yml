@@ -1,8 +1,14 @@
 :ha:
   table of contents: "Kanun bayannai"
   edit: "Gyarawa"
+  edit tab: "Gyarawa"
   edit section: "Gyara sashe: %{name}"
+  editing page: "Gyaran %{name}"
+  summary: "Taƙaici:"
+  update: "Adana shafi"
+  preview: "Rigya-gani"
   revision history: "Tarihin sauye-sauyen \"%{name}\""
+  history tab: "Tarihi"
   compare revisions: ""
   pages in category: "Shafuna na cikin rukunin \"%{category}\""
 

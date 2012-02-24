@@ -1,8 +1,14 @@
 :frr:
   table of contents: "Inhåltsfertiiknis"
   edit: "Beårbe"
+  edit tab: "Beårbe"
   edit section: "Säksjoon beårbe: %{name}"
+  editing page: "Beårbe foon %{name}"
+  summary: "Tuhuupefooting:"
+  update: "Sid spikre"
+  preview: "Forlök"
   revision history: "Färsjoonshistoori foon \"%{name}\""
+  history tab: "Färsjoone/autoore"
   compare revisions: ""
   pages in category: "Side önj e kategorii \"%{category}\""
 

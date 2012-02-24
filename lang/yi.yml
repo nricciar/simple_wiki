@@ -1,8 +1,14 @@
 :yi:
   table of contents: "אינהאַלט"
   edit: "רעדאַקטירן"
+  edit tab: "רעדאַקטירן"
   edit section: "ענדערן אפטיילונג: %{name}"
+  editing page: "ענדערן %{name}"
+  summary: "קורץ וואָרט:"
+  update: "אױפֿהיטן בלאַט"
+  preview: "פאראויסדיגע ווייזונג"
   revision history: "רעוויזיע היסטאריע פֿון %{name}"
+  history tab: "היסטאריע"
   compare revisions: "פאַרגלייַכן בלאַט רעוויזיעס"
   pages in category: "אַרטיקלען אין קאַטעגאָריע \"%{category}\""
 

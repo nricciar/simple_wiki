@@ -1,8 +1,14 @@
 :sco:
   table of contents: "Table o contents"
   edit: "Edit"
+  edit tab: "Edit"
   edit section: "Edit section: %{name}"
+  editing page: "Editin %{name}"
+  summary: "Ootline:"
+  update: "Hain page"
+  preview: "Scance"
   revision history: "Revision history of \"%{name}\""
+  history tab: "History"
   compare revisions: ""
   pages in category: "Pages in category \"%{category}\""
 

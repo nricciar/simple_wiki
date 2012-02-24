@@ -1,8 +1,14 @@
 :jam:
   table of contents: "Kantent"
   edit: "Edit"
+  edit tab: "Edit"
   edit section: "Edit sekshan: %{name}"
+  editing page: "Editin %{name}"
+  summary: "Somari:"
+  update: "Sieb piej"
+  preview: "Priivyuu"
   revision history: "Rivijan ischri a \"%{name}\""
+  history tab: "Ischri"
   compare revisions: ""
   pages in category: "Piejdem ina kiatigari \"%{category}\""
 

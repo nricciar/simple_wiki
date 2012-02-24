@@ -1,8 +1,14 @@
 :szl:
   table of contents: "Treść"
   edit: "Sprowjej"
+  edit tab: "Sprowjej"
   edit section: "Sprowjej tajla: %{name}"
+  editing page: "Sprowjosz %{name}"
+  summary: "Popis půmjyńań:"
+  update: "Spamjyntej"
+  preview: "Uobźyrańy"
   revision history: "Historyjo sprowjyń \"%{name}\""
+  history tab: "Gyszichta"
   compare revisions: ""
   pages in category: "Zajty we katygoryji \"%{category}\""
 

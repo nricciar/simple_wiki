@@ -1,8 +1,14 @@
 :gag:
   table of contents: "İçindekilär"
   edit: "Diiştir"
+  edit tab: "Diiştir"
   edit section: "Diiştirilen bölüm: %{name}"
+  editing page: "\"%{name}\" sayfasın diiştirersiniz"
+  summary: "Kısaca:"
+  update: "Sayfayı registrat et"
+  preview: "Ön siir"
   revision history: "\"%{name}\" yapraın istoriyası"
+  history tab: "İstoriya"
   compare revisions: ""
   pages in category: "\"%{category}\" kategoriyasındaki sayfalar"
 

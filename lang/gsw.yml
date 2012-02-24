@@ -1,8 +1,14 @@
 :gsw:
   table of contents: "Inhaltsverzeichnis"
   edit: "Ändere"
+  edit tab: "Ändere"
   edit section: "Abschnitt ändere: %{name}"
+  editing page: "Bearbeite vo «%{name}»"
+  summary: "Zämefassig:"
+  update: "Syte spychere"
+  preview: "Vorschou"
   revision history: "Versionsgschicht vo „%{name}“"
+  history tab: "Versione/Autore"
   compare revisions: "Syteversione verglyyche"
   pages in category: "Artikel in de Kategori \"%{category}\""
 

@@ -1,8 +1,14 @@
 :lmo:
   table of contents: "Cuntegnüü"
   edit: "Mudifega"
+  edit tab: "Mudifega"
   edit section: "Mudifega la sezión %{name}"
+  editing page: "Mudifega de %{name}"
+  summary: "Mutiv per la mudifega:"
+  update: "Salva"
+  preview: "Varda prima de salvà la pagina"
   revision history: "Cronolugia di mudifegh de \"%{name}\""
+  history tab: "Crunulugìa"
   compare revisions: ""
   pages in category: "Artìcuj int la categuria \"%{category}\""
 

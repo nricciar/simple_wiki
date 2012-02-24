@@ -1,8 +1,14 @@
 :crh_latn:
   table of contents: "Münderice"
   edit: "Deñiştir"
+  edit tab: "Deñiştir"
   edit section: "Deñiştirilgen bölük: %{name}"
+  editing page: "\"%{name}\" saifesini deñiştireyatasız"
+  summary: "Deñişmeniñ qısqa tarifi:"
+  update: "Saifeni saqla"
+  preview: "Baqıp çıquv"
   revision history: "\"%{name}\" saifesiniñ deñişmeler tarihı"
+  history tab: "Keçmiş"
   compare revisions: ""
   pages in category: "\"%{category}\" kategoriyasındaki saifeler"
 

@@ -1,8 +1,14 @@
 :kk_cyrl:
   table of contents: "Мазмұны"
   edit: "Өңдеу"
+  edit tab: "Өңдеу"
   edit section: "Мына бөлімді өңдеу: %{name}"
+  editing page: "Өңделуде: %{name}"
+  summary: "Түйіндемесі:"
+  update: "Бетті сақта!"
+  preview: "Қарап шығу"
   revision history: "«%{name}» — түзету тарихы"
+  history tab: "Тарихы"
   compare revisions: ""
   pages in category: "«%{category}» санатындағы беттер"
 

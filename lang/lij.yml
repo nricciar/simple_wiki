@@ -1,8 +1,14 @@
 :lij:
   table of contents: "Indiçe"
   edit: "Càngia"
+  edit tab: "Càngia"
   edit section: "Càngia a seçión %{name}"
+  editing page: "Modiffica de %{name}"
+  summary: "Oggetto:"
+  update: "Sarva a pàgina"
+  preview: "Anteprìmma"
   revision history: "Stöia de revixoìn de \"%{name}\""
+  history tab: "Stöia"
   compare revisions: ""
   pages in category: "Pàgine inta categorîa \"%{category}\""
 

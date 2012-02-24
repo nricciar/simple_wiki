@@ -1,8 +1,14 @@
 :nds:
   table of contents: "Inholtsverteken"
   edit: "Ännern"
+  edit tab: "Ännern"
   edit section: "Ännere Afsnitt: %{name}"
+  editing page: "Ännern vun %{name}"
+  summary: "Grund för’t Ännern:"
+  update: "Siet spiekern"
+  preview: "Vörschau"
   revision history: "Versionshistorie vun „%{name}“"
+  history tab: "Historie"
   compare revisions: "Siedenversionen verglieken"
   pages in category: "Sieden in de Kategorie „%{category}“"
 

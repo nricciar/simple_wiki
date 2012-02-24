@@ -1,8 +1,14 @@
 :az:
   table of contents: "Mündəricat"
   edit: "Redaktə"
+  edit tab: "Redaktə"
   edit section: "%{name} bölməsini redaktə et"
+  editing page: "Redaktə %{name}"
+  summary: "Qısa məzmun:"
+  update: "Səhifəni qeyd et"
+  preview: "Sınaq göstərişi"
   revision history: "\"%{name}\" səhifəsinin tarixçəsi"
+  history tab: "Tarixçə"
   compare revisions: "Səhifə redaktələrini qarşılaşdır"
   pages in category: "\"%{category}\" kateqoriyasındakı məqalələr"
 

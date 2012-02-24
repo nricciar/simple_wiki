@@ -1,8 +1,14 @@
 :wo:
   table of contents: "Tëraliin"
   edit: "Soppi"
+  edit tab: "Soppi"
   edit section: "Soppi bii xaaj : %{name}"
+  editing page: "Coppiteg %{name}"
+  summary: "Tënk&nbsp;:"
+  update: "Wattu xët wi"
+  preview: "Wonendi"
   revision history: "Jaar-jaaru sumbi « %{name} »"
+  history tab: "Jaar-jaar"
   compare revisions: ""
   pages in category: "Xëti wàll wi « %{category} »"
 

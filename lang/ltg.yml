@@ -1,8 +1,14 @@
 :ltg:
   table of contents: "Puslopu ruodeklis"
   edit: "Pataiseit"
+  edit tab: "Pataiseit"
   edit section: "Pataiseit padaļu: %{name}"
+  editing page: "Pataiseit %{name}"
+  summary: "Kūpsavylkums"
+  update: "Izglobuot puslopu"
+  preview: "Apsavērt"
   revision history: "\"%{name}\" verseju viesture"
+  history tab: "Viesture"
   compare revisions: ""
   pages in category: "Puslopys kategorejā \"%{category}\""
 

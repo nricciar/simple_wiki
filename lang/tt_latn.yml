@@ -1,8 +1,14 @@
 :tt_latn:
   table of contents: "Eçtälek"
   edit: "Üzgärtü"
+  edit tab: "Üzgärtü"
   edit section: "%{name} bülegen üzgärtü"
+  editing page: "«%{name}» biten üzgärtü"
+  summary: "Üzgärtülär taswirlaması:"
+  update: "Bitne saqlaw"
+  preview: "Aldan qaraw"
   revision history: "%{name} biteneñ üzgärtü tarixı"
+  history tab: "Tarix"
   compare revisions: ""
   pages in category: "«%{category}» törkemendäge bitlär"
 

@@ -1,8 +1,14 @@
 :liv:
   table of contents: "Sižāli"
   edit: "Redigīer"
+  edit tab: "Redigīer"
   edit section: "Redigīer jaggõ %{name}"
+  editing page: "Redigīerimiz pǟl um %{name}"
+  summary: "Kubbõ võtāmi:"
+  update: "Sa-gläbbõmi"
+  preview: "Jedmõl-vaņtlimi"
   revision history: "Līed \"%{name}\" mõitõkst istōrij"
+  history tab: "Istōrij"
   compare revisions: ""
   pages in category: "Lēḑõd kategōrijs \"%{category}\""
 

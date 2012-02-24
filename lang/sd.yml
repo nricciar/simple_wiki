@@ -1,8 +1,14 @@
 :sd:
   table of contents: "فهرست"
   edit: "سنواريو"
+  edit tab: "سنواريو"
   edit section: "سنواريو سيڪشن: %{name}"
+  editing page: "زير ترميم %{name}"
+  summary: "تَتُ:"
+  update: "صفحو سانڍيو"
+  preview: "پيش نگاهه"
   revision history: "\"%{name}\" جي سوانح"
+  history tab: "سوانح"
   compare revisions: ""
   pages in category: "\"%{category}\" زمري جا صفحا"
 

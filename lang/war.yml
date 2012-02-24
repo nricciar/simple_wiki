@@ -1,8 +1,14 @@
 :war:
   table of contents: "Sulod"
   edit: "Igliwat"
+  edit tab: "Igliwat"
   edit section: "Igliwat in bahin: %{name}"
+  editing page: "Ginliliwat an %{name}"
+  summary: "Dalikyat nga sumat hiton pagliwat:"
+  update: "Igtipig an pakli"
+  preview: "Pahiuna nga pagawas"
   revision history: ""
+  history tab: "Kaagi"
   compare revisions: ""
   pages in category: "Mga pakli ha kaarangay nga \"%{category}\""
 

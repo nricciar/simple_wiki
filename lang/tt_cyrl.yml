@@ -1,8 +1,14 @@
 :tt_cyrl:
   table of contents: "Эчтәлек"
   edit: "Үзгәртү"
+  edit tab: "Үзгәртү"
   edit section: "%{name} бүлеген үзгәртү"
+  editing page: "«%{name}» битен үзгәртү"
+  summary: "Үзгәртүләр тасвирламасы:"
+  update: "Битне саклау"
+  preview: "Алдан карау"
   revision history: "%{name} битенең үзгәртү тарихы"
+  history tab: "Тарих"
   compare revisions: "Битләрнең юрамаларын чагыштыру"
   pages in category: "«%{category}» төркемендәге битләр"
 

@@ -1,8 +1,14 @@
 :af:
   table of contents: "Inhoud"
   edit: "Wysig"
+  edit tab: "Wysig"
   edit section: "Wysig afdeling: %{name}"
+  editing page: "Besig om %{name} te wysig"
+  summary: "Opsomming:"
+  update: "Stoor bladsy"
+  preview: "Voorskou"
   revision history: "Weergawegeskiedenis van \"%{name}\""
+  history tab: "Geskiedenis"
   compare revisions: "Vergelyk bladsyweergawes"
   pages in category: "Bladsye in kategorie \"%{category}\""
 

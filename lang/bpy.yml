@@ -1,8 +1,14 @@
 :bpy:
   table of contents: "মেথেল"
   edit: "পতানি"
+  edit tab: "পতানি"
   edit section: "সেকসনহান পতা: %{name}"
+  editing page: "পতানি চলের %{name}"
+  summary: "সারমর্ম:"
+  update: "পাতাহান ইতুকর"
+  preview: "আগচা"
   revision history: "\"%{name}\"-র রিভিসন ইতিহাসহান"
+  history tab: "ইতিহাসহান"
   compare revisions: ""
   pages in category: "\"%{category}\" বিষয়রথাকে আসে নিবন্ধহানি"
 

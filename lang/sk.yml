@@ -1,8 +1,14 @@
 :sk:
   table of contents: "Obsah"
   edit: "upraviť"
+  edit tab: "upraviť"
   edit section: "Upraviť sekciu: %{name}"
+  editing page: "Úprava stránky %{name}"
+  summary: "Zhrnutie úprav:"
+  update: "Uložiť stránku"
+  preview: "Náhľad"
   revision history: "História revízií „%{name}“"
+  history tab: "História"
   compare revisions: "Porovnať revízie stránky"
   pages in category: "Stránky v kategórii „%{category}“"
 

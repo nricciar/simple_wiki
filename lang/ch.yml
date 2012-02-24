@@ -1,8 +1,14 @@
 :ch:
   table of contents: "Guihana"
   edit: "Tulaika"
+  edit tab: "Tulaika"
   edit section: "Tulaika i patte: %{name}"
+  editing page: "Tumulaika %{name}"
+  summary: "Sumaria:"
+  update: "Såtba i påhina"
+  preview: "Ripasu"
   revision history: "Historian tinilaika nu \"%{name}\""
+  history tab: "Historia"
   compare revisions: ""
   pages in category: "Påhina siha gi katigoria \"%{category}\""
 

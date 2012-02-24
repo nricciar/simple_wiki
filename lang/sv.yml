@@ -1,8 +1,14 @@
 :sv:
   table of contents: "Innehåll"
   edit: "Redigera"
+  edit tab: "Redigera"
   edit section: "Redigera avsnitt: %{name}"
+  editing page: "Redigerar %{name}"
+  summary: "Sammanfattning:"
+  update: "Spara"
+  preview: "Förhandsgranska"
   revision history: "Versionshistorik för \"%{name}\""
+  history tab: "Historik"
   compare revisions: "Jämför sidversioner"
   pages in category: "Sidor i kategorin \"%{category}\""
 

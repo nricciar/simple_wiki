@@ -1,8 +1,14 @@
 :kaa:
   table of contents: "Mazmunı"
   edit: "O\'zgertiw"
+  edit tab: "O\'zgertiw"
   edit section: "%{name} bo\'limin o\'zgertiw"
+  editing page: "%{name} o\'zgertilmekte"
+  summary: "Juwmaq:"
+  update: "Betti saqla"
+  preview: "Ko\'rip shıg\'ıw"
   revision history: "\"%{name}\" betinin\' nusqa tariyxı"
+  history tab: "Tariyx"
   compare revisions: ""
   pages in category: "\"%{category}\" kategoriyasindag\'ı betler"
 

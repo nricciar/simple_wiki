@@ -1,8 +1,14 @@
 :vi:
   table of contents: "Mục lục"
   edit: "Sửa đổi"
+  edit tab: "Sửa đổi"
   edit section: "Sửa đổi đề mục: %{name}"
+  editing page: "Sửa đổi %{name}"
+  summary: "Tóm lược:"
+  update: "Lưu trang"
+  preview: "Xem trước"
   revision history: "Lịch sử sửa đổi của “%{name}”"
+  history tab: "Lịch sử"
   compare revisions: "So sánh phiên bản trang"
   pages in category: "Các trang trong thể loại “%{category}”"
 

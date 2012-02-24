@@ -1,8 +1,14 @@
 :csb:
   table of contents: "Spisënk zamkłoscë"
   edit: "Edicëjô"
+  edit tab: "Edicëjô"
   edit section: "Editëjë dzél: %{name}"
+  editing page: "Edicëjô %{name}"
+  summary: "Pòdrechòwanié:"
+  update: "Zapiszë artikel"
+  preview: "Pòdzérk"
   revision history: "Historëjô wersëji dlô \"%{name}\""
+  history tab: "Historëjô"
   compare revisions: ""
   pages in category: "Artikle w kategòrëji \"%{category}\""
 

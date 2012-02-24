@@ -1,8 +1,14 @@
 :te:
   table of contents: "విషయ సూచిక"
   edit: "సవరించు"
+  edit tab: "సవరించు"
   edit section: "విభాగాన్ని మార్చు: %{name}"
+  editing page: "%{name}కి మార్పులు"
+  summary: "సారాంశం:"
+  update: "పేజీని భద్రపరచు"
+  preview: "మునుజూపు"
   revision history: "\"%{name}\" కూర్పుల చరితం"
+  history tab: "చరిత్ర"
   compare revisions: "పుట కూర్పుల పోలిక"
   pages in category: "\"%{category}\" వర్గంలోని పుటలు"
 

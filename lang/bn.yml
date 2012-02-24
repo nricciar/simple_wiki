@@ -1,8 +1,14 @@
 :bn:
   table of contents: "পরিচ্ছেদসমূহ"
   edit: "সম্পাদনা"
+  edit tab: "সম্পাদনা"
   edit section: "পরিচ্ছেদ সম্পাদনা: %{name}"
+  editing page: "সম্পাদনা করছেন: %{name}"
+  summary: "সম্পাদনা সারাংশ:"
+  update: "সংরক্ষণ"
+  preview: "প্রাকদর্শন"
   revision history: "\"%{name}\" এর সংশোধনের ইতিহাস"
+  history tab: "ইতিহাস"
   compare revisions: "পাতার সংশোধন তুলনা"
   pages in category: "\"%{category}\" বিষয়শ্রেণীতে অন্তর্ভুক্ত পাতাগুলি"
 

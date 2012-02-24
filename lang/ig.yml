@@ -1,8 +1,14 @@
 :ig:
   table of contents: "Ihe dị ime"
   edit: "Mèzi"
+  edit tab: "Mèzi"
   edit section: "Rüwa na élu nkeji: %{name}"
+  editing page: "I rüwa %{name}"
+  summary: "Mmẹkụwátá:"
+  update: "Domá ihüa"
+  preview: "Lètú"
   revision history: "Ákíkó mbu màkà orü nọr na élú \"%{name}\""
+  history tab: "Akiko mbú"
   compare revisions: "Má àtù orü dírí na élú ihü"
   pages in category: "Ihü nọr ime ébéonọr \"%{category}\""
 

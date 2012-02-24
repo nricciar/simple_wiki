@@ -1,8 +1,14 @@
 :bho:
   table of contents: "सामग्री"
   edit: "सम्पादन"
+  edit tab: "सम्पादन"
   edit section: "सम्पादन खण्ड: %{name}"
+  editing page: ""
+  summary: "सारांश:"
+  update: "पन्ना सुरक्षित करीं"
+  preview: "पूर्वावलोकन"
   revision history: "\'\'%{name}\'\' के संशोधन इतिहास"
+  history tab: "इतिहास"
   compare revisions: ""
   pages in category: ""
 

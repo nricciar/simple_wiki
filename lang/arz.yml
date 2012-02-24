@@ -1,8 +1,14 @@
 :arz:
   table of contents: "المحتويات"
   edit: "تعديل"
+  edit tab: "تعديل"
   edit section: "تعديل جزء : %{name}"
+  editing page: "تعديل %{name}"
+  summary: "ملخص:"
+  update: "سييڤ الصفحه"
+  preview: "بروفه"
   revision history: "تاريخ تعديل \"%{name}\""
+  history tab: "تاريخ"
   compare revisions: ""
   pages in category: "الصفحات فى التصنيف \"%{category}\""
 

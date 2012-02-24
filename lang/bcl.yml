@@ -1,8 +1,14 @@
 :bcl:
   table of contents: "Mga laog"
   edit: "Liwatón"
+  edit tab: "Liwatón"
   edit section: "Liwatón an seksyon: %{name}"
+  editing page: "Pigliliwat an %{name}"
+  summary: "Sumada:"
+  update: "Itagáma an pahina"
+  preview: "Tànawón"
   revision history: "Uusipón nin pagpakarháy kan \"%{name}\""
+  history tab: "Uusipón"
   compare revisions: ""
   pages in category: "Mga artikulo sa kategoryang \"%{category}\""
 

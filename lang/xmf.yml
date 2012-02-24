@@ -1,8 +1,14 @@
 :xmf:
   table of contents: "დინორე"
   edit: "რედაქტირაფა"
+  edit tab: "რედაქტირაფა"
   edit section: "სექციაშ რედაქტირაფა: %{name}"
+  editing page: "რედაქტირაფა %{name}"
+  summary: "რეზიუმე:"
+  update: "დოჩვი ხასილა"
+  preview: "გიწოთოლორაფა"
   revision history: "\"%{name}\"–იშ თირაფეფიშ ისტორია"
+  history tab: "ისტორია"
   compare revisions: ""
   pages in category: "სტატიეფი \"%{category}\"  კატეგორიას"
 

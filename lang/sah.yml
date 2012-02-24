@@ -1,8 +1,14 @@
 :sah:
   table of contents: "Ис хоһооно"
   edit: "Уларыт"
+  edit tab: "Уларыт"
   edit section: "%{name} секцияны уларыт"
+  editing page: "Уларытыы %{name}"
+  summary: "Уларытыыҥ ис хоһооно:"
+  update: "Уларытыыны бигэргэтии"
+  preview: "Эрдэ көрүү"
   revision history: "Көннөрүү историята \"%{name}\""
+  history tab: "История"
   compare revisions: "Сирэйдэр барылларын тэҥнииргэ"
   pages in category: "\"%{category}\" категория ыстатыйалара"
 

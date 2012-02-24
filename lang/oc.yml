@@ -1,8 +1,14 @@
 :oc:
   table of contents: "Somari"
   edit: "Modificar"
+  edit tab: "Modificar"
   edit section: "Modificar la seccion : %{name}"
+  editing page: "Modificacion de %{name}"
+  summary: "Resumit :"
+  update: "Salvar"
+  preview: "Previsualizar"
   revision history: "Istoric de las versions de « %{name} »"
+  history tab: "Istoric"
   compare revisions: ""
   pages in category: "Articles dins la categoria « %{category} »"
 

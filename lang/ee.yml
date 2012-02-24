@@ -1,8 +1,14 @@
 :ee:
   table of contents: "Emenyawo"
   edit: "Trɔ asi le eŋu"
+  edit tab: "Trɔ asi le eŋu"
   edit section: "Trɔ akpa: %{name}"
+  editing page: "%{name} na etɔtrɔ"
+  summary: ""
+  update: "Dzra axa sia ɖo"
+  preview: "Kpɔe do ŋgɔ"
   revision history: "\"%{name}\" ƒe tata xoxoawo"
+  history tab: "Xoxoawo"
   compare revisions: ""
   pages in category: ""
 

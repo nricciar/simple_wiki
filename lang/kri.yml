@@ -1,8 +1,14 @@
 :kri:
   table of contents: "Kontent-dem"
   edit: "Edit"
+  edit tab: "Edit"
   edit section: "edit sekshon: %{name}"
+  editing page: ""
+  summary: "Somari:"
+  update: "Sev dis pej-ya"
+  preview: "Privyu"
   revision history: ""
+  history tab: "Histri"
   compare revisions: ""
   pages in category: "Pej-dehm we de na katigori \"%{category}\""
 

@@ -1,8 +1,14 @@
 :cdo:
   table of contents: "Mŭk-liŏh"
   edit: "Siŭ-gāi"
+  edit tab: "Siŭ-gāi"
   edit section: "Siŭ-gāi dâung: %{name}"
+  editing page: "Siŭ-gāi %{name}"
+  summary: "Cūng-giék:"
+  update: "Bō̤-còng ciā hiĕk"
+  preview: "Ché káng mâing"
   revision history: "\"%{name}\" gì siŭ-gāi lĭk-sṳ̄"
+  history tab: "Lĭk-sṳ̄"
   compare revisions: ""
   pages in category: "\"%{category}\" lôi-biék â-dā̤ gì ùng-ciŏng"
 

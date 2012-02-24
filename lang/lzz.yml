@@ -1,8 +1,14 @@
 :lzz:
   table of contents: "Temaşi dudi-coxope"
   edit: "doktiri"
+  edit tab: "doktiri"
   edit section: "%{name} burme muşi doktiri"
+  editing page: "\"%{name}\" butʼkʼa iktirinen a3ʼi"
+  summary: "Mkʼule nçʼarate:"
+  update: "Butʼkʼas ikʼayitʼi"
+  preview: "Evvelişen i3ʼkʼedi"
   revision history: "\"%{name}\" butʼkʼaşi tarixi"
+  history tab: "Tarixi"
   compare revisions: ""
   pages in category: "\"%{category}\" kʼatʼegoris butʼkʼape"
 

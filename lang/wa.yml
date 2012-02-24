@@ -1,8 +1,14 @@
 :wa:
   table of contents: "Ådvins"
   edit: "Candjî"
+  edit tab: "Candjî"
   edit section: "Candjî l\' seccion: %{name}"
+  editing page: "Candjant %{name}"
+  summary: "Rascourti:"
+  update: "Schaper l\' pådje"
+  preview: "Vey divant"
   revision history: ""
+  history tab: "Istwere"
   compare revisions: ""
   pages in category: "Årtikes el categoreye «%{category}»"
 

@@ -1,8 +1,14 @@
 :fo:
   table of contents: "Innihaldsyvirlit"
   edit: "Rætta"
+  edit tab: "Rætta"
   edit section: "Rætta part: %{name}"
+  editing page: "Tú rættar %{name}"
+  summary: "Samandráttur:"
+  update: "Goym síðu"
+  preview: "Forskoðan"
   revision history: "Versjónssøgan hjá \"%{name}\""
+  history tab: "Søga"
   compare revisions: ""
   pages in category: "Greinir í bólki \"%{category}\""
 

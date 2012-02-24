@@ -1,8 +1,14 @@
 :gl:
   table of contents: "Índice"
   edit: "Editar"
+  edit tab: "Editar"
   edit section: "Editar a sección: \"%{name}\""
+  editing page: "Editando \"%{name}\""
+  summary: "Resumo:"
+  update: "Gardar a páxina"
+  preview: "Vista previa"
   revision history: "Historial de revisións de \"%{name}\""
+  history tab: "Historial"
   compare revisions: "Comparar as revisións de dúas páxinas"
   pages in category: "Artigos na categoría \"%{category}\""
 

@@ -1,8 +1,14 @@
 :hi:
   table of contents: "विषय सूची"
   edit: "सम्पादन"
+  edit tab: "सम्पादन"
   edit section: "विभाग सम्पादन: %{name}"
+  editing page: "%{name} सम्पादन"
+  summary: "सारांश:"
+  update: "पृष्ठ सहेजें"
+  preview: "झलक"
   revision history: "\"%{name}\" का अवतरण इतिहास"
+  history tab: "इतिहास"
   compare revisions: "पृष्ठ संशोधन की तुलना करें"
   pages in category: "\"%{category}\" श्रेणी में लेख"
 

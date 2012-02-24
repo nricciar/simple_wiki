@@ -1,8 +1,14 @@
 :jut:
   table of contents: "Endholtsførtegnelse"
   edit: "Redigær"
+  edit tab: "Redigær"
   edit section: "Redigær åfsnet: %{name}"
+  editing page: "Redigærer %{name}"
+  summary: "Beskrevelse:"
+  update: "Gem side"
+  preview: "Førhåndsvesnenge"
   revision history: "Hersengsskigte før \"%{name}\""
+  history tab: "Skigte"
   compare revisions: ""
   pages in category: "Ertikler i\'n klynge \"%{category}\""
 

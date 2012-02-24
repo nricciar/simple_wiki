@@ -1,8 +1,14 @@
 :vec:
   table of contents: "Indice"
   edit: "Canbia"
+  edit tab: "Canbia"
   edit section: "Canbia la sezion %{name}"
+  editing page: "Canbia %{name}"
+  summary: "Comento:"
+  update: "Salva sta pagina"
+  preview: "Anteprima"
   revision history: "Storia dei canbiamenti de \'\'%{name}\'\'"
+  history tab: "Storia"
   compare revisions: "Confronta le revision de na pagina"
   pages in category: "Pagine in te la categoria \"%{category}\""
 

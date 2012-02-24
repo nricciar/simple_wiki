@@ -1,8 +1,14 @@
 :de:
   table of contents: "Inhaltsverzeichnis"
   edit: "Bearbeiten"
+  edit tab: "Bearbeiten"
   edit section: "Abschnitt bearbeiten: %{name}"
+  editing page: "Bearbeiten von „%{name}“"
+  summary: "Zusammenfassung:"
+  update: "Seite speichern"
+  preview: "Vorschau"
   revision history: "Versionsgeschichte von „%{name}“"
+  history tab: "Versionen/Autoren"
   compare revisions: "Seitenversionen vergleichen"
   pages in category: "Seiten in der Kategorie „%{category}“"
 

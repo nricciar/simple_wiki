@@ -1,8 +1,14 @@
 :tyv:
   table of contents: "Допчузу"
   edit: "Өскертири"
+  edit tab: "Өскертири"
   edit section: "%{name} деп салбырны өскертири"
+  editing page: "%{name} деп арынны өскертип турар"
+  summary: "Түңнел:"
+  update: "Арынны шыгжаары"
+  preview: "Чижеглей көөрү"
   revision history: "\"%{name}\" деп арынның үндүрери төөгүзү"
+  history tab: "Төөгү"
   compare revisions: ""
   pages in category: "\"%{category}\" деп бөлүкте арыннар"
 

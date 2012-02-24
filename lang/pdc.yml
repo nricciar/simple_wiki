@@ -1,8 +1,14 @@
 :pdc:
   table of contents: "Lischt vum Inhalt"
   edit: "Ennere/Tscheensche"
+  edit tab: "Ennere/Tscheensche"
   edit section: "Abschnitt ennere: %{name}"
+  editing page: "%{name} ennere"
+  summary: ""
+  update: ""
+  preview: "Aagucke"
   revision history: ""
+  history tab: "Gschicht"
   compare revisions: ""
   pages in category: "Bledder in Abdeeling „%{category}“"
 

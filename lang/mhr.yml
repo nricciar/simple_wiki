@@ -1,8 +1,14 @@
 :mhr:
   table of contents: "Вуйлымаш"
   edit: "Тӧрлаташ"
+  edit tab: "Тӧрлаташ"
   edit section: "%{name} ужашым тӧрлаташ"
+  editing page: "Тӧрлаталтеш %{name}"
+  summary: "Тӧрлатымаш нерген:"
+  update: "Лаштыкым аралаш"
+  preview: "Ончылгоч ончымаш"
   revision history: "%{name}лан тӱрлык эртымгорно"
+  history tab: "Эртымгорно"
   compare revisions: ""
   pages in category: "\"%{category}\" категорийыште лаштык-влак"
 

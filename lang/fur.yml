@@ -1,8 +1,14 @@
 :fur:
   table of contents: "Tabele dai contignûts"
   edit: "Cambie"
+  edit tab: "Cambie"
   edit section: "cambie la sezion %{name}"
+  editing page: "Cambiament di %{name}"
+  summary: "Somari:"
+  update: "Salve la pagjine"
+  preview: "Anteprime"
   revision history: "Storic dai cambiaments di \"%{name}\""
+  history tab: "Storic"
   compare revisions: ""
   pages in category: "Vôs inte categorie \"%{category}\""
 

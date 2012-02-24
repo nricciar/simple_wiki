@@ -1,8 +1,14 @@
 :ru:
   table of contents: "Содержание"
   edit: "Править"
+  edit tab: "Править"
   edit section: "Править секцию: %{name}"
+  editing page: "Редактирование: %{name}"
+  summary: "Описание изменений:"
+  update: "Записать страницу"
+  preview: "Предпросмотр"
   revision history: "%{name} — история изменений"
+  history tab: "история"
   compare revisions: "Сравнение версий страниц"
   pages in category: "Страницы в категории «%{category}»"
 

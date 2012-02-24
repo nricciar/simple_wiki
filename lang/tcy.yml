@@ -1,8 +1,14 @@
 :tcy:
   table of contents: "ಪರಿವಿಡಿ"
   edit: "ಸಂಪಾದನೆ ಮಲ್ಪುಲೆ(Edit this page)"
+  edit tab: "ಸಂಪಾದನೆ ಮಲ್ಪುಲೆ(Edit this page)"
   edit section: "%{name} ವಿಭಾಗದ ಸಂಪಾದನೆ ಮಲ್ಪುಲೆ"
+  editing page: "%{name} ಲೇಖನೊನು ಈರ್ ಸಂಪಾದನೆ ಮಲ್ತೊಂದುಲ್ಲರ್"
+  summary: "ಸಾರಾಂಶ:"
+  update: "ಪುಟೊನು ಒರಿಪಾಲೆ"
+  preview: "ಮುನ್ನೋಟ"
   revision history: "\"%{name}\" ಪುಟೊತ ಆವೃತ್ತಿ ಇತಿಹಾಸ"
+  history tab: "ಇತಿಹಾಸ"
   compare revisions: ""
   pages in category: "\"%{category}\" ವರ್ಗಡುಪ್ಪುನಂಚಿನ ಲೇಖನೊಲು"
 

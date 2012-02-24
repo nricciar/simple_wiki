@@ -1,8 +1,14 @@
 :frp:
   table of contents: "Somèro"
   edit: "Changiér"
+  edit tab: "Changiér"
   edit section: "Changiér la sèccion : %{name}"
+  editing page: "Changement de %{name}"
+  summary: "Rèsumâ :"
+  update: "Sôvar la pâge"
+  preview: "Prèvisualisacion"
   revision history: "Historico de les vèrsions de « %{name} »"
+  history tab: "Historico"
   compare revisions: "Comparar les vèrsions de les pâges"
   pages in category: "Pâges dens la catègorie « %{category} »"
 

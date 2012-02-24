@@ -1,8 +1,14 @@
 :loz:
   table of contents: "Petuloni"
   edit: "Hloli ye ng\'i"
+  edit tab: "Hloli ye ng\'i"
   edit section: "Hloli ye ng\'i silami: %{name}"
+  editing page: "Hloli ye ng\'i %{name}"
+  summary: "Lyangutukezi:"
+  update: "Bulukezi"
+  preview: "PendiBe"
   revision history: "Bundau di selt di \"%{name}\""
+  history tab: "Bundau"
   compare revisions: ""
   pages in category: "Kattegori petulo di \"%{category}\""
 

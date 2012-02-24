@@ -1,8 +1,14 @@
 :pfl:
   table of contents: "Inhald"
   edit: "Bearwaide"
+  edit tab: "Bearwaide"
   edit section: "Abschnitt ännere: %{name}"
+  editing page: "Am %{name} bearwaide"
+  summary: "Zammefassung:"
+  update: "Said schbeichere"
+  preview: "Vorschau"
   revision history: "Versionsgschicht vun \"%{name}\""
+  history tab: "Versione"
   compare revisions: ""
   pages in category: "Saide in de Kadegorie „%{category}“"
 

@@ -1,8 +1,14 @@
 :ast:
   table of contents: "Tabla de conteníos"
   edit: "Editar"
+  edit tab: "Editar"
   edit section: "Editar seición: %{name}"
+  editing page: "Editando %{name}"
+  summary: "Resume:"
+  update: "Grabar páxina"
+  preview: "Entever"
   revision history: "Historial de revisiones de \"%{name}\""
+  history tab: "Historial"
   compare revisions: "Comparar revisiones de páxina"
   pages in category: "Páxines na categoría \"%{category}\""
 

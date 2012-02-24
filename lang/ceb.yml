@@ -1,8 +1,14 @@
 :ceb:
   table of contents: "Mga sulod"
   edit: "Usba"
+  edit tab: "Usba"
   edit section: "Usba ang seksyong: %{name}"
+  editing page: "Nagausab sa %{name}"
+  summary: "Mubong sugid:"
+  update: "Tipigi ang panid"
+  preview: "Paunang tan-aw"
   revision history: "Kaagi sa rebisyon sa \"%{name}\""
+  history tab: "Kaagi"
   compare revisions: ""
   pages in category: "Mga panid sa kategoriyang \"%{category}\""
 

@@ -1,8 +1,14 @@
 :jbo:
   table of contents: "ckupau pagbu"
   edit: "stika"
+  edit tab: "stika"
   edit section: "stika ti: %{name}"
+  editing page: "ca galfi la\'e lu %{name} li\'u"
+  summary: ""
+  update: "vreji le ckupau"
+  preview: ""
   revision history: ""
+  history tab: "galfi plivei"
   compare revisions: ""
   pages in category: "fe le kibypapri cu klesi \"%{category}\""
 

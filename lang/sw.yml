@@ -1,8 +1,14 @@
 :sw:
   table of contents: "Yaliyomo"
   edit: "Hariri"
+  edit tab: "Hariri"
   edit section: "Hariri fungu: %{name}"
+  editing page: "Kuhariri %{name}"
+  summary: "Muhtasari:"
+  update: "Hifadhi ukurasa"
+  preview: "Hakiki"
   revision history: "Historia ya mapitio ya \"%{name}\""
+  history tab: "Historia"
   compare revisions: "Kulinganisha mapitio"
   pages in category: "Makala katika jamii \"%{category}\""
 

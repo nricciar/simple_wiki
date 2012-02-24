@@ -1,8 +1,14 @@
 :sc:
   table of contents: "Cuntènnidu"
   edit: "Acontza"
+  edit tab: "Acontza"
   edit section: "Acontza sa setzione: %{name}"
+  editing page: "Acontzu de %{name}"
+  summary: "Ogetu:"
+  update: "Sarva sa pàgina"
+  preview: "Antiprima"
   revision history: "Istòria de is revisiones de \"%{name}\""
+  history tab: "Istòria"
   compare revisions: ""
   pages in category: "Pàginas in sa categoria \"%{category}\""
 

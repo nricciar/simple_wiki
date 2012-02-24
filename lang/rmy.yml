@@ -1,8 +1,14 @@
 :rmy:
   table of contents: "Ander"
   edit: "Editisar i patrin"
+  edit tab: "Editisar i patrin"
   edit section: "Editisar o kotor: %{name}"
+  editing page: "Editisaripen %{name}"
+  summary: "Xarno xalyaripen:"
+  update: "Uxtav i patrin"
+  preview: ""
   revision history: ""
+  history tab: "Puranipen"
   compare revisions: ""
   pages in category: ""
 

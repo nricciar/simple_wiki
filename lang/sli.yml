@@ -1,8 +1,14 @@
 :sli:
   table of contents: "Inhoaltsverzeichnis"
   edit: "Beoarbeita"
+  edit tab: "Beoarbeita"
   edit section: "Oabschnitt beorbeita: %{name}"
+  editing page: "Beoarbeeta vo %{name}"
+  summary: "Zusammafoassung:"
+  update: "Seyte oabspeichern"
+  preview: "Vorschau"
   revision history: "Versionsgeschichte vun „%{name}“"
+  history tab: "Geschichte"
   compare revisions: ""
   pages in category: "Seyta ei derr Heetgruppe \"%{category}\""
 

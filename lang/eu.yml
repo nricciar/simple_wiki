@@ -1,8 +1,14 @@
 :eu:
   table of contents: "Edukiak"
   edit: "Aldatu"
+  edit tab: "Aldatu"
   edit section: "Atala aldatu: %{name}"
+  editing page: "%{name} aldatzen"
+  summary: "Laburpena:"
+  update: "Gorde orrialdea"
+  preview: "Aurrebista erakutsi"
   revision history: "\"%{name}\" orrialdearen historia laburpena"
+  history tab: "Historia"
   compare revisions: "Orrialde-berrikuspenak alderatu"
   pages in category: "\"%{category}\" kategoriako artikuluak"
 

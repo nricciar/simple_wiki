@@ -1,8 +1,14 @@
 :lo:
   table of contents: "ເນື້ອໃນ"
   edit: "ດັດແກ້"
+  edit tab: "ດັດແກ້"
   edit section: "ດັດແກ້ ພາກ: %{name}"
+  editing page: "ພວມດັດແກ້ %{name}"
+  summary: "ຄຳອະທິບາຍໂດຍຫຍໍ້:"
+  update: "ບັນທຶກ"
+  preview: "ລອງເບິ່ງຜົນ"
   revision history: "ປະຫວັດການດັດແກ້ ຂອງ \"%{name}\""
+  history tab: "ປະຫວັດການດັດແກ້"
   compare revisions: ""
   pages in category: "ບົດຄວາມໃນໝວດ \"%{category}\""
 

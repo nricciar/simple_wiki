@@ -1,8 +1,14 @@
 :vot:
   table of contents: "Sisälto"
   edit: "Muuttaa"
+  edit tab: "Muuttaa"
   edit section: "Muutta alajakkoa %{name}"
+  editing page: "Muutun %{name}"
+  summary: "Turvotuz:"
+  update: "Salvo tšültši"
+  preview: "Prestavleńńa"
   revision history: "Tšüľľee %{name} muutuzistori"
+  history tab: "Istori"
   compare revisions: ""
   pages in category: "Tšuľľed, kummad õvad gruppaz \"%{category}\""
 

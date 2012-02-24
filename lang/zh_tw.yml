@@ -1,8 +1,14 @@
 :zh_tw:
   table of contents: ""
   edit: "編輯"
+  edit tab: "編輯"
   edit section: "编辑段落：%{name}"
+  editing page: "正在编辑 %{name}"
+  summary: "摘要"
+  update: "儲存頁面"
+  preview: ""
   revision history: "「%{name}」的修訂沿革"
+  history tab: "歷史"
   compare revisions: ""
   pages in category: ""
 

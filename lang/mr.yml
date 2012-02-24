@@ -1,8 +1,14 @@
 :mr:
   table of contents: "अनुक्रमणिका"
   edit: "संपादन"
+  edit tab: "संपादन"
   edit section: "विभाग: %{name} संपादित करा"
+  editing page: "%{name} चे संपादन होत आहे."
+  summary: "बदलांचा आढावा :"
+  update: "हा लेख साठवा"
+  preview: "झलक"
   revision history: "\"%{name}\" चा संपादन इतिहास"
+  history tab: "इतिहास"
   compare revisions: "पानांच्या आवर्तनांची तुलना करा"
   pages in category: "\"%{category}\" वर्गातील लेख"
 

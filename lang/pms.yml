@@ -1,8 +1,14 @@
 :pms:
   table of contents: "Contnù"
   edit: "Modìfica"
+  edit tab: "Modìfica"
   edit section: "I soma dapress a modifiché la session: %{name}"
+  editing page: "Modìfica ëd %{name}"
+  summary: "Resumé:"
+  update: "Salva sta pàgina"
+  preview: "Preuva"
   revision history: "Cronologìa dle modìfiche ëd \"%{name}\""
+  history tab: "Stòria"
   compare revisions: "Confronté le revision dle pàgine"
   pages in category: "Artìcoj ant la categorìa \"%{category}\""
 

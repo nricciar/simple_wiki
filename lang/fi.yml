@@ -1,8 +1,14 @@
 :fi:
   table of contents: "Sisällysluettelo"
   edit: "Muokkaa"
+  edit tab: "Muokkaa"
   edit section: "Muokkaa osiota %{name}"
+  editing page: "Muokataan sivua %{name}"
+  summary: "Yhteenveto"
+  update: "Tallenna sivu"
+  preview: "Esikatselu"
   revision history: "Sivun %{name} muutoshistoria"
+  history tab: "Historia"
   compare revisions: "Vertaile sivuversioita"
   pages in category: "Sivut, jotka ovat luokassa %{category}"
 

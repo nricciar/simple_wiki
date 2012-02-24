@@ -1,8 +1,14 @@
 :ky:
   table of contents: "Мазмуну"
   edit: "Оңдоо"
+  edit tab: "Оңдоо"
   edit section: "%{name} бөлүмүн оңдо"
+  editing page: "Оңдоо %{name}"
+  summary: "Кыска түшүндүрүү:"
+  update: "Баракты сактап кой"
+  preview: "Алдын ала көрүү"
   revision history: "\"%{name}\" барактын тарыхына сереп"
+  history tab: "Тарыхы"
   compare revisions: ""
   pages in category: "\"%{category}\" категориядагы барактар"
 

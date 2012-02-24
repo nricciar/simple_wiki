@@ -1,8 +1,14 @@
 :kl:
   table of contents: "Imarisai"
   edit: "Aaqqissoruk"
+  edit tab: "Aaqqissoruk"
   edit section: "Aaqqissuuguk immikkoortoq: %{name}"
+  editing page: "Aaqqissorpaa %{name}"
+  summary: "Allaaserinera:"
+  update: "Toqqoruk"
+  preview: "Isikkua"
   revision history: "\"%{name}\"-p oqaluttuassartaa"
+  history tab: "Oqaluttuassartaa"
   compare revisions: ""
   pages in category: "Quppernerit sumut atassusermi \"%{category}\"-miittut"
 

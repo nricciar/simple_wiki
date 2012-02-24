@@ -1,8 +1,14 @@
 :dv:
   table of contents: "ފިހުރިސްތު"
   edit: "އުނިއިތުރު ގެންނަވާ"
+  edit tab: "އުނިއިތުރު ގެންނަވާ"
   edit section: "މަޒްމޫނުގެ %{name} ބަޔަށް އުނިއިތުރު ގެންނަނީ"
+  editing page: "%{name} އަށް އުނިއިތުރު ގެންނަނީ"
+  summary: "ހުލާސާ:"
+  update: "ޞަފްޙާ ރައްކާކުރައްވާ"
+  preview: "ނަމޫނާ"
   revision history: ""
+  history tab: "ތާރީހު"
   compare revisions: ""
   pages in category: "ގިސްމު \"%{category}\" ގައިވާ މަޒުމޫނުތައް"
 

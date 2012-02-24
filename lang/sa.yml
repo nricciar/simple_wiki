@@ -1,8 +1,14 @@
 :sa:
   table of contents: "अन्तर्विषयाः"
   edit: "सम्पाद्यताम्"
+  edit tab: "सम्पाद्यताम्"
   edit section: "अयं विभागः सम्पाद्यताम्: %{name}"
+  editing page: "%{name} सम्पाद्यते"
+  summary: "सारांशः :"
+  update: "पृष्ठं रक्ष्यताम्"
+  preview: "प्राग्दृश्यम्"
   revision history: "\"%{name}\" इत्येतस्य आवर्तनेतिहासः :"
+  history tab: "इतिहासः"
   compare revisions: ""
   pages in category: "\"%{category}\" इत्येतस्मिन् वर्गे विद्यमानानि पृष्ठानि"
 

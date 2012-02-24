@@ -1,8 +1,14 @@
 :hr:
   table of contents: "Sadržaj"
   edit: "Uredi"
+  edit tab: "Uredi"
   edit section: "Uređivanje odlomka: %{name}"
+  editing page: "Uređujete %{name}"
+  summary: "Sažetak:"
+  update: "Sačuvaj stranicu"
+  preview: "Pregled kako će stranica izgledati"
   revision history: "Povijest izmjena stranice \"%{name}\""
+  history tab: "Stare izmjene"
   compare revisions: "Usporedite inačice stranice"
   pages in category: "Članci u kategoriji \"%{category}\""
 

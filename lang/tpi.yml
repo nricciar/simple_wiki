@@ -1,8 +1,14 @@
 :tpi:
   table of contents: ""
   edit: "Senisim"
+  edit tab: "Senisim"
   edit section: "Senisim seksen: %{name}"
+  editing page: "Senisim %{name}"
+  summary: "Liklik toksave bilong senis:"
+  update: "Raitim pes"
+  preview: "Pes wantaim senis (pastaim long raitim)"
   revision history: ""
+  history tab: "Ol senis"
   compare revisions: ""
   pages in category: "Ol pes insait long grup \"%{category}\""
 

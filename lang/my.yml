@@ -1,8 +1,14 @@
 :my:
   table of contents: "မာတိကာ"
   edit: "ပြင်​ဆင်​ရန်​"
+  edit tab: "ပြင်​ဆင်​ရန်​"
   edit section: "ဤအပိုင်းကို တည်းဖြတ်ရန် - %{name}"
+  editing page: "%{name} ကို တည်းဖြတ်နေသည်"
+  summary: "အ​ကျဉ်း​ချုပ်​ -"
+  update: "ဤစာမျက်နှာကို သိမ်းရန်"
+  preview: "နမူနာ"
   revision history: "\"%{name}\" ၏ တည်းဖြတ်မူ ရာဇဝင်များ"
+  history tab: "ရာဇဝင်"
   compare revisions: "စာမျက်နှာမူများကို နှုိင်းယှဉ်ရန်"
   pages in category: "ကဏ္ဍ \"%{category}\" မှ စာမျက်နှာများ"
 

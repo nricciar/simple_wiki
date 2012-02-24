@@ -1,8 +1,14 @@
 :sgs:
   table of contents: "Torėnīs"
   edit: "Taisītė"
+  edit tab: "Taisītė"
   edit section: "Redagoutė skirsneli: %{name}"
+  editing page: "Taisuoms straipsnis - %{name}"
+  summary: "Kuomentars:"
+  update: "Ėšsauguotė poslapė"
+  preview: "Parveiza"
   revision history: "Poslapė „%{name}“ istuorėjė"
+  history tab: "Istuorėjė"
   compare revisions: ""
   pages in category: "Kateguorėjės „%{category}“ straipsnē"
 

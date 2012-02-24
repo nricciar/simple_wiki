@@ -1,8 +1,14 @@
 :roa_tara:
   table of contents: "Condenute"
   edit: "Cange"
+  edit tab: "Cange"
   edit section: "Cange \'a sezione: %{name}"
+  editing page: "Cangiaminde de %{name}"
+  summary: "Riepileghe:"
+  update: "Registre \'a vôsce"
+  preview: "Andeprime"
   revision history: "Liste de le versiune de \"%{name}\""
+  history tab: "Cunde"
   compare revisions: "Combronde le revisiune d\'à pàgene"
   pages in category: "Pàggene jndr\'à categorie \"%{category}\""
 

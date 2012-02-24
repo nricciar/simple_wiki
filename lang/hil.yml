@@ -1,8 +1,14 @@
 :hil:
   table of contents: "Kontents"
   edit: "Ilisan"
+  edit tab: "Ilisan"
   edit section: "Islan ining bahin: %{name}"
+  editing page: "Gina-islan %{name}"
+  summary: "Kabilogan:"
+  update: "Tiponon ining panid"
+  preview: "Ipakita subong"
   revision history: "Rebisyon sang historya sa \"%{name}\""
+  history tab: "Saysay"
   compare revisions: ""
   pages in category: "Mga pahina sa kategorya \"%{category}\""
 

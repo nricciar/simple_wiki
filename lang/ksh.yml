@@ -1,8 +1,14 @@
 :ksh:
   table of contents: "Enhaldsüvversich"
   edit: "Ändere"
+  edit tab: "Ändere"
   edit section: "Avschnedd %{name} ändere"
+  editing page: "De Sigg „%{name}“ ändere"
+  summary: "Koot Zosammejefass, Quell:"
+  update: "De Sigg Avspeichere"
+  preview: "Vör-Ansich"
   revision history: "Liss met Versione vun „%{name}“"
+  history tab: "Versione"
   compare revisions: "Versione vun Sigge verjlieshe"
   pages in category: "Atikkele en dä Saachjrupp „%{category}“"
 

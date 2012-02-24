@@ -1,8 +1,14 @@
 :kk_latn:
   table of contents: "Mazmunı"
   edit: "Öñdew"
+  edit tab: "Öñdew"
   edit section: "Mına bölimdi öñdew: %{name}"
+  editing page: "Öñdelwde: %{name}"
+  summary: "Tüýindemesi:"
+  update: "Betti saqta!"
+  preview: "Qarap şığw"
   revision history: "«%{name}» — tüzetw tarïxı"
+  history tab: "Tarïxı"
   compare revisions: ""
   pages in category: "«%{category}» sanatındağı better"
 

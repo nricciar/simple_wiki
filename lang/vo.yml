@@ -1,8 +1,14 @@
 :vo:
   table of contents: "Ninäd"
   edit: "Redakön"
+  edit tab: "Redakön"
   edit section: "Redakolöd dilädi: %{name}"
+  editing page: "Redakam pada: %{name}"
+  summary: "Plän brefik:"
+  update: "Dakipolöd padi"
+  preview: "Büologed"
   revision history: "Revidajenotem pada: \"%{name}\""
+  history tab: "Jenotem"
   compare revisions: ""
   pages in category: "Pads in klad: „%{category}“"
 

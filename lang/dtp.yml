@@ -1,8 +1,14 @@
 :dtp:
   table of contents: "Suang-suang"
   edit: "Idito"
+  edit tab: "Idito"
   edit section: "Sikson mongidit: %{name}"
+  editing page: "Mongidit %{name}"
+  summary: "Koinibaan:"
+  update: "Umoligai bolikon"
+  preview: "Kokitanan"
   revision history: "Susuyan sinimakan do \"%{name}\""
+  history tab: "Susuyan"
   compare revisions: ""
   pages in category: "Bobolikon id kalas \"%{category}\""
 

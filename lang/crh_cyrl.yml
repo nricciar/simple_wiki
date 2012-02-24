@@ -1,8 +1,14 @@
 :crh_cyrl:
   table of contents: "Мундеридже"
   edit: "Денъиштир"
+  edit tab: "Денъиштир"
   edit section: "Денъиштирильген болюк: %{name}"
+  editing page: "\"%{name}\" саифесини денъиштиреятасыз"
+  summary: "Денъишменинъ къыскъа тарифи:"
+  update: "Саифени сакъла"
+  preview: "Бакъып чыкъув"
   revision history: "%{name} саифесининъ денъишмелер тарихы"
+  history tab: "Кечмиш"
   compare revisions: ""
   pages in category: "\"%{category}\" категориясындаки саифелер"
 

@@ -1,8 +1,14 @@
 :cs:
   table of contents: "Obsah"
   edit: "Editovat"
+  edit tab: "Editovat"
   edit section: "Editace části %{name}"
+  editing page: "Editace stránky %{name}"
+  summary: "Shrnutí editace:"
+  update: "Uložit změny"
+  preview: "Náhled"
   revision history: "Historie verzí stránky „%{name}“"
+  history tab: "Historie"
   compare revisions: "Porovnání revizí stránek"
   pages in category: "Stránky v kategorii „%{category}“"
 

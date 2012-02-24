@@ -1,8 +1,14 @@
 :ace:
   table of contents: "Asoë"
   edit: "Andam"
+  edit tab: "Andam"
   edit section: "Andam bideuëng: %{name}"
+  editing page: "Andam %{name}"
+  summary: "Reuningkah:"
+  update: "Keubah ôn"
+  preview: "Eu dilèë"
   revision history: "Riwayat geunantoë nibak \"%{name}\""
+  history tab: "Atra u likôt"
   compare revisions: ""
   pages in category: "Teunuléh lam kawan \"%{category}\""
 

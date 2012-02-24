@@ -1,8 +1,14 @@
 :ang:
   table of contents: "Innoþ"
   edit: "Ādiht"
+  edit tab: "Ādiht"
   edit section: "Dǣl ādihtan: %{name}"
+  editing page: "Ādihtende %{name}"
+  summary: "Scortnes:"
+  update: "Sīdan sparian"
+  preview: "Forescēaƿian"
   revision history: "Ednīƿunge stǣr for \"%{name}\""
+  history tab: "Stǣr"
   compare revisions: ""
   pages in category: "Trametas in flocce \"%{category}\""
 

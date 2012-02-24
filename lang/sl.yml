@@ -1,8 +1,14 @@
 :sl:
   table of contents: "Vsebina"
   edit: "Uredi stran"
+  edit tab: "Uredi stran"
   edit section: "Spremeni razdelek: %{name}"
+  editing page: "Urejanje %{name}"
+  summary: "Povzetek urejanja:"
+  update: "Shrani stran"
+  preview: "Predogled"
   revision history: "Zgodovina strani »%{name}«"
+  history tab: "Zgodovina strani"
   compare revisions: "Primerjaj redakcije strani"
   pages in category: "Strani v kategoriji »%{category}«"
 

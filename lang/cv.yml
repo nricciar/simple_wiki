@@ -1,8 +1,14 @@
 :cv:
   table of contents: "Тупмалли"
   edit: "Тӳрлетӳ"
+  edit tab: "Тӳрлетӳ"
   edit section: "%{name} пайне тӳрлет"
+  editing page: "%{name} тӳрлетни"
+  summary: "Улшăнусен ăнлантарăвĕ:"
+  update: "Страницăна çырса хур"
+  preview: "Епле курăнĕ"
   revision history: ""
+  history tab: "Истори"
   compare revisions: ""
   pages in category: "«%{category}» категорири статьясем"
 

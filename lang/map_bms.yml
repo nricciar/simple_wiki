@@ -1,8 +1,14 @@
 :map_bms:
   table of contents: "Isi"
   edit: "Sunting"
+  edit tab: "Sunting"
   edit section: "Sunting bagian: %{name}"
+  editing page: "Nyunting %{name}"
+  summary: "Ringkesan:"
+  update: "Simpen"
+  preview: "Pra tayang"
   revision history: "Sajarah revisi sekang \"%{name}\""
+  history tab: "Sejarah kaca"
   compare revisions: ""
   pages in category: "Kaca nang kategori \"%{category}\""
 

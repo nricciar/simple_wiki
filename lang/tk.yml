@@ -1,8 +1,14 @@
 :tk:
   table of contents: "Mazmuny"
   edit: "Redaktirle"
+  edit tab: "Redaktirle"
   edit section: "%{name} bölümini redaktirle"
+  editing page: "%{name} sahypasyny redaktirleýärsiňiz"
+  summary: "Gysgaça düşündiriş:"
+  update: "Sahypany ýazdyr"
+  preview: "Deslapky syn"
   revision history: "\"%{name}\" sahypasynyň geçmişi"
+  history tab: "Geçmiş"
   compare revisions: "Sahypa wersiýalaryny deňeşdir"
   pages in category: "\"%{category}\" kategoriýasyndaky sahypalar"
 

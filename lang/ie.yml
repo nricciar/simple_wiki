@@ -1,8 +1,14 @@
 :ie:
   table of contents: "Contenetes"
   edit: "Redacter"
+  edit tab: "Redacter"
   edit section: "Redacter division: %{name}"
+  editing page: "Redactent %{name}"
+  summary: "Summarium:"
+  update: "Conservar págine"
+  preview: "Prevision"
   revision history: "Revision del historie de \"%{name}\""
+  history tab: "Historie"
   compare revisions: ""
   pages in category: "Articules in categorie \"%{category}\""
 

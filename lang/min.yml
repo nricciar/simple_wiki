@@ -1,8 +1,14 @@
 :min:
   table of contents: "Kandungan"
   edit: "Suntiang"
+  edit tab: "Suntiang"
   edit section: "Suntiang bagian: %{name}"
+  editing page: "Manyuntiang %{name}"
+  summary: "Ringkasan:"
+  update: "Simpan halaman"
+  preview: "Pratonton"
   revision history: "Riwayat revisi dari \"%{name}\""
+  history tab: "Riwayat"
   compare revisions: ""
   pages in category: "Laman dalam kategori \"%{category}\""
 

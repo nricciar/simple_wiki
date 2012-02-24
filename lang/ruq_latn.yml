@@ -1,8 +1,14 @@
 :ruq_latn:
   table of contents: "Kuprins"
   edit: "Edita"
+  edit tab: "Edita"
   edit section: "Editaere ţisecion: %{name}"
+  editing page: "o %{name} editaere"
+  summary: "Sumar:"
+  update: ""
+  preview: ""
   revision history: "Editaerehistoria pentru \"%{name}\""
+  history tab: ""
   compare revisions: ""
   pages in category: "Pažus en kategoria \"%{category}\""
 

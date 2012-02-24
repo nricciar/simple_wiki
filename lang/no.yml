@@ -1,8 +1,14 @@
 :no:
   table of contents: "Innhold"
   edit: "Rediger"
+  edit tab: "Rediger"
   edit section: "Rediger avsnitt: %{name}"
+  editing page: "Redigerer %{name}"
+  summary: "Redigeringsforklaring:"
+  update: "Lagre siden"
+  preview: "Forhåndsvisning"
   revision history: "Revisjonshistorikk for «%{name}»"
+  history tab: "Historikk"
   compare revisions: "Sammenlign siderevisjoner"
   pages in category: "Sider i kategorien «%{category}»"
 

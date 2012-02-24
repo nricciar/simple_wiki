@@ -1,8 +1,14 @@
 :th:
   table of contents: "เนื้อหา"
   edit: "แก้ไข"
+  edit tab: "แก้ไข"
   edit section: "แก้ไขส่วน: %{name}"
+  editing page: "กำลังแก้ไข %{name}"
+  summary: "คำอธิบายโดยย่อ:"
+  update: "บันทึก"
+  preview: "แสดงตัวอย่าง"
   revision history: "ประวัติการแก้ไขหน้า \"%{name}\""
+  history tab: "ประวัติ"
   compare revisions: "เปรียบเทียบรุ่นของหน้า"
   pages in category: "เนื้อหาในหมวดหมู่ \"%{category}\""
 

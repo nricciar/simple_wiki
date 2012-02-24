@@ -1,8 +1,14 @@
 :pa:
   table of contents: "ਸਮਗੱਰੀ"
   edit: "ਬਦਲੋ"
+  edit tab: "ਬਦਲੋ"
   edit section: "ਸ਼ੈਕਸ਼ਨ ਸੋਧ: %{name}"
+  editing page: "%{name} ਸੋਧਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+  summary: "ਸੰਖੇਪ:"
+  update: "ਪੇਜ ਸੰਭਾਲੋ"
+  preview: "ਝਲਕ"
   revision history: ""
+  history tab: "ਅਤੀਤ"
   compare revisions: ""
   pages in category: "ਕੈਟਾਗਰੀ \"%{category}\" ਵਿੱਚ ਲੇਖ"
 

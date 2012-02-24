@@ -1,8 +1,14 @@
 :li:
   table of contents: "Inhaud"
   edit: "Bewèrk"
+  edit tab: "Bewèrk"
   edit section: "Deilpagina bewirke: %{name}"
+  editing page: "Bewirkingspagina: %{name}"
+  summary: "Samevatting:"
+  update: "Pagina opsjlaon"
+  preview: "Naokieke"
   revision history: "Gesjiedenis van \"%{name}\""
+  history tab: "Historie"
   compare revisions: "Vergeliek pazjenaversies"
   pages in category: "Artikele in categorie \"%{category}\""
 

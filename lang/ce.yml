@@ -1,8 +1,14 @@
 :ce:
   table of contents: "Чулацам"
   edit: "Нисйé"
+  edit tab: "Нисйé"
   edit section: "Нисде даакъа: %{name}"
+  editing page: "Редаккхар: %{name}"
+  summary: "Хийцамех лаьцна:"
+  update: "Дlайазъé агlо"
+  preview: "Хьалха муха ю хьажа"
   revision history: "%{name} — хийцаман исторе"
+  history tab: "Исторе"
   compare revisions: ""
   pages in category: "Агlонаш оц кадегаршчохь «%{category}»"
 

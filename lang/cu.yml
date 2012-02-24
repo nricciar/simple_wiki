@@ -1,8 +1,14 @@
 :cu:
   table of contents: "каталогъ"
   edit: "исправи"
+  edit tab: "исправи"
   edit section: "исправлѥниѥ чѧсти : %{name}"
+  editing page: "исправлѥниѥ: %{name}"
+  summary: "опьсаниѥ :"
+  update: "съхранѥниѥ"
+  preview: ""
   revision history: ""
+  history tab: "їсторїꙗ"
   compare revisions: ""
   pages in category: "катигорїѩ ⁖ %{category} ⁖ страницѧ"
 

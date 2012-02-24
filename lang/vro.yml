@@ -1,8 +1,14 @@
 :vro:
   table of contents: "Sisukõrd"
   edit: "Toimõndaq"
+  edit tab: "Toimõndaq"
   edit section: "Toimõndaq lõiku: %{name}"
+  editing page: "Toimõndõdas artiklit %{name}"
+  summary: "Kokkovõtõq:"
+  update: "Pästäq"
+  preview: "Proovikaehus"
   revision history: "\"%{name}\" muutmiisi nimekiri"
+  history tab: "Aolugu"
   compare revisions: ""
   pages in category: "Katõgooria \"%{category}\" artikliq"
 

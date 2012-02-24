@@ -1,8 +1,14 @@
 :zh_hant:
   table of contents: "目錄"
   edit: "編輯"
+  edit tab: "編輯"
   edit section: "編輯段落：%{name}"
+  editing page: "編輯“%{name}”"
+  summary: "摘要："
+  update: "儲存頁面"
+  preview: "預覽"
   revision history: "「%{name}」的修訂歷史"
+  history tab: "歷史"
   compare revisions: "比較頁面的修訂"
   pages in category: "「%{category}」分類中的頁面"
 

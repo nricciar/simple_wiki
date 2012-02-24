@@ -1,8 +1,14 @@
 :mwl:
   table of contents: "Tabela de cuntenido"
   edit: "Eiditar"
+  edit tab: "Eiditar"
   edit section: "Eiditar cacho: %{name}"
+  editing page: "A eiditar %{name}"
+  summary: "Sumário:"
+  update: "Grabar páigina"
+  preview: "Ber cumo queda"
   revision history: "Stórico de eidiçones de \"%{name}\""
+  history tab: "Stórico"
   compare revisions: ""
   pages in category: "Páiginas na catadorie \"%{category}\""
 

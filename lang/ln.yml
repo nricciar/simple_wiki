@@ -1,8 +1,14 @@
 :ln:
   table of contents: "Etápe"
   edit: "kobɔngisa"
+  edit tab: "kobɔngisa"
   edit section: "Kokoma sɛksíɔ: %{name}"
+  editing page: "Kokoma «%{name}»"
+  summary: "Likwé ya mokusé:"
+  update: "kobómbisa lonkásá"
+  preview: "Botáli"
   revision history: "Mokóló mwa mbóngwana mwa « %{name} »"
+  history tab: "Mokóló"
   compare revisions: ""
   pages in category: "Nkásá o molɔngɔ́ ya bilɔkɔ ya loléngé mɔ̌kɔ́ « %{category} »"
 

@@ -1,8 +1,14 @@
 :qug:
   table of contents: "Tiyakkuna"
   edit: "killkana"
+  edit tab: "killkana"
   edit section: "%{name} Seccionpi llankana"
+  editing page: "%{name} pankapi killkashpa"
+  summary: "Uchilla rimay"
+  update: "Pankata churana"
+  preview: "Ñawpak rikuy"
   revision history: "\"%{name}\" pankapa killkaykunapa wiñay kawsay"
+  history tab: "Wiñay kawsay"
   compare revisions: ""
   pages in category: "\"%{category}\" katiguriyapi tiyak pankakuna"
 

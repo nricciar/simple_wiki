@@ -1,8 +1,14 @@
 :fy:
   table of contents: "Ynhâld"
   edit: "Wizigje"
+  edit tab: "Wizigje"
   edit section: "Dielside bewurkje: %{name}"
+  editing page: "Bewurkje \"%{name}\""
+  summary: "Gearfetting:"
+  update: "Fêstlizze"
+  preview: "Oerlêze"
   revision history: "Sideskiednis fan \"%{name}\""
+  history tab: "Skiednis"
   compare revisions: ""
   pages in category: "Siden yn de kategory \"%{category}\""
 
@@ -11,7 +17,6 @@
     file: "Ofbyld"
     category: "Kategory"
     template: "Berjocht"
-    special: "Wiki"
     help: "Hulp"
     talk: "Oerlis"
 

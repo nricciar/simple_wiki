@@ -1,8 +1,14 @@
 :se:
   table of contents: "Sisdoallu"
   edit: "Rievdat"
+  edit tab: "Rievdat"
   edit section: "Rievdat oasi %{name}"
+  editing page: "Rievdadit siiddu %{name}"
+  summary: "Čoahkkáigeassu:"
+  update: "Vurke siiddu"
+  preview: "Siiddu ovdalgihtiigeahččan"
   revision history: ""
+  history tab: "Historjá"
   compare revisions: ""
   pages in category: "Siiddut, mat gullet luohkkái %{category}"
 

@@ -1,8 +1,14 @@
 :tg:
   table of contents: "Пышкöс"
   edit: "Веськöтны"
+  edit tab: "Веськöтны"
   edit section: "Веськöтны юкöт: %{name}"
+  editing page: "Редактируйтöм %{name}"
+  summary: "Мый вежöм:"
+  update: "Вильмöтны листбок"
+  preview: "Одзвыв нёджалан"
   revision history: "%{name} вильмöтан история"
+  history tab: "Чулалöм"
   compare revisions: ""
   pages in category: "\"%{category}\" категорияын листбоккез"
 

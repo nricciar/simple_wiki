@@ -1,8 +1,14 @@
 :gd:
   table of contents: "Susbaint"
   edit: "Deasaich"
+  edit tab: "Deasaich"
   edit section: "Deasaich earrann: %{name}"
+  editing page: "A\' deasachadh %{name}"
+  summary: "Gearr-chunntas:"
+  update: "Sàbhail an duilleag"
+  preview: "Ro-shealladh"
   revision history: "Eachdraidh nam mùthaidhean de \"%{name}\""
+  history tab: "Eachdraidh"
   compare revisions: ""
   pages in category: "Duilleagan sa roinn \"%{category}\""
 

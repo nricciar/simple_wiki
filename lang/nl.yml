@@ -1,8 +1,14 @@
 :nl:
   table of contents: "Inhoud"
   edit: "Bewerken"
+  edit tab: "Bewerken"
   edit section: "Deelpagina bewerken: %{name}"
+  editing page: "Bezig met bewerken van %{name}"
+  summary: "Samenvatting:"
+  update: "Pagina opslaan"
+  preview: "Voorvertoning"
   revision history: "Geschiedenis van \"%{name}\""
+  history tab: "Geschiedenis"
   compare revisions: "Paginaversies vergelijken"
   pages in category: "Pagina’s in categorie “%{category}”"
 

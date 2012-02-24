@@ -1,8 +1,14 @@
 :kbd_cyrl:
   table of contents: "Хэтхахэр"
   edit: "Гъэтэрэзын"
+  edit tab: "Гъэтэрэзын"
   edit section: "Секцэр гъэтэрэзын: %{name}"
+  editing page: "Гъэтэрэзын: %{name}"
+  summary: "Хъуэжахэм тепсэлъыхь:"
+  update: "НапэкӀуэцIыр итхэн"
+  preview: "Япэ-еплъ"
   revision history: "%{name} - зэхъуэкIыныгъэм и тхыдэ"
+  history tab: "Тхыдэ"
   compare revisions: ""
   pages in category: "НапэкIуэцIхэр \"%{category}\" категориэм"
 

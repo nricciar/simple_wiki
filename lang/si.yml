@@ -1,8 +1,14 @@
 :si:
   table of contents: "පටුන"
   edit: "සංස්කරණය කරන්න"
+  edit tab: "සංස්කරණය කරන්න"
   edit section: "ඡේදය සංස්කරණය කරන්න: %{name}"
+  editing page: "%{name} සංස්කරණය කරමින් පවතියි"
+  summary: "සාරාංශය:"
+  update: "පිටුව සුරකින්න"
+  preview: "පෙරදසුන"
   revision history: "\"%{name}\"හි සංශෝධන ඉතිහාසය"
+  history tab: "ඉතිහාසය"
   compare revisions: "පිටුවේ සංශෝධන සසඳන්න"
   pages in category: "\"%{category}\" ප්‍රවර්ගයට අයත් පිටු"
 

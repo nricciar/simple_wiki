@@ -1,8 +1,14 @@
 :am:
   table of contents: "ማውጫ"
   edit: "አርም"
+  edit tab: "አርም"
   edit section: "ክፍሉን «%{name}» ለማስተካከል"
+  editing page: "«%{name}» ማዘጋጀት / ማስተካከል"
+  summary: "ማጠቃለያ:"
+  update: "ገጹን አስቀምጥ"
+  preview: "ሙከራ / preview"
   revision history: "የ«%{name}» እትሞች ታሪክ"
+  history tab: "ታሪክ"
   compare revisions: ""
   pages in category: "በምድብ «%{category}» ውስጥ የሚገኙ ገጾች"
 

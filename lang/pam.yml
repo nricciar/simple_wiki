@@ -1,8 +1,14 @@
 :pam:
   table of contents: "Kalamnan"
   edit: "Alilan"
+  edit tab: "Alilan"
   edit section: "Mag-edit dake: %{name}"
+  editing page: "Manalili %{name}"
+  summary: "Sampulung (Summary):"
+  update: "I-save ya ing bulung"
+  preview: "I-preview"
   revision history: "Amlat ning pamagbayu king \"%{name}\""
+  history tab: "Amlat"
   compare revisions: ""
   pages in category: "Deng bulung king kategoriyang \"%{category}\""
 

@@ -1,8 +1,14 @@
 :pt_br:
   table of contents: "Tabela de conteúdo"
   edit: "Editar"
+  edit tab: "Editar"
   edit section: "Editar seção: %{name}"
+  editing page: "Editando %{name}"
+  summary: "Sumário:"
+  update: "Salvar página"
+  preview: "Pré-visualização"
   revision history: "Histórico de edições de \"%{name}\""
+  history tab: "Histórico"
   compare revisions: "Comparar edições da página"
   pages in category: "Páginas na categoria \"%{category}\""
 

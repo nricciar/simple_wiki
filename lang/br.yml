@@ -1,8 +1,14 @@
 :br:
   table of contents: "Taolenn"
   edit: "Kemmañ"
+  edit tab: "Kemmañ"
   edit section: "Kemmañ ar rann : %{name}"
+  editing page: "Oc\'h aozañ %{name}"
+  summary: "Diverrañ :"
+  update: "Enrollañ"
+  preview: "Rakwelet"
   revision history: "Istor stummoù disheñvel \"%{name}\""
+  history tab: "Istor"
   compare revisions: "Keñveriañ stummoù ar pajennoù"
   pages in category: "Niver a bennadoù er rummad \"%{category}\""
 

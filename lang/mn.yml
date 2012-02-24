@@ -1,8 +1,14 @@
 :mn:
   table of contents: "Агуулга"
   edit: "Засварлах"
+  edit tab: "Засварлах"
   edit section: "Хэсгийг засварлах: %{name}"
+  editing page: "%{name}-г засварлаж байна"
+  summary: "Товч агуулга:"
+  update: "Хуудсыг хадгалах"
+  preview: "Урьдчилж харах"
   revision history: "\"%{name}\"-н засварын түүх"
+  history tab: "Түүх"
   compare revisions: "Хуудасны засваруудыг харьцуулах"
   pages in category: "\"%{category}\" ангилал дахь хуудсууд"
 

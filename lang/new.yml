@@ -1,8 +1,14 @@
 :new:
   table of contents: ""
   edit: "सम्पादन"
+  edit tab: "सम्पादन"
   edit section: "खण्ड सम्पादन: %{name}"
+  editing page: "%{name} सम्पादन जुयाच्वँगु दु"
+  summary: "सारांश:"
+  update: "पौ मुंकादिसं"
+  preview: "स्वयादिसं"
   revision history: ""
+  history tab: "इतिहास"
   compare revisions: ""
   pages in category: "पुचः \"%{category}\"य् दुगु पौतः"
 

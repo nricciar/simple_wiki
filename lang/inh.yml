@@ -1,8 +1,14 @@
 :inh:
   table of contents: "Чулоацам"
   edit: "Хувца"
+  edit tab: "Хувца"
   edit section: "Декъам хувца: %{name}"
+  editing page: "ГӀалатнийсдар: %{name}"
+  summary: "Хувцамий белгалдер"
+  update: "ОагӀув хьаязде"
+  preview: "Хьалхе бӀаргтассар"
   revision history: "\"%{name}\" хувцамий искар"
+  history tab: "Искар"
   compare revisions: ""
   pages in category: "\"%{category}\" Цатегчу оагӀувнаш"
 

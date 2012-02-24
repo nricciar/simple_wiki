@@ -1,8 +1,14 @@
 :lv:
   table of contents: "Satura rādītājs"
   edit: "Izmainīt šo lapu"
+  edit tab: "Izmainīt šo lapu"
   edit section: "Rediģēt sadaļu: %{name}"
+  editing page: "Izmainīt %{name}"
+  summary: "Kopsavilkums:"
+  update: "Saglabāt lapu"
+  preview: "Pirmskats"
   revision history: "\"%{name}\" versiju hronoloģija"
+  history tab: "Vēsture"
   compare revisions: "Salīdzināt lapu versijas"
   pages in category: "Raksti, kas ietverti kategorijā \"%{category}\"."
 

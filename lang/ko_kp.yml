@@ -1,8 +1,14 @@
 :ko_kp:
   table of contents: "Insacualte"
   edit: "Ticpatlöx"
+  edit tab: "Ticpatlöx"
   edit section: "Ticpatlöx partamöx: %{name}"
+  editing page: "Ticpatlöx %{name}"
+  summary: "Abvuatl:"
+  update: "Xuniim páhina"
+  preview: "Cuáxiit"
   revision history: "Históriade revicionde \"%{name}\""
+  history tab: "Historiám"
   compare revisions: ""
   pages in category: "Páhinám cayliibám zo iti \"%{category}\""
 

@@ -1,8 +1,14 @@
 :km:
   table of contents: "មាតិកា"
   edit: "កែប្រែ"
+  edit tab: "កែប្រែ"
   edit section: "កែប្រែផ្នែក៖ %{name}"
+  editing page: "កំពុងកែប្រែ​ %{name}"
+  summary: "ចំណារពន្យល់៖"
+  update: "រក្សាទំព័រទុក"
+  preview: "មើលជាមុន"
   revision history: "ប្រវត្តិកំណែប្រែនានានៃ \"%{name}\""
+  history tab: "ប្រវត្តិ"
   compare revisions: "ប្រៀបធៀបកំណែទំព័រ"
   pages in category: "ទំព័រដែលមាន​ក្នុងចំណាត់ថ្នាក់ក្រុម\"%{category}\""
 

@@ -1,8 +1,14 @@
 :yo:
   table of contents: "Àwọn àkóónú"
   edit: "Àtúnṣe"
+  edit tab: "Àtúnṣe"
   edit section: "Àtúnṣe abala: %{name}"
+  editing page: "Àtúnṣe sí %{name}"
+  summary: "Àkótán:"
+  update: "Ìmúpamọ́ ojúewé"
+  preview: "Àyẹ̀wò"
   revision history: "Ìtàn àtúnyẹ̀wò fún \"%{name}\""
+  history tab: "Ìtàn"
   compare revisions: "Ìfiwéra àwọn àtúnyẹ̀wò ojúewé"
   pages in category: "Àwọn ojúewé nínú ẹ̀ka \"%{category}\""
 

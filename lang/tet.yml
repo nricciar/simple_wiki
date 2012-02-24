@@ -1,8 +1,14 @@
 :tet:
   table of contents: "Tabela konteúdu"
   edit: "Edita"
+  edit tab: "Edita"
   edit section: "Edita parte %{name} pájina nian"
+  editing page: "Edita %{name}"
+  summary: "Rezumu:"
+  update: "Muda pájina"
+  preview: ""
   revision history: ""
+  history tab: "Istória"
   compare revisions: ""
   pages in category: "Artigu iha kategoría \"%{category}\""
 

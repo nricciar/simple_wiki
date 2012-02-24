@@ -1,8 +1,14 @@
 :mrj:
   table of contents: "Кӧргӹштӹжӹ"
   edit: "Торлӓш"
+  edit tab: "Торлӓш"
   edit section: "Секцим тӧрлӓш: %{name}"
+  editing page: "Редактируйымаш: %{name}"
+  summary: "Мам вашталтымы:"
+  update: "Ӹлӹштӓшӹм темӓш"
+  preview: "Анзыц анжен лӓктӓш"
   revision history: "%{name} — вашталтымашвлӓн историштӹ"
+  history tab: "Истори"
   compare revisions: ""
   pages in category: "Категори «%{category}» ӹлӹштӓшвлӓ"
 

@@ -1,8 +1,14 @@
 :haw:
   table of contents: "Papa kuhikuhi"
   edit: "E ho‘ololi"
+  edit tab: "E ho‘ololi"
   edit section: "E hoʻololi i ka paukū: %{name}"
+  editing page: "Ke ho‘ololi nei iā %{name}"
+  summary: "Hōʻuluʻulu manaʻo:"
+  update: "E mālama i ka mea"
+  preview: "Nāmua"
   revision history: ""
+  history tab: "Mōʻaukala"
   compare revisions: ""
   pages in category: "Nā ʻaoʻao i loko o ka mahele \"%{category}\""
 

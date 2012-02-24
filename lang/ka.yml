@@ -1,8 +1,14 @@
 :ka:
   table of contents: "სარჩევი"
   edit: "რედაქტირება"
+  edit tab: "რედაქტირება"
   edit section: "სექციის რედაქტირება: %{name}"
+  editing page: "რედაქტირება: %{name}"
+  summary: "რეზიუმე:"
+  update: "შენახვა"
+  preview: "წინასწარი გადახედვა"
   revision history: "ცვლილებათა ისტორია სტატიაში „%{name}“"
+  history tab: "ისტორია"
   compare revisions: "გვერდების ვერსიების შედარება"
   pages in category: "სტატიები კატეგორიაში „%{category}“"
 

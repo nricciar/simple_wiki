@@ -1,8 +1,14 @@
 :mai:
   table of contents: "विषय-सूची"
   edit: "संपादन"
+  edit tab: "संपादन"
   edit section: "संपादन शाखा: %{name}"
+  editing page: "सम्पादन होइए %{name}"
+  summary: "सारांश:"
+  update: "पन्नाक रक्षण करू"
+  preview: "पूर्वावलोकन"
   revision history: "\"%{name}\" क संशोधन इतिहास"
+  history tab: "इतिहास"
   compare revisions: "पन्ना सभक संशोधनक तुलना करू"
   pages in category: "संवर्ग \"%{category}\" मे पन्ना सभ"
 

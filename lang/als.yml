@@ -1,8 +1,14 @@
 :als:
   table of contents: "Índice"
   edit: "Editar"
+  edit tab: "Editar"
   edit section: "Editar secção: %{name}"
+  editing page: "A editar %{name}"
+  summary: "Resumo:"
+  update: "Gravar página"
+  preview: "Antevisão"
   revision history: "Histórico de edições de \"%{name}\""
+  history tab: "Histórico"
   compare revisions: "Comparar edições da página"
   pages in category: "Páginas na categoria \"%{category}\""
 

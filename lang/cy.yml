@@ -1,8 +1,14 @@
 :cy:
   table of contents: "Cynnwys"
   edit: "Golygu"
+  edit tab: "Golygu"
   edit section: "Golygu\'r adran: %{name}"
+  editing page: "Yn golygu %{name}"
+  summary: "Crynodeb:"
+  update: "Cadw\'r dudalen"
+  preview: "Rhagolwg"
   revision history: "Hanes golygu \'%{name}\'"
+  history tab: "Hanes"
   compare revisions: "Cymharu diwygiadau gwahanol o\'r dudalen"
   pages in category: "Erthyglau yn y categori \"%{category}\""
 

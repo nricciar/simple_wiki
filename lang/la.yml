@@ -1,8 +1,14 @@
 :la:
   table of contents: "Index"
   edit: "Recensere"
+  edit tab: "Recensere"
   edit section: "Recensere partem: %{name}"
+  editing page: "Recensio paginae \"%{name}\""
+  summary: "Summarium:"
+  update: "Servare hanc rem"
+  preview: "Praevidere"
   revision history: "Historia paginae \"%{name}\""
+  history tab: "Historia"
   compare revisions: ""
   pages in category: "Paginae in categoria \"%{category}\""
 

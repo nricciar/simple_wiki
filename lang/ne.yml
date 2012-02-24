@@ -1,8 +1,14 @@
 :ne:
   table of contents: "विषयसूची"
   edit: "परिवर्तन"
+  edit tab: "परिवर्तन"
   edit section: "खण्ड: %{name} सम्पादन गर्नुहोस्"
+  editing page: "%{name} सम्पादन गरिँदै"
+  summary: "सारांश:"
+  update: "संग्रह गर्ने"
+  preview: "पूर्वालोकन"
   revision history: "\"%{name}\" को पुनरावलोकन इतिहास"
+  history tab: "पृष्ठको इतिहास"
   compare revisions: "पृष्ठ संस्करणहरु दाज्ने \\"
   pages in category: "\"%{category}\" श्रेणीमा भएका लेखहरू"
 

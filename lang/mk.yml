@@ -1,8 +1,14 @@
 :mk:
   table of contents: "Содржина"
   edit: "Уреди"
+  edit tab: "Уреди"
   edit section: "Уреди го пасусот: %{name}"
+  editing page: "Уредување на %{name}"
+  summary: "Опис:"
+  update: "Зачувај"
+  preview: "Преглед"
   revision history: "Историја на измените на „%{name}“"
+  history tab: "Историја"
   compare revisions: "Споредба на ревизии на страници"
   pages in category: "Статии во категоријата „%{category}“"
 

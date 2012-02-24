@@ -1,8 +1,14 @@
 :eo:
   table of contents: "Enhavo"
   edit: "Redakti"
+  edit tab: "Redakti"
   edit section: "Redakti sekcion: %{name}"
+  editing page: "Redaktante %{name}"
+  summary: "Resumo:"
+  update: "Konservi ŝanĝojn"
+  preview: "Antaŭrigardo"
   revision history: "Redakto-historio de \"%{name}\""
+  history tab: "Historio"
   compare revisions: "Kompari reviziojn de paĝo"
   pages in category: "Artikoloj en kategorio \"%{category}\""
 

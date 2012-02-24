@@ -1,8 +1,14 @@
 :myv:
   table of contents: "Потмокс"
   edit: "Витнеме-петнеме"
+  edit tab: "Витнеме-петнеме"
   edit section: "%{name} секциянть-пельксэнть витнеме-петнеме"
+  editing page: "Витнят-петнят %{name}"
+  summary: "Вейсэндязь:"
+  update: "Ванстомс лопанть"
+  preview: "Васнянь неевтезэ"
   revision history: "Историясь ламо вановксонть \"%{name}\""
+  history tab: "Путовксонзо-йуронзо"
   compare revisions: ""
   pages in category: "\"%{category}\" категориясонть лопатне"
 

@@ -1,8 +1,14 @@
 :ckb:
   table of contents: "ناوەڕۆک"
   edit: "دەستکاری"
+  edit tab: "دەستکاری"
   edit section: "دەستکاری کردنی بەشی: %{name}"
+  editing page: "دەستکاریکردنی %{name}"
+  summary: "پوختە:"
+  update: "پەڕەکە پاشەکەوت بکە"
+  preview: "پێشبینین"
   revision history: "مێژووی پیاچوونەوەکانی «%{name}»"
+  history tab: "مێژووی پەڕە"
   compare revisions: "پیاچوونەوەکانی پەڕە ھەڵسەنگێنە"
   pages in category: "پەڕەکانی پۆلی «%{category}»"
 

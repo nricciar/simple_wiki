@@ -1,8 +1,14 @@
 :bh:
   table of contents: "ནང་དོན།"
   edit: "ཞུན་དག།"
+  edit tab: "ཞུན་དག།"
   edit section: "དབྱེ་ཚན་:%{name} ཞུན་དག་འབད།"
+  editing page: "%{name} ཞུན་དག་འབད་དོ།"
+  summary: "བཅུད་དོན།:"
+  update: "ཤོག་ལེབ་སྲུངས།"
+  preview: "སྔོན་ལྟ།"
   revision history: "\"%{name}\" གི་བསྐྱར་ཞིབ་སྤྱོད་ཤུལ།"
+  history tab: "སྤྱོད་ཤུལ།"
   compare revisions: ""
   pages in category: "དབྱེ་རིམ་ \"%{category}\" ནང་གི་ཤོག་ལེབ་ཚུ།"
 

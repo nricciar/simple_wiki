@@ -1,8 +1,14 @@
 :eml:
   table of contents: ""
   edit: "Mudifichèr"
+  edit tab: "Mudifichèr"
   edit section: ""
+  editing page: "Cambiamèint ed %{name}"
+  summary: "Mutîv d\'al cambiamèint:"
+  update: "Salva"
+  preview: ""
   revision history: ""
+  history tab: "Stôria"
   compare revisions: ""
   pages in category: ""
 

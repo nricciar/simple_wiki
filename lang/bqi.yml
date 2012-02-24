@@ -1,8 +1,14 @@
 :bqi:
   table of contents: "محتواها"
   edit: "اصلاح"
+  edit tab: "اصلاح"
   edit section: "اصلاح یه قسمت: %{name}"
+  editing page: "درحال اصلاح %{name}"
+  summary: "خلاصه:"
+  update: "صفحه ضبط بوه"
+  preview: "پیش نمایش"
   revision history: "گزارش تاریخی نسخه زه \"%{name}\""
+  history tab: "گزارش تاریخی"
   compare revisions: ""
   pages in category: "صفحات دردسته \"%{category}\""
 

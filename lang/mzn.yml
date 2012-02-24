@@ -1,8 +1,14 @@
 :mzn:
   table of contents: "دله"
   edit: "دچی‌ین"
+  edit tab: "دچی‌ین"
   edit section: "تیکه: %{name} ره دچی‌ین"
+  editing page: "دچی‌ین => %{name}"
+  summary: "گوزارش کار:"
+  update: "جادکتن ِصفحه"
+  preview: "پیش نمایش"
   revision history: ""
+  history tab: "تاریخچه"
   compare revisions: ""
   pages in category: "\"%{category}\" ره دله صفحه‌ئون"
 

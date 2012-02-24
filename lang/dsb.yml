@@ -1,8 +1,14 @@
 :dsb:
   table of contents: "Wopśimjeśe"
   edit: "wobźěłaś"
+  edit tab: "wobźěłaś"
   edit section: "Wótrězk wobźěłaś: %{name}"
+  editing page: "Wobźěłanje boka %{name}"
+  summary: "Zespominanje:"
+  update: "Bok składowaś"
+  preview: "Pśeglěd"
   revision history: "Stawizny wersijow boka „%{name}“"
+  history tab: "Wersije a awtory"
   compare revisions: "Wersije boka pśirownaś"
   pages in category: "Nastawki w kategoriji „%{category}“"
 

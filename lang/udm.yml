@@ -1,8 +1,14 @@
 :udm:
   table of contents: ""
   edit: "тупатыны"
+  edit tab: "тупатыны"
   edit section: "%{name} секциез тупатоно"
+  editing page: ""
+  summary: "Мар но малы тупатэмын? (вакчияк):"
+  update: ""
+  preview: ""
   revision history: ""
+  history tab: "история"
   compare revisions: ""
   pages in category: "«%{category}» категориысь бамъёс"
 

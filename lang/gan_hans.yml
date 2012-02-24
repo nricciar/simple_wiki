@@ -1,8 +1,14 @@
 :gan_hans:
   table of contents: "目录"
   edit: "编写"
+  edit tab: "编写"
   edit section: "编写段落: %{name}"
+  editing page: "编辑嘚%{name}"
+  summary: "摘要:"
+  update: "存到著"
+  preview: "预览"
   revision history: "历史版本𠮶 \"%{name}\""
+  history tab: "历史"
   compare revisions: ""
   pages in category: "“%{category}”分类里头𠮶文章"
 

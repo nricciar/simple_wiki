@@ -1,8 +1,14 @@
 :sr_el:
   table of contents: "Sadržaj"
   edit: "Uredi"
+  edit tab: "Uredi"
   edit section: "Uredite odeljak „%{name}“"
+  editing page: "Uređujete %{name}"
+  summary: "Opis izmene:"
+  update: "Sačuvaj stranicu"
+  preview: "Pretpregled"
   revision history: "Istorija izmena za „%{name}“"
+  history tab: "Istorija"
   compare revisions: "Upoređivanje izmena stranice"
   pages in category: "Stranice u kategoriji „%{category}“"
 

@@ -1,8 +1,14 @@
 :ar:
   table of contents: "محتويات"
   edit: "عدل"
+  edit tab: "عدل"
   edit section: "حرر القسم: %{name}"
+  editing page: "تحرير %{name}"
+  summary: "ملخص:"
+  update: "احفظ الصفحة"
+  preview: "معاينة"
   revision history: "تاريخ مراجعة \"%{name}\""
+  history tab: "تاريخ"
   compare revisions: "قارن مراجعات الصفحة"
   pages in category: "صفحات تصنيف \"%{category}\""
 

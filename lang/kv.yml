@@ -1,8 +1,14 @@
 :kv:
   table of contents: ""
   edit: "Вежны"
+  edit tab: "Вежны"
   edit section: "«%{name}» секция веськӧдны"
+  editing page: ""
+  summary: ""
+  update: "Лист бокӧс гижны"
+  preview: ""
   revision history: ""
+  history tab: "Важвылӧм"
   compare revisions: ""
   pages in category: ""
 

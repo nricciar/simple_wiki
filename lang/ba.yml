@@ -1,8 +1,14 @@
 :ba:
   table of contents: "Эстәлеге"
   edit: "Үҙгәртеү"
+  edit tab: "Үҙгәртеү"
   edit section: "%{name} бүлеген үҙгәртеү"
+  editing page: "Мөхәрирләү  %{name}"
+  summary: "Үҙгәртеүҙең ҡыҫҡаса тасуирламаһы:"
+  update: "Яҙҙырып ҡуйырға"
+  preview: "Ҡарап сығыу"
   revision history: "%{name} битенең үҙгәртеү тарихы"
+  history tab: "Тарих"
   compare revisions: "Биттәрҙең өлгөләрен сағыштырыу"
   pages in category: "«%{category}» категорияһындағы биттәр"
 

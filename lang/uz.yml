@@ -1,8 +1,14 @@
 :uz:
   table of contents: "Mundarija"
   edit: "Tahrirlash"
+  edit tab: "Tahrirlash"
   edit section: "Boʻlimni tahrirlash: %{name}"
+  editing page: "%{name} tahrirlanmoqda"
+  summary: "Qisqa izoh:"
+  update: "Saqlash"
+  preview: "Ko\'rib chiqish"
   revision history: "\"%{name}\"ning tarixi"
+  history tab: "Tarix"
   compare revisions: ""
   pages in category: "\"%{category}\" turkumidagi maqolalar."
 

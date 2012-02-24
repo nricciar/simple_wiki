@@ -1,8 +1,14 @@
 :ja:
   table of contents: "目次"
   edit: "編集"
+  edit tab: "編集"
   edit section: "節を編集: %{name}"
+  editing page: "「%{name}」を編集中"
+  summary: "編集内容の要約："
+  update: "ページを保存"
+  preview: "プレビュー"
   revision history: "「%{name}」の変更履歴"
+  history tab: "履歴"
   compare revisions: "ページの版を比較"
   pages in category: "カテゴリ「%{category}」にあるページ"
 

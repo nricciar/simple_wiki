@@ -1,8 +1,14 @@
 :tr:
   table of contents: "Konu başlıkları"
   edit: "Düzenle"
+  edit tab: "Düzenle"
   edit section: "%{name} bölümünü değiştir"
+  editing page: "\"%{name}\" sayfasını değiştirmektesiniz"
+  summary: "Özet:"
+  update: "Sayfayı kaydet"
+  preview: "Önizleme"
   revision history: "\"%{name}\" sayfasının geçmişi"
+  history tab: "Geçmiş"
   compare revisions: "Sayfa sürümlerini karşılaştır"
   pages in category: "\"%{category}\" kategorisindeki sayfalar"
 

@@ -1,8 +1,14 @@
 :bg:
   table of contents: "Съдържание"
   edit: "Редактиране"
+  edit tab: "Редактиране"
   edit section: "Редактиране на раздел: %{name}"
+  editing page: "Редактиране на „%{name}“"
+  summary: "Резюме:"
+  update: "Съхраняване"
+  preview: "Предварителен преглед"
   revision history: "Преглед на историята на „%{name}“"
+  history tab: "История"
   compare revisions: "Сравняване версиите на страници"
   pages in category: "Страници в категория „%{category}“"
 

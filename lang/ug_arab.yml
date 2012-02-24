@@ -1,8 +1,14 @@
 :ug_arab:
   table of contents: "مەزمۇنى"
   edit: "تەھرىر"
+  edit tab: "تەھرىر"
   edit section: "ئابزاس تەھرىر: %{name}"
+  editing page: "%{name} تەھرىرلەۋاتىدۇ"
+  summary: "مۇھىم مەزمۇن:"
+  update: "بەت ساقلا"
+  preview: "ئالدىن كۆزەت"
   revision history: "\"%{name}\" نىڭ ئۆزگەرتىش خاتىرىسى"
+  history tab: "تارىخ"
   compare revisions: "بەتنىڭ تۈزىتىلگەن نەشرىنى سېلىشتۇر"
   pages in category: "\"%{category}\" تۈردىكى بەتلەر"
 

@@ -1,8 +1,14 @@
 :lb:
   table of contents: "Inhaltsverzeechnes"
   edit: "Änneren"
+  edit tab: "Änneren"
   edit section: "Abschnitt änneren: %{name}"
+  editing page: "Ännere vu(n) %{name}"
+  summary: "Resumé:"
+  update: "Säit späicheren"
+  preview: "Kucken ouni ofzespäicheren"
   revision history: "Versiounshistorique vun „%{name}“"
+  history tab: "Versiounen"
   compare revisions: "Versioune vu Säite vergläichen"
   pages in category: "Säiten an der Kategorie \"%{category}\""
 

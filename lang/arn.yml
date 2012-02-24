@@ -1,8 +1,14 @@
 :arn:
   table of contents: "Trokiñdungu"
   edit: "Kümeelün"
+  edit tab: "Kümeelün"
   edit section: "Kümeelan katrüntuku: %{name}"
+  editing page: "Kümeelngey %{name}"
+  summary: "Pichi trokiñündungu:"
+  update: "Eltukawün wülngiñ"
+  preview: "Pen chum müley"
   revision history: "Kuyfi malün \"%{name}\" mew"
+  history tab: "Rupañmael"
   compare revisions: ""
   pages in category: "Wülngiñ trokiñ \"%{category}\""
 

@@ -1,8 +1,14 @@
 :os:
   table of contents: "Сæргæндтæ"
   edit: "Ивын"
+  edit tab: "Ивын"
   edit section: "Ив хай: %{name}"
+  editing page: "Ивыс: %{name}"
+  summary: "Ивдтыты мидис:"
+  update: "Фæивын"
+  preview: "Разæркаст"
   revision history: "\"%{name}\" фарсы фæлтæрты истори"
+  history tab: "Истори"
   compare revisions: ""
   pages in category: "Категори \"%{category}\""
 

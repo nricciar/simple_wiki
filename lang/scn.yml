@@ -1,8 +1,14 @@
 :scn:
   table of contents: "Ìndici"
   edit: "cancia"
+  edit tab: "cancia"
   edit section: "Cancia la sezzioni %{name}"
+  editing page: "Canciu di la vuci \"%{name}\""
+  summary: "Discrizzioni:"
+  update: "sarva la pàggina"
+  preview: "visuali"
   revision history: "Crunoluggìa dî canciamenti di \"%{name}\""
+  history tab: "storia"
   compare revisions: ""
   pages in category: "Artìculi ntâ catigurìa \"%{category}\""
 

@@ -1,8 +1,14 @@
 :nso:
   table of contents: "Mateng"
   edit: "Fetola"
+  edit tab: "Fetola"
   edit section: "Fetola sekgao: %{name}"
+  editing page: "O fetola %{name}"
+  summary: "Kakaretšo:"
+  update: "Boloka letlakala"
+  preview: "Lebelela"
   revision history: "Histori ya diphetogo tša \"%{name}\""
+  history tab: "Histori"
   compare revisions: ""
   pages in category: "Matlakala go sehlopha \"%{category}\""
 

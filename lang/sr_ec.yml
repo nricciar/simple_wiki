@@ -1,8 +1,14 @@
 :sr_ec:
   table of contents: "Садржај"
   edit: "Уреди"
+  edit tab: "Уреди"
   edit section: "Уредите одељак „%{name}“"
+  editing page: "Уређујете %{name}"
+  summary: "Опис измене:"
+  update: "Сачувај страницу"
+  preview: "Претпреглед"
   revision history: "Историја измена за „%{name}“"
+  history tab: "Историја"
   compare revisions: "Упоређивање измена странице"
   pages in category: "Странице у категорији „%{category}“"
 

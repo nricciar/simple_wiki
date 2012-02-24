@@ -1,8 +1,14 @@
 :kw:
   table of contents: "Synsys"
   edit: "Chanjya"
+  edit tab: "Chanjya"
   edit section: "Chanjya an radn: %{name}"
+  editing page: "ow chanjya %{name}"
+  summary: "Derivas cot:"
+  update: "Gwitha"
+  preview: "Ragwel"
   revision history: "Istory an folen \"%{name}\""
+  history tab: "Istory"
   compare revisions: ""
   pages in category: "Folednow e\'n class \"%{category}\""
 

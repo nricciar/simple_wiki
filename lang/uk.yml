@@ -1,8 +1,14 @@
 :uk:
   table of contents: "Зміст"
   edit: "Редагувати"
+  edit tab: "Редагувати"
   edit section: "Редагувати розділ: %{name}"
+  editing page: "Редагування %{name}"
+  summary: "Короткий опис змін:"
+  update: "Зберегти сторінку"
+  preview: "Попередній перегляд"
   revision history: "Історія змін сторінки «%{name}»"
+  history tab: "Історія"
   compare revisions: "Порівняння версій сторінок"
   pages in category: "Сторінки в категорії «%{category}»"
 

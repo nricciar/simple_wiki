@@ -1,8 +1,14 @@
 :fr:
   table of contents: "Sommaire"
   edit: "Modifier"
+  edit tab: "Modifier"
   edit section: "Modifier la section : %{name}"
+  editing page: "Modification de %{name}"
+  summary: "Résumé :"
+  update: "Publier"
+  preview: "Prévisualisation"
   revision history: "Historique des versions de «&nbsp;%{name}&nbsp;»"
+  history tab: "Historique"
   compare revisions: "Comparer les versions des pages"
   pages in category: "Pages dans la catégorie « %{category} »"
 

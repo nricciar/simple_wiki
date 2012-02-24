@@ -1,8 +1,14 @@
 :zh_yue:
   table of contents: "Dagiti linaon"
   edit: "Urnosen"
+  edit tab: "Urnosen"
   edit section: "Urnosen ti paset: %{name}"
+  editing page: "Ururnosen ti %{name}"
+  summary: "Pakabuklan:"
+  update: "Idulin ti panid"
+  preview: "Naipadas"
   revision history: "Pakasaritaan ti pannakabalbaliw ti \"%{name}\""
+  history tab: "Pakasaritaan"
   compare revisions: "Ipada dagiti panagbaliw ti panid"
   pages in category: "Dagiti panid iti kategoria  \"%{category}\""
 

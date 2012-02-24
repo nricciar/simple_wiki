@@ -1,8 +1,14 @@
 :sma:
   table of contents: "Sisvege"
   edit: "Sjiehtedh"
+  edit tab: "Sjiehtedh"
   edit section: "Sektiovne sjiehtedh: %{name}"
+  editing page: "Sjiehtedimmie %{name}"
+  summary: "Tjohkehtehteme:"
+  update: "Spååredh bielie"
+  preview: "Åvte-vuesiehtidh"
   revision history: "Gïehtjedamme histovrije ihke \"%{name}\""
+  history tab: "Histovrije"
   compare revisions: ""
   pages in category: "Bielie sïjse kategorije \"%{category}\""
 

@@ -1,8 +1,14 @@
 :so:
   table of contents: "Qoraalka gudaha oo kooban"
   edit: "Wax ka bedel"
+  edit tab: "Wax ka bedel"
   edit section: "Wax ka bedel: %{name}"
+  editing page: "Waxaa badaloosaa %{name}"
+  summary: "Qoraal kooban:"
+  update: "Bogga kaydi"
+  preview: "Horfiirin"
   revision history: "Taariikhda badalka \"%{name}\""
+  history tab: "Taariikh"
   compare revisions: ""
   pages in category: "Maqaalada ku jirta qeybta \"%{category}\""
 

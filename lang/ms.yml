@@ -1,8 +1,14 @@
 :ms:
   table of contents: "Isi kandungan"
   edit: "Sunting"
+  edit tab: "Sunting"
   edit section: "Sunting bahagian: %{name}"
+  editing page: "Menyunting %{name}"
+  summary: "Ringkasan:"
+  update: "Simpan"
+  preview: "Pralihat"
   revision history: "Sejarah semakan bagi \"%{name}\""
+  history tab: "Sejarah"
   compare revisions: "Bandingkan semakan laman"
   pages in category: "Laman-laman dalam kategori \"%{category}\""
 

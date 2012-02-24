@@ -1,8 +1,14 @@
 :sg:
   table of contents: ""
   edit: "Sepe"
+  edit tab: "Sepe"
   edit section: "Sepe surä nî %{name}"
+  editing page: "Sëpëngö %{name}"
+  summary: ""
+  update: ""
+  preview: ""
   revision history: ""
+  history tab: "mbai"
   compare revisions: ""
   pages in category: "Âlâmbëtï na yâ tî fündä « %{category} »"
 

@@ -1,8 +1,14 @@
 :bs:
   table of contents: "Sadržaj"
   edit: "Uredi"
+  edit tab: "Uredi"
   edit section: "Uredi sekciju: %{name}"
+  editing page: "Uređujete %{name}"
+  summary: "Sažetak:"
+  update: "Sačuvaj"
+  preview: "Pregled stranice"
   revision history: "Historija izmjena stranice \"%{name}\""
+  history tab: "Historija"
   compare revisions: "Usporedi ispravljanje stranica"
   pages in category: "Članci u kategoriji \"%{category}\""
 

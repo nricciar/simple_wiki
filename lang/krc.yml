@@ -1,8 +1,14 @@
 :krc:
   table of contents: "Башлары"
   edit: "Тюрлендир"
+  edit tab: "Тюрлендир"
   edit section: "%{name} бёлюмню тюрлендир"
+  editing page: "«%{name}» бетни тюрлендириу"
+  summary: "Тюрлениулени къысха ачыкълау:"
+  update: "Бетни сакъла"
+  preview: "Ал къарау"
   revision history: "«%{name}» бетни тюрлениу тарихи"
+  history tab: "Тарих"
   compare revisions: "Бет версияланы тенглешдир"
   pages in category: "«%{category}» категориядагъы бетле"
 

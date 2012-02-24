@@ -1,8 +1,14 @@
 :ht:
   table of contents: "Kontni yo"
   edit: "Modifye"
+  edit tab: "Modifye"
   edit section: "Modifye seksyon : %{name}"
+  editing page: "Modifikasyon pou %{name}"
+  summary: "Somè:"
+  update: "Anrejistre"
+  preview: "Gade pou wè"
   revision history: "Istorik pou vèsyon « %{name} » yo"
+  history tab: "Istorik"
   compare revisions: ""
   pages in category: "Paj yo ki nan kategori « %{category} »"
 

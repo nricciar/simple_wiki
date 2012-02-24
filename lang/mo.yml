@@ -1,8 +1,14 @@
 :mo:
   table of contents: "Таблэ де материй"
   edit: "Едитязэ"
+  edit tab: "Едитязэ"
   edit section: "Едитязэ секциуня: %{name}"
+  editing page: "Едитынд %{name}"
+  summary: "Резумат:"
+  update: "Салвязэ паӂина"
+  preview: "Превизуализязэ"
   revision history: "Историкул ревизиилор пентру «%{name}»"
+  history tab: "Историк"
   compare revisions: ""
   pages in category: "Паӂинь дин категория «%{category}»"
 

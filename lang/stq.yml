@@ -1,8 +1,14 @@
 :stq:
   table of contents: "Inhooldsferteeknis"
   edit: "Siede beoarbaidje"
+  edit tab: "Siede beoarbaidje"
   edit section: "Apsats beoarbaidje: %{name}"
+  editing page: "Beoarbaidjen fon %{name}"
+  summary: "Touhoopefoatenge:"
+  update: "Siede spiekerje"
+  preview: "Foarbekiek"
   revision history: "Versionsgeskichte fon \"%{name}\""
+  history tab: "Geskichte"
   compare revisions: "Siedeversione ferglieke"
   pages in category: "Artikkel in ju Kategorie \"%{category}\""
 

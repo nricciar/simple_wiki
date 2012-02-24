@@ -1,8 +1,14 @@
 :pnt:
   table of contents: "Περιεχόμενα"
   edit: "Άλλαξον"
+  edit tab: "Άλλαξον"
   edit section: "Άλλαξον κομμάτ\': %{name}"
+  editing page: "Αλλαγήν %{name}"
+  summary: "Σύνοψη:"
+  update: "Τοπλάεμαν σελίδας"
+  preview: "Πρώτον τέρεμαν"
   revision history: "Ιστορικόν εκδοσίων για τη σελίδαν \"%{name}\""
+  history tab: "Ιστορίαν"
   compare revisions: ""
   pages in category: "Σελίδας τη κατηγορίας \"%{category}\""
 

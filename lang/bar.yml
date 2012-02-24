@@ -1,8 +1,14 @@
 :bar:
   table of contents: "Inhoidsvazeichnis"
   edit: "werkeln"
+  edit tab: "werkeln"
   edit section: "Obschnit beorweiden: %{name}"
+  editing page: "Beorwaiten vo %{name}"
+  summary: "Zåmmfossung:"
+  update: "Seiten speichern"
+  preview: "Vurschau"
   revision history: "Versiónsgschicht voh „%{name}“"
+  history tab: "Versionen/Autorn"
   compare revisions: "Seitenversiónen vagleichen"
   pages in category: "Seiten in da Kategorie „%{category}“"
 

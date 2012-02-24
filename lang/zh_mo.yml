@@ -1,8 +1,14 @@
 :zh_mo:
   table of contents: "Luzeem"
   edit: "Betara"
+  edit tab: "Betara"
   edit section: "Betara va %{name} gabot"
+  editing page: "betara va %{name}"
+  summary: "Vildeks:"
+  update: "Giwara"
+  preview: "Abdinedira"
   revision history: "Va \"%{name}\" betarizvot"
+  history tab: "Izvot"
   compare revisions: ""
   pages in category: "Lomolkeem « %{category} »."
 

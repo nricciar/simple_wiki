@@ -1,8 +1,14 @@
 :gv:
   table of contents: "Cummal"
   edit: "Reagh"
+  edit tab: "Reagh"
   edit section: "Reagh y rheynn: %{name}"
+  editing page: "Reaghey %{name}"
+  summary: "Giare-choontey:"
+  update: "Sauail y duillag"
+  preview: "Roie-haishbynys"
   revision history: "Shennaghys aavriwnys dy \"%{name}\""
+  history tab: "Shennaghys"
   compare revisions: ""
   pages in category: "Duillagyn \'sy ronney \"%{category}\""
 

@@ -1,8 +1,14 @@
 :ps:
   table of contents: "نيوليک"
   edit: "سمول"
+  edit tab: "سمول"
   edit section: "د سمولو برخه: %{name}"
+  editing page: "د %{name} سمونه"
+  summary: "لنډيز:"
+  update: "مخ خوندي کول"
+  preview: "مخليدنه"
   revision history: "د \"%{name}\" د پېښليک بڼه"
+  history tab: "پېښليک"
   compare revisions: "د مخ بڼې سره پرتلل"
   pages in category: "د \"%{category}\" په وېشنيزه کې شته مخونه"
 

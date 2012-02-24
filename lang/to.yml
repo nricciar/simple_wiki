@@ -1,8 +1,14 @@
 :to:
   table of contents: "Kakano"
   edit: "Fatu"
+  edit tab: "Fatu"
   edit section: "Fatuʻi vahe: %{name}"
+  editing page: "ʻOku fatuʻi %{name}"
+  summary: "Fakanounou:"
+  update: "Haofaki e pēsí"
+  preview: "Vakai pē"
   revision history: ""
+  history tab: "Hisitōlia"
   compare revisions: ""
   pages in category: "Ngaahi kupu ʻi he faʻahinga \"%{category}\""
 

@@ -1,8 +1,14 @@
 :rgn:
   table of contents: "Indice"
   edit: "Mudèfica"
+  edit tab: "Mudèfica"
   edit section: "Mudèfica la seziòn: %{name}"
+  editing page: "Cambiamént de %{name}"
+  summary: "Mutiv d\'e\' cambiamént:"
+  update: "Regèstra e\' tu scrètt"
+  preview: "Guèrda prèma"
   revision history: "Elench d\'j cambiamént sora \"%{name}\""
+  history tab: "Stória"
   compare revisions: ""
   pages in category: "Articul int la categurèja \"%{category}\""
 

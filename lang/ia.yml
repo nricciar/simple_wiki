@@ -1,8 +1,14 @@
 :ia:
   table of contents: "Contento"
   edit: "Modificar"
+  edit tab: "Modificar"
   edit section: "Modificar section: %{name}"
+  editing page: "Modification de %{name}"
+  summary: "Summario:"
+  update: "Publicar pagina"
+  preview: "Previsualisation"
   revision history: "Historia de versiones de \"%{name}\""
+  history tab: "Historia"
   compare revisions: "Comparar versiones de pagina"
   pages in category: "Articulos in le categoria \"%{category}\""
 

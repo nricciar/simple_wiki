@@ -1,8 +1,14 @@
 :ary:
   table of contents: "L-Meḍmon"
   edit: "Ṣayeb"
+  edit tab: "Ṣayeb"
   edit section: "Ṣayeb s-séksyon : %{name}"
+  editing page: "Ṫ-Ṫeĝdil dyal %{name}"
+  summary: "Moleĥĥaṣ:"
+  update: "Ċejjel ṣ-ṣefḫa"
+  preview: "L-Prévizualizasyon"
   revision history: "Ṫ-Ṫariĥ dyal lé-vérsyon dyal \"%{name}\""
+  history tab: "Historik"
   compare revisions: "qarn morajaat sfha"
   pages in category: "ṣ-ṣefḫaṫ fe l-katégori \"%{category}\""
 

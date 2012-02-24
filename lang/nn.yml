@@ -1,8 +1,14 @@
 :nn:
   table of contents: "Innhaldsliste"
   edit: "Endre"
+  edit tab: "Endre"
   edit section: "Endre bolk: %{name}"
+  editing page: "Endrar %{name}"
+  summary: "Samandrag:"
+  update: "Lagre"
+  preview: "Førehandsvising"
   revision history: "Historikken til «%{name}»"
+  history tab: "Historikk"
   compare revisions: "Samanlikn sideversjonar"
   pages in category: "Artiklar i kategorien «%{category}»"
 

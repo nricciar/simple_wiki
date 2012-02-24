@@ -1,8 +1,14 @@
 :kn:
   table of contents: "ಪರಿವಿಡಿ"
   edit: "ಸಂಪಾದಿಸಿ"
+  edit tab: "ಸಂಪಾದಿಸಿ"
   edit section: "%{name} ವಿಭಾಗ ಸಂಪಾದಿಸಿ"
+  editing page: "\'%{name}\' ಲೇಖನ ಬದಲಾಯಿಸಲಾಗುತ್ತಿದೆ"
+  summary: "ಸಾರಾಂಶ:"
+  update: "ಪುಟವನ್ನು ಉಳಿಸಿ"
+  preview: "ಮುನ್ನೋಟ"
   revision history: "\"%{name}\" ಪುಟದ ಬದಲಾವಣೆಗಳ ಇತಿಹಾಸ"
+  history tab: "ಇತಿಹಾಸ"
   compare revisions: ""
   pages in category: "\"%{category}\" ವರ್ಗದಲ್ಲಿರುವ ಲೇಖನಗಳು"
 

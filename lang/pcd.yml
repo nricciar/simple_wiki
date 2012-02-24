@@ -1,8 +1,14 @@
 :pcd:
   table of contents: "Étnus"
   edit: "Éditer"
+  edit tab: "Éditer"
   edit section: "Éditer el sekchon: %{name}"
+  editing page: "Éditer %{name}"
+  summary: "Résumè:"
+  update: "Seuver l\'pache"
+  preview: "Prévir"
   revision history: "Histoère des cangemints éd \"%{name}\""
+  history tab: "Histoère"
   compare revisions: ""
   pages in category: "Paches in catégorie \"%{category}\""
 

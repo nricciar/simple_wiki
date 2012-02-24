@@ -1,8 +1,14 @@
 :anp:
   table of contents: "विषय सूची"
   edit: "संपादन"
+  edit tab: "संपादन"
   edit section: "विभाग संपादन: %{name}"
+  editing page: "%{name} केरॊ सम्पादन चली रहलॊ छै."
+  summary: "सारांश:"
+  update: "पन्ना सँजोवॊ"
+  preview: "पूर्वावलोकन"
   revision history: "\"%{name}\" के अवतरण इतिहास"
+  history tab: "इतिहास"
   compare revisions: ""
   pages in category: "\"%{category}\" श्रेणी में लेख"
 

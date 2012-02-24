@@ -1,8 +1,14 @@
 :vep:
   table of contents: "Südäiolend"
   edit: "Redaktiruida"
+  edit tab: "Redaktiruida"
   edit section: "Redaktiruida jaguz %{name}"
+  editing page: "%{name}-lehtpolen redaktiruind"
+  summary: "Toižetusiden ümbrikacund:"
+  update: "Kirjutada lehtpol\' muštho"
+  preview: "Ezikacund"
   revision history: "\"%{name}\"-lehtpolen toižetusiden istorii"
+  history tab: "Istorii"
   compare revisions: "Lehtpoliden versijoiden rindatuz"
   pages in category: "Lehtpoled \"%{category}\"-kategorijas"
 

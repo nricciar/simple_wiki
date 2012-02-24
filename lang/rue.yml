@@ -1,8 +1,14 @@
 :rue:
   table of contents: "Обсяг"
   edit: "Едітовати"
+  edit tab: "Едітовати"
   edit section: "Едітовати секцію: %{name}"
+  editing page: "Едітованя %{name}"
+  summary: "Куртый опис змін:"
+  update: "Уложыти сторінку"
+  preview: "Нагляд"
   revision history: "Історія змін сторінкы «%{name}»"
+  history tab: "Історія"
   compare revisions: "Порівнаня ревізій сторінок"
   pages in category: "Сторінкы в катеґорії «%{category}»"
 

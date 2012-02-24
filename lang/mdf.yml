@@ -1,8 +1,14 @@
 :mdf:
   table of contents: "Лопань потмоц"
   edit: "Петнеме"
+  edit tab: "Петнеме"
   edit section: "Петемс пялькс: %{name}"
+  editing page: "Петнемс %{name}"
+  summary: "Нюрьхкяня лихтема:"
+  update: "Ванфтомс лопать"
+  preview: "Васень няфтема"
   revision history: "\"%{name}\"-нь верзиетнень историясна"
+  history tab: "Ётай полафнемат"
   compare revisions: ""
   pages in category: "\"%{category}\" категориеса лопатне"
 

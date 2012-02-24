@@ -1,8 +1,14 @@
 :arc:
   table of contents: "ܚܒܝܫܬ̈ܐ"
   edit: "ܫܚܠܦ"
+  edit tab: "ܫܚܠܦ"
   edit section: "ܫܚܠܦ ܡܢܬܐ: %{name}"
+  editing page: "ܫܚܠܦܬܐ ܕ %{name}"
+  summary: "ܦܣܝܩܬ̈ܐ ܕܫܘܚܠܦܐ:"
+  update: "ܠܒܘܟ ܕܦܐ"
+  preview: "ܚܝܪܐ ܩܕܡܝܐ"
   revision history: "ܬܫܥܝܬܐ ܕܬܢܝܬܐ ܕ \"%{name}\""
+  history tab: "ܬܫܥܝܬܐ"
   compare revisions: ""
   pages in category: "ܦܐܬܬ̈ܐ ܒܣܕܪܐ ܕ \"%{category}\""
 

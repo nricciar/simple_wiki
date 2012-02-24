@@ -1,8 +1,14 @@
 :cps:
   table of contents: "Ka-undan"
   edit: "Liwaton"
+  edit tab: "Liwaton"
   edit section: "Liwaton mining bahin: %{name}"
+  editing page: "Gina-islan ang %{name}"
+  summary: "Kabilugan:"
+  update: "I-save mining mga pahina"
+  preview: "Prebyu"
   revision history: "Kasaysayan sang pagbag-o sang \"%{name}\""
+  history tab: "Kasaysayan"
   compare revisions: ""
   pages in category: "Mga pahina sa kategorya nga \"%{category}\""
 

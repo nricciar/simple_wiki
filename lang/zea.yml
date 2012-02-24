@@ -1,8 +1,14 @@
 :zea:
   table of contents: "In\'oud"
   edit: "Bewerken"
+  edit tab: "Bewerken"
   edit section: "Deêlpahina bewerken: %{name}"
+  editing page: "Bezig mie bewerken van %{name}"
+  summary: "Saemenvatting:"
+  update: "Bewaer bladzie"
+  preview: "Naekieken"
   revision history: "Heschiedenisse van \"%{name}\""
+  history tab: "Geschiedenisse"
   compare revisions: ""
   pages in category: "Artikels in categorie \"%{category}\""
 

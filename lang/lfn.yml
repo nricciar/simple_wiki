@@ -1,8 +1,14 @@
 :lfn:
   table of contents: "Contenida"
   edit: "Cambia"
+  edit tab: "Cambia"
   edit section: "Edita sesion: %{name}"
+  editing page: "En la prosede de edita %{name}"
+  summary: "Soma:"
+  update: "Fisa paje"
+  preview: "Previde"
   revision history: "Istoria de cambias de \"%{name}\""
+  history tab: "Istoria"
   compare revisions: ""
   pages in category: "Articles en categoria \"%{category}\""
 

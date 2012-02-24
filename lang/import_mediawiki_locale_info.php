@@ -25,8 +25,14 @@
         $doc .= ":".strtolower($matches[1]).":\n";
         $doc .= "  table of contents: \"" . addslashes($messages['toc']) . "\"\n";
         $doc .= "  edit: \"" . addslashes($messages['edit']) . "\"\n";
+        $doc .= "  edit tab: \"" . addslashes($messages['edit']) . "\"\n";
         $doc .= "  edit section: \"" . addslashes(str_replace("$1","%{name}",$messages['editsectionhint'])) . "\"\n";
+        $doc .= "  editing page: \"" . addslashes(str_replace("$1","%{name}",$messages['editing'])) . "\"\n";
+        $doc .= "  summary: \"" . addslashes($messages['summary']) . "\"\n";
+        $doc .= "  update: \"" . addslashes($messages['savearticle']) . "\"\n";
+        $doc .= "  preview: \"" . addslashes($messages['preview']) . "\"\n";
         $doc .= "  revision history: \"" . addslashes(str_replace("$1","%{name}",$messages['history-title'])) . "\"\n";
+        $doc .= "  history tab: \"" . addslashes($messages['history_short']) . "\"\n";
         $doc .= "  compare revisions: \"" . addslashes($messages['compare-selector']) . "\"\n";
         $doc .= "  pages in category: \"" . addslashes(str_replace("$1","%{category}",$messages['category_header'])) . "\"\n\n";
         $doc .= "  namespaces:\n";

@@ -1,8 +1,14 @@
 :bjn:
   table of contents: "Isi"
   edit: "Babak"
+  edit tab: "Babak"
   edit section: "Babak hagian: %{name}"
+  editing page: "Mambabak %{name}"
+  summary: "Kasimpulan:"
+  update: "Simpan tungkaran"
+  preview: "Tilik"
   revision history: "Ralatan halam matan \'\'%{name}\'\'"
+  history tab: "Tungkaran halam"
   compare revisions: "Tanding raralatan tungkaran"
   pages in category: "Tutungkaran dalam tumbung \'\'%{category}\'\'"
 

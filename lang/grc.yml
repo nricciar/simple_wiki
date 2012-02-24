@@ -1,8 +1,14 @@
 :grc:
   table of contents: "Περιεχόμενα"
   edit: "Μεταγράφειν"
+  edit tab: "Μεταγράφειν"
   edit section: "Μεταγράφειν τὸ μέρος: %{name}"
+  editing page: "Μεταγράφειν %{name}"
+  summary: "Σύνοψις:"
+  update: "Γράφειν τὴν δέλτον"
+  preview: "Τὸ προεπισκοπεῖν"
   revision history: "Αἱ πρότεραι ἐκδόσεις τῆς δέλτου \"%{name}\""
+  history tab: "Αἱ πρότεραι"
   compare revisions: ""
   pages in category: "Δέλτοι ἐν τῇ κατηγορίᾳ \"%{category}\""
 

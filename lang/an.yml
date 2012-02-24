@@ -1,8 +1,14 @@
 :an:
   table of contents: "Contenius"
   edit: "Editar"
+  edit tab: "Editar"
   edit section: "Editar a sección: %{name}"
+  editing page: "Editando %{name}"
+  summary: "Resumen:"
+  update: "Alzar pachina"
+  preview: "Previsualización"
   revision history: "Historial de versions de \"%{name}\""
+  history tab: "Historial"
   compare revisions: "Contimparar as versions d\'as pachinas"
   pages in category: "Articlos en a categoría \"%{category}\""
 

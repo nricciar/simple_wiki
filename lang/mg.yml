@@ -1,8 +1,14 @@
 :mg:
   table of contents: "Votoatiny"
   edit: "Ovaina"
+  edit tab: "Ovaina"
   edit section: "Manova ny fizaràna : %{name}"
+  editing page: "Manova an\'i %{name}"
+  summary: "Ambangovangony:"
+  update: "Tehirizo"
+  preview: "Topi-maso"
   revision history: "Tantara ny endrik\'i « %{name} »"
+  history tab: "Tantara"
   compare revisions: "Hampitaha ny santiôm-pejy"
   pages in category: "Ireo lahatsoratra ao amin\'ny sokajy \"%{category}\""
 

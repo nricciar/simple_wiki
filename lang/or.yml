@@ -1,8 +1,14 @@
 :or:
   table of contents: "ଭିତର ଚିଜ"
   edit: "ବଦଳାଇବେ"
+  edit tab: "ବଦଳାଇବେ"
   edit section: "%{name} ଭାଗଟିକୁ ବଦଳାଇବେ"
+  editing page: "%{name} କୁ ବଦଳାଉଛି"
+  summary: "ସାରକଥା:"
+  update: "ସାଇତିବେ"
+  preview: "ସାଇତା ଆଗରୁ ଦେଖଣା"
   revision history: "\"%{name}\" ପାଇଁ ସଙ୍କଳନ ଇତିହାସ"
+  history tab: "ଇତିହାସ"
   compare revisions: "ପୃଷ୍ଠା ସଂସ୍କରଣ ତୁଳନା କରିବେ"
   pages in category: "\"%{category}\" ଶ୍ରେଣୀରେ ଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକ"
 

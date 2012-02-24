@@ -1,8 +1,14 @@
 :lzh:
   table of contents: "章"
   edit: "纂"
+  edit tab: "纂"
   edit section: "纂 %{name}"
+  editing page: "纂%{name}"
+  summary: "概:"
+  update: "存儲"
+  preview: "草覽"
   revision history: "%{name}之誌"
+  history tab: "誌"
   compare revisions: "較頁之審"
   pages in category: "「%{category}」中之頁"
 

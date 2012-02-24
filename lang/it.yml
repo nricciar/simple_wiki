@@ -1,8 +1,14 @@
 :it:
   table of contents: "Indice"
   edit: "Modifica"
+  edit tab: "Modifica"
   edit section: "Modifica la sezione %{name}"
+  editing page: "Modifica di %{name}"
+  summary: "Oggetto:"
+  update: "Salva la pagina"
+  preview: "Anteprima"
   revision history: "Cronologia delle modifiche di \"%{name}\""
+  history tab: "Cronologia"
   compare revisions: "Confronta le revisioni di una pagina"
   pages in category: "Pagine nella categoria \"%{category}\""
 

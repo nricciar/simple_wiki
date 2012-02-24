@@ -1,8 +1,14 @@
 :nds_nl:
   table of contents: "Onderwarpen"
   edit: "Bewarken"
+  edit tab: "Bewarken"
   edit section: "Bewarkingsveld: %{name}"
+  editing page: "Bewark: %{name}"
+  summary: "Samenvatting:"
+  update: "Pagina opslaon"
+  preview: "Naokieken"
   revision history: "Geschiedenisse van \"%{name}\""
+  history tab: "Geschiedenisse"
   compare revisions: "Paginaversies vergelieken"
   pages in category: "Artikels in kategorie %{category}"
 

@@ -1,8 +1,14 @@
 :sdc:
   table of contents: "Indizi"
   edit: "Mudifigga"
+  edit tab: "Mudifigga"
   edit section: "Mudìfigga la sezzioni %{name}"
+  editing page: "Mudifigga di %{name}"
+  summary: "Oggettu:"
+  update: "Saivva la pagina"
+  preview: "Antiprimma"
   revision history: "Cronologia di li mudìfigghi di \"%{name}\""
+  history tab: "Cronologia"
   compare revisions: ""
   pages in category: "Pàgini i\' la categuria \"%{category}\""
 

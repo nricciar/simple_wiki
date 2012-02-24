@@ -1,8 +1,14 @@
 :aln:
   table of contents: "Përmbajtja"
   edit: "Redakto"
+  edit tab: "Redakto"
   edit section: "Redakto sekcionin: %{name}"
+  editing page: "Tue redaktue %{name}"
+  summary: "Përmbledhje:"
+  update: "Regjistro faqen"
+  preview: "Parapâmje"
   revision history: "Historiku i redaktimeve për \"%{name}\""
+  history tab: "Të përparshmet"
   compare revisions: ""
   pages in category: "Artikuj në kategorinë \"%{category}\""
 

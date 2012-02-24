@@ -1,8 +1,14 @@
 :qu:
   table of contents: "Yuyarina"
   edit: "qillqay"
+  edit tab: "qillqay"
   edit section: "Allichay rakita: %{name}"
+  editing page: "Llamk\'apuspa: %{name}"
+  summary: "Pisichay:"
+  update: "P\'anqata waqaychay"
+  preview: "Manaraq waqaychaspa qhawariy"
   revision history: "\"%{name}\" p\'anqata hukchasqakunap wiñay kawsaynin"
+  history tab: "Wiñay kawsay"
   compare revisions: "Musuqchasqakunata wakichay"
   pages in category: "\"%{category}\" sutiyuq katiguriyapi qillqakuna"
 

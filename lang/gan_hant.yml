@@ -1,8 +1,14 @@
 :gan_hant:
   table of contents: "目錄"
   edit: "編寫"
+  edit tab: "編寫"
   edit section: "編寫段落：%{name}"
+  editing page: "編輯嘚「%{name}」"
+  summary: "摘要:"
+  update: "存到著"
+  preview: "預覽"
   revision history: "歷史版本嗰 \"%{name}\""
+  history tab: "歷史"
   compare revisions: ""
   pages in category: "「%{category}」分類裡頭嗰文章"
 

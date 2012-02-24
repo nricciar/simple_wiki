@@ -1,8 +1,14 @@
 :pdt:
   table of contents: "Enhault"
   edit: "Endre"
+  edit tab: "Endre"
   edit section: "Aufschnett beoabeide: %{name}"
+  editing page: ""
+  summary: "Toofotinj:"
+  update: "Sied bewoare"
+  preview: "Preview"
   revision history: ""
+  history tab: "Jeschicht"
   compare revisions: ""
   pages in category: "Siede in Kategorie \"%{category}\""
 

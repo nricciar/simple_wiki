@@ -1,8 +1,14 @@
 :bo:
   table of contents: "ཟུར་མཆན།"
   edit: "རྩོམ་སྒྲིག"
+  edit tab: "རྩོམ་སྒྲིག"
   edit section: "རྩོམ་སྒྲིག་སྡེ་ཚན།%{name}"
+  editing page: "%{name}རྩོམ་སྒྲིག་བྱེད་བཞིན་པ།"
+  summary: "བསྡུས་དོན།:"
+  update: "ཤོག་ངོས་ཉར་བ།"
+  preview: "སྔོན་ལྟ།"
   revision history: ""
+  history tab: "ལོ་རྒྱུས།"
   compare revisions: ""
   pages in category: "\"%{category}\"ནང་་གི་ཤོག་ངོས།"
 

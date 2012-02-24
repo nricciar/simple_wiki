@@ -1,8 +1,14 @@
 :as:
   table of contents: "সূচী"
   edit: "সম্পাদনা"
+  edit tab: "সম্পাদনা"
   edit section: "%{name} খণ্ডৰ সম্পাদনা"
+  editing page: "%{name} সম্পাদনা"
+  summary: "সাৰাংশ:"
+  update: "পৃষ্ঠা সাঁচক"
+  preview: "খচৰা"
   revision history: "\"%{name}\" ৰ সাল-সলনিৰ ইতিহাস"
+  history tab: "খতিয়ান"
   compare revisions: "পৃষ্ঠা পুনৰীক্ষন তুলনা কৰক"
   pages in category: "\"%{category}\" শ্ৰেণীৰ পৃষ্ঠাসমূহ"
 

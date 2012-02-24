@@ -1,8 +1,14 @@
 :be:
   table of contents: "Змест"
   edit: "Правіць"
+  edit tab: "Правіць"
   edit section: "Правіць раздзел: %{name}"
+  editing page: "Правім: %{name}"
+  summary: "Тлумачэнне:"
+  update: "Запісаць"
+  preview: "Перадпаказ"
   revision history: "Гісторыя версій \"%{name}\""
+  history tab: "гісторыя"
   compare revisions: "Параўнанне версій старонкі"
   pages in category: "Складнікі ў катэгорыі “%{category}”"
 

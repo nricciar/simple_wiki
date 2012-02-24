@@ -1,8 +1,14 @@
 :io:
   table of contents: "Indexo"
   edit: "Redaktar"
+  edit tab: "Redaktar"
   edit section: "Redaktar seciono: %{name}"
+  editing page: "Vu redaktas %{name}"
+  summary: "Rezumo:"
+  update: "Registragar pagino"
+  preview: "Previdar"
   revision history: "Versionaro di \"%{name}\""
+  history tab: "Versionaro"
   compare revisions: ""
   pages in category: "Artikli en kategorio \"%{category}\""
 

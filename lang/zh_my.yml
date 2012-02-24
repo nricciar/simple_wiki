@@ -1,8 +1,14 @@
 :zh_my:
   table of contents: "Bab lan paragraf"
   edit: "Sunting"
+  edit tab: "Sunting"
   edit section: "Sunting bagian: %{name}"
+  editing page: "Nyunting %{name}"
+  summary: "Ringkesan:"
+  update: "Simpen kaca"
+  preview: "Pratayang"
   revision history: "Sajarah revisi saka \"%{name}\""
+  history tab: "Vèrsi lawas"
   compare revisions: "Bandhingna révisi kaca"
   pages in category: "Artikel ing kategori \"%{category}\""
 

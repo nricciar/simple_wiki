@@ -1,8 +1,14 @@
 :rif:
   table of contents: "Iktturn"
   edit: "Ẓṛeg"
+  edit tab: "Ẓṛeg"
   edit section: "Ẓṛeg tigezmi: %{name}"
+  editing page: "Aẓṛag di %{name}"
+  summary: "Tagḍwit:"
+  update: "Xmml tasna"
+  preview: "Azar-ascan"
   revision history: "Amezruy n ufegged n \"%{name}\""
+  history tab: "Amezruy"
   compare revisions: ""
   pages in category: "Tasniwin di taggayt \"%{category}\""
 

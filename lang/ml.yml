@@ -1,8 +1,14 @@
 :ml:
   table of contents: "ഉള്ളടക്കം"
   edit: "തിരുത്തുക"
+  edit tab: "തിരുത്തുക"
   edit section: "ഉപവിഭാഗം തിരുത്തുക: %{name}"
+  editing page: "തിരുത്തുന്ന താൾ: %{name}"
+  summary: "ചുരുക്കം:"
+  update: "താൾ സേവ് ചെയ്യുക"
+  preview: "എങ്ങനെയുണ്ടെന്നു കാണുക"
   revision history: "\"%{name}\" എന്ന താളിന്റെ നാൾവഴി"
+  history tab: "നാൾവഴി"
   compare revisions: "താളിന്റെ നാൾപ്പതിപ്പുകൾ താരതമ്യപ്പെടുത്തുക"
   pages in category: "\"%{category}\" എന്ന വർഗ്ഗത്തിലെ താളുകൾ"
 

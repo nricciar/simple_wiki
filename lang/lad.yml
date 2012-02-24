@@ -1,8 +1,14 @@
 :lad:
   table of contents: "Contènidos"
   edit: "Trocar"
+  edit tab: "Trocar"
   edit section: "Troca el capítůlo: %{name}"
+  editing page: "Trocando %{name}"
+  summary: "Resumido:"
+  update: "Enrejistra la hoja"
+  preview: "Previsualizar"
   revision history: "Istoria de revisiones para «%{name}»"
+  history tab: "Îstoria"
   compare revisions: ""
   pages in category: "Artícůlos en la katēggoría \"%{category}\""
 

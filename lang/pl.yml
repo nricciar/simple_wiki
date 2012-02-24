@@ -1,8 +1,14 @@
 :pl:
   table of contents: "Spis treści"
   edit: "Edytuj"
+  edit tab: "Edytuj"
   edit section: "Edytuj sekcję: %{name}"
+  editing page: "Edytujesz „%{name}”"
+  summary: "Opis zmian "
+  update: "Zapisz"
+  preview: "Podgląd"
   revision history: "Historia edycji „%{name}”"
+  history tab: "Historia i autorzy"
   compare revisions: "Porównanie wersji stron"
   pages in category: "Strony w kategorii „%{category}”"
 

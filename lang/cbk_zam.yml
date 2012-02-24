@@ -1,8 +1,14 @@
 :cbk_zam:
   table of contents: ""
   edit: "Revisa"
+  edit tab: "Revisa"
   edit section: "Revisa el seccion: %{name}"
+  editing page: ""
+  summary: ""
+  update: ""
+  preview: ""
   revision history: ""
+  history tab: "Historia"
   compare revisions: ""
   pages in category: "Maga articulo na categoria \"%{category}\""
 

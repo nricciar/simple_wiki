@@ -1,8 +1,14 @@
 :zh_hans:
   table of contents: "目录"
   edit: "编辑"
+  edit tab: "编辑"
   edit section: "编辑段落：%{name}"
+  editing page: "编辑“%{name}”"
+  summary: "摘要："
+  update: "保存本页"
+  preview: "预览"
   revision history: "“%{name}”的版本历史"
+  history tab: "历史"
   compare revisions: "对比页面版本"
   pages in category: "分类“%{category}”中的页面"
 

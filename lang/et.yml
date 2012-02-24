@@ -1,8 +1,14 @@
 :et:
   table of contents: "Sisukord"
   edit: "Redigeeri"
+  edit tab: "Redigeeri"
   edit section: "Redigeeri alaosa %{name}"
+  editing page: "Redigeerimisel on %{name}"
+  summary: "Resümee:"
+  update: "Salvesta"
+  preview: "Eelvaade"
   revision history: "Lehekülje \"%{name}\" muudatuste ajalugu"
+  history tab: "Ajalugu"
   compare revisions: "Lehekülje redaktsioonide kõrvutamine"
   pages in category: "Leheküljed kategoorias \"%{category}\""
 

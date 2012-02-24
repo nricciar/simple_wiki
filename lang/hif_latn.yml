@@ -1,8 +1,14 @@
 :hif_latn:
   table of contents: "vishay suchi"
   edit: "Badlo"
+  edit tab: "Badlo"
   edit section: "Vibhag badlo: %{name}"
+  editing page: "%{name} badlawa jae hai"
+  summary: "Sanchhipt:"
+  update: "Panna ke bachao"
+  preview: "Jhalak dekhao"
   revision history: "\"%{name}\" ke sansodhan ke itihaas"
+  history tab: "Itihaas"
   compare revisions: "Panna ke badlao ke biih me antar dekho"
   pages in category: "\"%{category}\" vibhag ke panna"
 

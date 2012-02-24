@@ -1,8 +1,14 @@
 :da:
   table of contents: "Indholdsfortegnelse"
   edit: "Redigér"
+  edit tab: "Redigér"
   edit section: "Rediger afsnit: %{name}"
+  editing page: "Redigerer %{name}"
+  summary: "Beskrivelse:"
+  update: "Gem side"
+  preview: "Forhåndsvisning"
   revision history: "Versionshistorik for \"%{name}\""
+  history tab: "Historik"
   compare revisions: "Sammenlign sideversioner"
   pages in category: "Sider i kategorien \"%{category}\""
 

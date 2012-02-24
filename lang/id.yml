@@ -1,8 +1,14 @@
 :id:
   table of contents: "Daftar isi"
   edit: "Sunting"
+  edit tab: "Sunting"
   edit section: "Sunting bagian: %{name}"
+  editing page: "Menyunting %{name}"
+  summary: "Ringkasan:"
+  update: "Simpan halaman"
+  preview: "Pratayang"
   revision history: "Riwayat revisi dari \"%{name}\""
+  history tab: "Versi terdahulu"
   compare revisions: "Bandingkan revisi halaman"
   pages in category: "Halaman dalam kategori \"%{category}\""
 
