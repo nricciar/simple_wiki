@@ -3,12 +3,14 @@ require 'parser'
 
 S3::Application.callback :mime_type => 'text/wiki' do
   headers["Content-Type"] = "text/html; charset=UTF-8"
-  p = { "PAGENAME" => @slot.name, "NAMESPACE" => @bucket.name }
+  p = { "PAGENAME" => @slot.name, "NAMESPACE" => WikiCloth::Parser.localise_ns(@bucket.name,:en) }
   headers.each { |k,v| p[$1.upcase.gsub(/\-/,'_')] = v if k =~ /x-amz-(.*)/ }
 
   @wiki = WikiParser.new({
-    :data => response.body.respond_to?(:read) ? response.body.read : response.body.to_s,
-    :params => p
+    :data => params[:preview] ? params[:file] : (response.body.respond_to?(:read) ? response.body.read : response.body.to_s),
+    :params => p,
+    :use_cache => params.has_key?('version-id') || params[:preview] ? false : true,
+    :locale => I18n.locale
   })
 
   if params.has_key?('edit')
@@ -37,9 +39,17 @@ S3::Application.callback :mime_type => 'text/wiki' do
 end
 
 S3::Application.callback :error => 'NoSuchKey' do
-  headers["Content-Type"] = "text/html"
+  headers["Content-Type"] = "text/html; charset=UTF-8"
   if params.has_key?('edit')
     r :edit, I18n.t("edit page")
+  elsif params.has_key?('preview') && params.has_key?('file')
+    if env['PATH_INFO'] =~ /([^\/]+)\/(.*)$/
+      p = { "NAMESPACE" => ($1 == "wiki" ? "" : WikiCloth::Parser.localise_ns($1,:en)), "PAGENAME" => $2.split("/").last.gsub('_',' ') }
+    else
+      p = { "PAGENAME" => "Main Page", "NAMESPACE" => "" }
+    end
+    @wiki = WikiParser.new({ :data => params[:file], :params => p, :use_cache => false, :locale => I18n.locale })
+    r :wiki, p["PAGENAME"]
   else
     r :does_not_exist, I18n.t("page does not exist")
   end
@@ -62,7 +72,7 @@ S3::Application.callback :when => 'before' do
   else
     # update section
     if params[:section] && params[:file]
-      wiki = WikiParser.new({ :data => params[:file] })
+      wiki = WikiParser.new({ :data => params[:file], :params => { } })
       params[:section].each { |k,v| wiki.put_section(k, v) }
       params[:file] = wiki.to_wiki
     end
@@ -71,6 +81,12 @@ S3::Application.callback :when => 'before' do
     if params.any? { |k,v| ["edit","history","diff"].include?(k) }
       env.delete('HTTP_IF_MODIFIED_SINCE')
       env.delete('HTTP_IF_NONE_MATCH')
+    end
+
+    if params[:preview]
+      env.delete('HTTP_IF_MODIFIED_SINCE')
+      env.delete('HTTP_IF_NONE_MATCH')
+      env["REQUEST_METHOD"] = "GET"
     end
 
     auth = Rack::Auth::Basic::Request.new(env)
@@ -96,7 +112,7 @@ class S3::Application < Sinatra::Base; enable :inline_templates; end
 __END__
 
 @@ layout
-%html
+%html{ :dir => "ltr" }
   %head
     %title #{@title}
     %style{:type => "text/css"} @import '/control/s/css/control.css';
@@ -149,23 +165,24 @@ __END__
   ?
 
 @@ edit
-%h2 #{@slot.nil? ? I18n.t("edit page") : I18n.t("editing page", :name => @slot.name.gsub(/_/,' '))}
+%h2 #{@slot.nil? ? I18n.t("edit page") : I18n.t("editing page", :name => @wiki.full_page_name.gsub(/_/,' '))}
 %form#edit_page_form.create{ :method => "POST", :action => env['PATH_INFO'] }
   %input{ :type => "hidden", :name => "redirect", :value => env['PATH_INFO'] }
   %input{ :type => "hidden", :name => "Content-Type", :value => "text/wiki" }
   %div.required
-    %label{ :for => "page_contents" }= I18n.t("contents") + ":"
-    - if params.has_key?('section')
-      %textarea{ :name => "section[#{params[:section]}]", :id => "page_contents", :style => "width:100%;height:20em" }
-        = preserve @wiki.get_section(params[:section]).gsub(/&/,'&amp;')
+    %label{ :for => "page_contents" }= I18n.t("contents")
+    - if !params["edit"].blank?
+      %textarea{ :name => "section[#{params[:edit]}]", :id => "page_contents", :style => "width:100%;height:20em" }
+        = preserve @wiki.get_section(params[:edit]).gsub(/&/,'&amp;')
       %input{ :type => "hidden", :name => "file", :value => @wiki.to_wiki }
     - else
       %textarea{ :name => "file", :id => "page_contents", :style => "width:100%;height:20em" }
         = preserve @wiki.nil? ? "" : @wiki.to_wiki.gsub(/&/,'&amp;')
   %div.required
-    %label{ :for => "page_comment" }= I18n.t("comment") + ":"
-    %input{ :type => "text", :name => "x-amz-meta-comment", :id => "page_comment" }
-  %input{ :type => "submit", :value => I18n.t("update") }
+    %label{ :for => "page_summary" }= I18n.t("summary")
+    %input{ :type => "text", :name => "x-amz-meta-comment", :id => "page_summary" }
+  %input{ :type => "submit", :value => I18n.t("update"), :onclick => "this.form.target='_self';return true;" }
+  %input{ :type => "submit", :value => I18n.t("preview"), :name => "preview", :onclick => "this.form.target='_blank';return true;" }
 - @wiki.to_html( :blahtex_png_path => File.join(File.dirname(__FILE__),'public/math') ) unless @wiki.nil?
 - unless @wiki.nil? || @wiki.included_templates.empty?
   %h3= I18n.t("resources")

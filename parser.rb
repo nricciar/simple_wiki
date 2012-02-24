@@ -9,10 +9,10 @@ require 'wikicloth/extensions/capture'
 class WikiParser < WikiCloth::Parser
 
   def initialize(options={})
-    @options = { :params => { "NAMESPACE" => "" } }.merge(options)
+    @options = { :params => { "NAMESPACE" => "" }, :use_cache => true }.merge(options)
     @bucket = Bucket.find_root(options[:params]['NAMESPACE'].blank? ? "wiki" : options[:params]['NAMESPACE'].downcase)
 
-    unless options[:params]['PAGENAME'].nil?
+    unless @options[:params]['PAGENAME'].nil? || @options[:use_cache] == false
       tmp = {}
       # retreive all cache fragments for page
       TemplateCache.find(:all, :conditions => ['page_name = ?', full_page_name]).each do |item|
@@ -23,6 +23,7 @@ class WikiParser < WikiCloth::Parser
       options[:cache] = tmp
     end
 
+    @options[:params]['NAMESPACE'] = WikiCloth::Parser.localise_ns(@options[:params]['NAMESPACE'])
     super(options)
   end
 
@@ -71,7 +72,7 @@ class WikiParser < WikiCloth::Parser
   end
 
   section_link do |section|
-    "?edit&section=#{section}"
+    "?edit=#{section}"
   end
 
   url_for do |page|
